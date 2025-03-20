@@ -1,0 +1,1552 @@
+Received: 4 January 2023 |Revised: 18 July 2023 |Accepted: 23 August 2023
+DOI: 10.1111/1468-5973.12499
+ORIGINAL ARTICLE
+A systematic review of the use of mobile alerting to inform
+the public about emergencies and the factors thatinfluence the public response
+Fiona Mowbray1,2|Freya Mills3,4|Charles Symons3|Richard Amlôt1,3|
+G. James Rubin1
+1National Institute of Health Research Health
+Protection Research Unit in Emergency
+Preparedness and Response at King's College
+London in partnership with the UK Health
+Security Agency, London, UK
+2Nuffield Department of Primary Care Health
+Sciences, Radcliffe Observatory Quarter,University of Oxford, Oxford, UK
+3UK Health Security Agency, Behavioural
+Science and Insights Unit, Science Group,
+Porton Down, Salisbury, UK
+4School of Psychology, University of Sussex,
+Falmer, Brighton, UK
+Correspondence
+Fiona Mowbray, University of Oxford, Oxford,
+UK.
+Email: fiona.mowbray@phc.ox.ac.uk
+Funding information
+National Institute for Health Research HealthProtection Research UnitAbstract
+During an emergency, it is necessary to quickly disseminate messages to the public.
+These communications often provide information about the emergency as well as
+guidance or advice aimed at ensuring the safety of the population. Successful
+emergency communication depends upon how rapidly and reliably a message can be
+disseminated, but also on how people respond to the message that they receive. To
+assist emergency planners tasked with developing message sets for future incidents,in this paper we report a systematic review of all studies that assessed the impact of
+mobile telephone alerting systems on intended and actual behaviour, to identify
+factors that affect their likely impact. We searched multiple databases and conferred
+with topic experts, resulting in a total of 22 studies which met the inclusion criteria.
+Our results indicate that limited data exist on how people respond to text ‐based
+warning messages and that much of the data is poor quality, indicating a need for
+more real ‐world studies.
+KEYWORDS
+emergency alerts, mobile alerting, notification system, SMS messaging
+1|INTRODUCTION
+Major incidents and emergencies require a prompt public response to
+reduce adverse outcomes. Providing fast, effective public communi-
+cation about an emergency and how people should respond can be
+essential to saving lives and reducing negative impacts on apopulation (Rubin et al., 2012 ). To achieve this, official agencies
+have tested multiple ways of rapidly warning people of emergencies.
+Several techniques such as the use of sirens, alarms and landline
+telephones have been in existence for many years and can beeffective, but the amount of information that they can provide topeople is limited (Fakhruddin & Chivakidakarn, 2014 ). More recently,
+the proliferation of mobile phones has provided a quick and reliable
+way to disseminate more detailed advice, using cell broadcasting totarget messages to all phones within a specific location (Bean et al.,
+2016 ). The use of mobile phone networks in this way has been
+beneficial but poses new challenges to understand and overcome. Inparticular, the development and deployment of text ‐based warning
+systems in recent years has outpaced research into the effectiveness
+and potential limitations of the alert messages that they convey (Bean
+et al., 2015 ; Gutteling et al., 2018 ; Wood et al., 2015 ). While the
+speed with which messages are delivered to the public is crucial in an
+J. Contingencies Crisis Manag . 2024;32:e12499. wileyonlinelibrary.com/journal/jccm |1o f2 7
+https://doi.org/10.1111/1468-5973.12499This is an open access article under the terms of the Creative Commons Attribution ‐NonCommercial ‐NoDerivs License, which permits use and distribution in any
+medium, provided the original work is properly cited, the use is non ‐commercial and no modifications or adaptations are made.
+© 2023 The Authors. Journal of Contingencies and Crisis Management published by John Wiley & Sons Ltd.
+emergency, the success of the messaging is also determined by
+whether and how people act on the information that they receive(Lee et al., 2013 ; Sutton et al., 2014 ).
+To make messages as effective as possible in guiding people to
+take action, we need to understand numerous factors. What, forexample, is the best wording for each message? How many messages
+should be sent in an incident? Are there specific criteria for what type
+of incidents should trigger a message? These are empirical questions,for which evidence is required.
+While some previous review work has investigated public alert
+and warning systems, these have generally focussed on American
+studies and have not solely investigated the impact of text ‐based
+emergency alert messages on behaviour (Kuligowski & Doermann,
+2018 ; National Academies of Sciences, Engineering, and Medicine,
+2018 ; Sadiq et al., 2022 ). The current review is therefore unique, in
+that it looks solely at the impact of emergency alert messages on
+behaviour and includes studies regardless of geographic location. To
+assist emergency planners tasked with developing message sets forfuture incidents, in this paper we report a systematic review of all
+studies that assessed the impact of location ‐specific, text ‐based
+mobile emergency alert messages on intended and actual behaviour,to identify factors that affect their likely impact.
+2|METHODS
+2.1 |Search strategies
+We searched the following electronic databases from inception to
+14th March 2022: Medline, Embase, PsycInfo, Publons and Scopus.
+Databases were searched for articles containing MeSH terms orkeywords relating to mobile alerting (e.g., ‘notification system ’,
+‘mobile alert ’,‘public messaging ’), text messages (e.g., ‘SMS message ’,
+‘text message ’) and a type of emergency event (e.g., ‘chemical spill ’,
+‘tornado ’,‘swine flu ’,‘shooting ’). Full details of our searches are
+available in Supporting Information Material. Reference sections of
+any pertinent studies and reviews were also examined for further
+potential references.
+2.2 |Inclusion criteria
+This review included studies if they were published in English (no
+date restrictions), contained original research, related to an emer-gency (e.g., natural hazards, infectious disease outbreak, terrorism),studied the use of a location ‐specific mobile telephone alerting
+system and included a direct measure of actual behaviour, or a direct
+measure of how people report that they would behave in either a realor hypothetical situation involving the alerting system. Both qualita-
+tive and quantitative studies were included. There are many studies
+which investigate things such as the percentage of phones thatreceive an alert, but do not delve into the actual behavioural
+response of the recipient. In this review we looked only at thosestudies that directly investigated how people responded to either
+actual or hypothetical messages. Also excluded were those whichlooked at emergency alerts via social media or any medium other
+than text ‐based mobile messages as responses to these information
+channels may differ (Schultz et al., 2011 ). We also excluded studies
+that contained only location data (e.g., from mobile phone data),
+measuring where in space people were located rather than what they
+were doing, as this data is not a direct measure of either intended oractual behaviour. We also excluded studies that used crowd densitymeasurements where social distancing within the crowd could not be
+determined. Studies were also excluded if multiple types of
+messaging channel were used and results not separated accordingto type.
+2.3 |Study selection
+All titles and abstracts were screened by the first author using
+Endnote software to identify potentially eligible studies and record
+decisions. A subset of 500 titles and abstracts were additionally
+screened by a second reviewer (the second author) to ensure that theinclusion criteria were applied consistently and accurately. Full textswere then screened by the first author and shared with the last
+author to resolve any uncertainties through discussion. A list of
+related literature has been included in Supporting Information:Appendix 1, which details reasons for exclusion from the review.
+2.4 |Data extraction and risk of bias
+The first author extracted data from all the included studies using a
+narrative synthesis approach. This method is an established way ofusing text to collate study findings in mixed systematic reviews
+where a meta ‐analysis is not appropriate due to methodological and
+statistical variability (Campbell et al., 2018 ). Study and participant
+characteristics were noted, including study design, study populations,
+sample size, type of emergency, mobile alert details and behavioural
+outcomes.
+Studies were assessed for quality using the Mixed Methods
+Appraisal Tool (MMAT), which is designed to appraise the methodo-
+logical quality of qualitative research, randomised controlled trials,nonrandomised studies, quantitative descriptive studies, and mixed
+methods studies (Hong et al., 2019 ).
+3|RESULTS
+3.1 |Search results
+In total, 5703 titles or abstracts were identified and examined, from
+which 53 articles were selected as potentially relevant to the review.Of these, 38 were excluded for not studying an emergency alert
+(n= 11), not including a measure of behaviour ( n= 9), focusing solely2o f2 7 |MOWBRAY ET AL.
+ 14685973, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12499 by Be t - University of Mary Washington , Wiley Online Library on [19/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+on evaluating the feasibility of the alert system ( n= 9), not conducting
+original research ( n= 6), being a duplicate record of an already
+included publication ( n= 2), and not being published in English ( n= 1).
+This left a total of 15 studies which met the inclusion criteria (see
+Figure 1PRISMA flowchart). Twenty ‐two studies that were not
+previously included were flagged for inclusion during peer review.
+When assessed, seven were deemed to meet the inclusion criteria,
+bringing the full number of included studies to 22. Of these, four hada qualitative design. The other 18 studies used a variety ofquantitative methods including cross ‐sectional surveys ( n= 7), mixed
+methods ( n= 5), and experimental design ( n= 6). The majority of
+studies were conducted in the United States ( n= 14), but other
+countries included the UK ( n= 3), South Korea ( n= 2), Canada ( n= 1),
+China ( n= 1) and the Netherlands ( n= 1). A variety of behavioural
+responses were measured by the studies, such as sharing ofinformation and following recommended behaviours, either reported
+or intended.
+3.2 |Quality of studies
+The MMAT was used to rate the quality of each study. This tool
+evaluates studies on five dimensions which vary based on studymethodology. To enable more detailed description of risk of bias inthe study, we scored studies out of two on each of the five
+dimensions, resulting in a total score out of 10. To aid interpretation
+of results, studies were rated as poor quality if they scored five orunder; moderate quality if they scored six or seven; and good quality
+if they scored eight or over. Studies had a median score of 7, with a
+range of 4 −9 (Figure 2). Overall, studies were of moderate quality, but
+FIGURE 1 Mixed methods appraisal tool scores by study.MOWBRAY ET AL. |3o f2 7
+ 14685973, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12499 by Be t - University of Mary Washington , Wiley Online Library on [19/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+often lacked detail about aspects such as randomisation procedures,
+confounding variables, or full outcome data.
+3.3 |Qualitative studies
+Table 1provides a summary of the qualitative studies that we
+identified.
+The first study aimed to understand how members of the
+American general public interpret Wireless Emergency Alerts (WEAs)
+and Twitter ‐length messages for a mock improvised nuclear device
+detonation (Bean et al., 2016 ). Participants first took part in a think ‐
+aloud telephone interview where they were asked to read and
+respond to one of four potential alert messages. Two of the messageswere 90 ‐character WEAs and the other two messages were 140 ‐
+character tweets. Subsequent to the interview, all participants took
+part in a focus group where they examined two of the four mock
+messages and discussed their understanding and beliefs about themessages, as well as perceived personal impact and intended
+behavioural responses. Most participants felt that both the WEAs
+and tweets lacked clarity and would have benefited from furtherinformation about the hazard, as well as greater details about the
+protective action to be taken and the specific area that was affected.
+Inclusion of a map helped participants to determine whether thehazard was impacting them specifically and belief in the message was
+influenced by whether participants thought they had opted ‐in to
+receiving alert messages. Overall, about a third of participantsreported the intention to take shelter immediately after receivingthe messages, although the 140 ‐character tweets were perhaps
+slightly better at reducing milling behaviour. This could have been a
+consequence of the longer message, or the way in which it wasworded.
+A study conducted with Canadian university students in 2009,
+focusing on three potential emergency situations which included atornado, a fire or a threatening message towards the university
+(McGee & Gow, 2012 ). Focus group discussions examined howstudents living on campus might respond to an emergency alert about
+one of the three scenarios. In the week before the focus groups,
+participants met with researchers and were given three sealed
+envelopes, each with the text of one SMS message relating to one ofthe emergency scenarios. Several days later they were sent a textmessage by the researchers telling them to open only one of the
+envelopes and read the message inside. Each message provided
+information about the emergency situation and protective behavioursthat participants should engage in (either sheltering in place or
+leaving campus). Participants were asked to write down initial
+thoughts and responses before attending a focus group where theydiscussed their experiences, understanding of the message and their
+intended behavioural responses. Most students felt that the
+emergency alert messages were easy to understand, but expresseduncertainty about how and where to evacuate, particularly inresponse to the unspecified threat. Belief in the messages was high
+as participants were aware that the university had a warning system
+in place, but most students reported that they would confirm theveracity of the message with friends, staff, or other sources before
+acting. The protective behaviours that participants were asked to
+consider were deemed to be feasible, but some participants reportedthat they would employ a ‘wait and see ’approach as they had
+concerns about missing classes or exams.
+A study, conducted with members of the general public in
+America in 2014 aimed to examine how message sense making
+supports individual risk processing and message interpretation
+regarding tsunamis (Sutton & Woods, 2016 ). Participants took part
+in focus groups where they were presented with a tsunami warningmessage. This message was taken from a real tsunami alert, with only
+the date altered to match the focus group. Participants were asked to
+imagine that they were on vacation in an area which has previouslyexperienced tsunamis, when the alert message appeared on their
+phone. Participants tended to make sense of the messages by making
+comparisons to media accounts they had seen of tsunamis, as well asdrawing on personal experiences with other hazard warnings,
+particularly tornadoes. Participants generally expressed belief in theFIGURE 2 PRISMA 2020 flow diagram
+for new systematic reviews which includedsearches of databases and registers only.*Consider, if feasible to do so, reporting thenumber of records identified from eachdatabase or register searched (rather thanthe total number across all databases/registers). **If automation tools were used,indicate how many records were excludedby a human and how many were excludedby automation tools. From : Page et al.
+(2021 ). For more information, visit: http://
+www.prisma-statement.org/ .4o f2 7 |MOWBRAY ET AL.
+ 14685973, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12499 by Be t - University of Mary Washington , Wiley Online Library on [19/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+TABLE 1 Characteristics of mobile alerting studies using qualitative methodology.
+ReferenceType of
+emergencyDate(s) of
+data
+collection Design, sample and country Details of mobile alerts used Data collection procedureOutcomes examined and effect of
+intervention (significant effects in bold,no significant effect unless stated,
+effect sizes given for significant effects
+where known)
+Bean
+et al.(2016 )Nuclear device
+detonationNot stated Four focus groups and 31
+think aloud interviews;31 participants (allparticipants completed
+an interview and a focus
+group); USATwo 90 ‐character WEA
+messages, two 140 ‐
+character Tweets. Eachparticipant saw only one
+message.Participants initially completed a
+think aloud interview bytelephone, seeing one messageby email and described their
+thoughts while reading it aloud.
+The same participants then tookpart in a focus group exploringtheir understanding, beliefs,thoughts and intentions around
+two of the messages.Understanding: all messages were seen
+as lacking clarity about the hazard,protective action guidance, affectedarea, and timings
+Beliefs: this was influenced by whether
+participants thought they had opted ‐
+in to receiving alert messages andwhether the source was seen astrustworthy
+Personalisation: many participants were
+unsure whether or not the hazardwas impacting them specifically andinclusion of a map helped clarity this
+Behavioural intentions: 11 participants
+overall said they would immediately
+take shelter; of these three saw the90‐character WEAs and eight saw
+the 140 ‐character tweets,
+suggesting the tweets may have
+slightly reduced participant millingbehaviour
+McGee and
+Gow(2012 )Tornado, fire,
+threateningmessageOctober
+2009Four focus groups; 24
+university students;Canadathree SMS emergency
+messages: one about atornado, one threateningmessage towards theuniversity, one fire. Each
+participant saw only one
+SMS message.In the week before the focus group,
+participants met with researchersto find out about the study begiven three envelopes with cuecards in. They were then sent an
+SMS message telling them to
+open one of the three envelopesand asked to read the card whichcontained a warning message.The message gave information
+about the emergency and
+protective behaviours.Participants were asked to writedown initial thoughts and how
+they might respond. The focus
+group was held several days laterto discuss experiences,understanding, responses.Understanding: messages were seen as
+easy to understand but needed moreclarity about where to go whenevacuating.
+Beliefs: most participants said they
+would view the messages as real, but
+some said they would ignore them ifthey were unaware of the alertingsystem.
+Personalisation: environmental risks
+were perceived to be greater if they
+were visible at the time of themessage.
+Confirmation: participants would all
+seek further information after the
+alert to verify/confirm it.
+Decision making and protective actions:
+sheltering or leaving campus were
+(Continues)MOWBRAY ET AL. |5o f2 7
+ 14685973, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12499 by Be t - University of Mary Washington , Wiley Online Library on [19/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+TABLE 1 (Continued)
+ReferenceType of
+emergencyDate(s) of
+datacollection Design, sample and country Details of mobile alerts used Data collection procedureOutcomes examined and effect of
+intervention (significant effects in bold,
+no significant effect unless stated,
+effect sizes given for significant effectswhere known)
+seen as reasonable actions by
+participants, but there was
+uncertainty about when to adopt thebehaviours. Some participants saidthey would try to protect others bytelling them about the alert. Some
+participants would ‘wait and see ’
+before sheltering/leaving andworried about missing classes orexams.
+Sutton and
+Woods(2016 )Tsunami October
+2014Four focus groups; 31
+participants; USAOne complete warning
+message, presented in12 smaller sets of text.Each focus group saw a real tsunami
+message (only the date alteredso it matched the focus groupdate) and were asked to imaginethey were on vacation in an area
+that has previously experienced
+tsunamis when the messageappeared on their cell phone.The message was discussed insmall sets and at the end
+participants were given a paper
+copy and asked to circlestatements they did not fullyunderstand.Understanding: mixed levels of
+understanding, for instance, size ofwave was discussed as being hard tocomprehend; more informationwanted about damage it could cause,
+specificity about location impacted
+for those unfamiliar with the area.Language around impact andprotective actions needs to be clearand convey urgency.
+Belief in message: participants believed
+the message was reliable and from acredible source and thatrecommended actions would keep
+them safe. Believing the message
+meant participants would take theintended action of leaving the area,but many would also search for moreinformation.
+Personalisation of message: participants
+expressed a need for moreinformation about specific locationsaffected, feeling particularlyconcerned as they were somewhere
+unfamiliar to them. This anxiety
+compelled many participants to saythey would plan to take action by6o f2 7 |MOWBRAY ET AL.
+ 14685973, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12499 by Be t - University of Mary Washington , Wiley Online Library on [19/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+TABLE 1 (Continued)
+ReferenceType of
+emergencyDate(s) of
+datacollection Design, sample and country Details of mobile alerts used Data collection procedureOutcomes examined and effect of
+intervention (significant effects in bold,
+no significant effect unless stated,
+effect sizes given for significant effectswhere known)
+leaving the area or seeking more
+information.
+Risk information processing: participants
+discussed gaps in knowledge andhow they were filling these to makesense of the threat, impact andconsequences. They often discussed
+past vicarious experiences with
+hazards they deemed similar.
+Wong
+et al.
+(2018 )Flooding,
+unexploded
+WW2 bomb30 April to 6
+July 2015Seven focus groups;
+33 12 −18 year olds;
+UKTwo sets of sample SMS
+messages about flooding
+and an unexplodedWW2 bomb. Each sethad four SMS messagesshown to participants
+one by one to simulate
+receiving them on theirphone.Focus group initially discussed
+mobile alerting systems and
+experiences. Participants thenshown 2 sets of sample SMSmessages and asked to writedown thoughts, feelings and
+likely responses. Participants
+then shared what they hadwritten.Intention to comply: most participants
+were willing to comply with advice,
+but it may depend on how muchdanger they felt they were, withgreater compliance if in greaterdanger. Type of incident influenced
+how much risk they felt, but no
+consensus over which scenario wasmore risky.
+Trust: greater trust in messages if from
+government agency and used
+infrequently.
+Information needs: wanted clear
+instructions about how to respond;would check additional sources to
+verify alert message
+Style of message: more formal language
+made it feel more official and morelikely to follow advice
+Typical text message behaviours: most
+would immediately read an alert
+message, but might ignore or deleteif not aware of alert systemMOWBRAY ET AL. |7o f2 7
+ 14685973, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12499 by Be t - University of Mary Washington , Wiley Online Library on [19/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+message and this led them to take the intended protective action of
+leaving the area, but many also explained that they would search forfurther information. Specifically, participants wanted more informa-
+tion about specific affected locations to relieve their anxiety about
+being in an unfamiliar place.
+Another study, conducted in 2015 with UK teenagers sought to
+identify factors that influence how young people might respond to
+emergency text messages about flooding or an unexploded WorldWar Two bomb (Wong et al., 2018 ). Participants took part in a focus
+group where they were shown two sets of four sample SMS
+messages which gave them information about the emergency and
+told them what to do. Participants then wrote down their initialthoughts, feelings and likely behavioural responses before engaging
+in a group discussion. Intention to comply with advice was high, but
+participants reported that they would be more likely to engage inrecommended protective behaviours if they were already familiar
+with the alerting system, if the messages came from a trusted source,
+if messages were only sent in serious events, if multiple messageswere sent and if the messages were short and formal in style.
+3.4 |Quantitative and mixed methods studies
+Table 2provides a summary of the quantitative and mixed methods
+studies that we identified.
+3.4.1 |Experimental design
+In the single randomised controlled trial that we identified, the
+researchers tested the effectiveness of SMS messaging to improveknowledge, attitudes and self ‐reported preventive behaviours about
+influenza A/H1N1 (Chai et al., 2013 ). Using a single ‐blind method, a
+random sample of community residents in China received 3 weeks of
+either H1N1 prevention SMS messages, or tobacco cessation SMSmessages. Before messages were sent, participants completed a
+survey collecting data about their demographics as well as
+knowledge, attitudes and behaviours regarding H1N1 preventionand control. After a total of 10 SMS messages had been received
+over a 3 ‐week period, participants completed another survey
+containing the same measures, but also assessing acceptability ofthe SMS messaging system. Both study groups saw a significant
+increase in self ‐reported engagement with recommended preventive
+behaviours, however the H1N1 group was significantly more likely toreport having had an H1N1 vaccination post ‐SMS messaging.
+Five further studies used an experimental design. The first study
+sought to examine how the use of maps can clarify who should take
+protective action in an emergency, and whether maps affect riskperception, intended action and trust in the message source (Cain
+et al., 2021 ). Participants were American university students who
+were randomised to either a school shooting or armed robberyincident. Participants initially answered a questionnaire to assess
+their knowledge of campus emergency alerts. Then they wererandomised to a study condition and saw a message which either
+provided text ‐only information about the type of hazard, location and
+protective measures to be taken, or a message that provided the text,
+plus a short or long distance map of the affected location. After
+viewing the message participants completed questions about emo-tions, risk perceptions, crisis efficacy, behavioural intentions, message
+understanding and trust. Participants in the school shooting scenario
+had significantly higher responses across most measures, includingintentions to follow protective behaviours. Although those who wereexposed to a short distance map reported greater perceived risk
+compared to participants who only received text based information,
+the map had no significant effect on perceptions of risk severity,behavioural intentions, crisis efficacy, understanding or trust in
+message source.
+Another American university based experimental study aimed to
+explore responses to text ‐only tornado warning messages compared
+to messages which also incorporated warning polygons (very specific
+locations affected by the alert) or radar images (Casteel & Downing,2016 ). University students were given information about WEAs and
+were then told to imagine that they were on a trip and while driving,
+received a tornado warning message. Messages were divided into 4categories which included text only, text and national weatherservice warning polygon, text and radar image, and text, warning
+polygon and radar image. All participants initially completed two
+practice warning messages before seeing all 26 study messages in acomputer randomized order. After each message they were asked
+about risk perceptions and severity, as well as intentions to inform
+loved ones about the incident. Results indicated that decisions toinform loved ones did not differ between types of warning message.
+Including greater amounts of information also did not increase
+perceptions of risk or severity.
+A 2015 study explored which factors influence information
+transmission when emergency messages describing various chemical
+hazards are passed from person to person (Edworthy et al., 2015 ).
+Five messages were passed along a chain of participants from the UKgeneral population using five modes of communication, including
+SMS messaging, email, paper, phone and face ‐to‐face. Five groups of
+10 participants each passed all five messages between them. Eachparticipant had to try to remember enough of the message to pass it
+to the next participant while a researcher observed the process. In
+the SMS condition, the message was sent directly to the phone of thefirst participant, and they then created and sent a text message to
+pass the information on to the next participant. Written messages
+were transmitted more accurately than verbal messages, with a paperformat being the most accurate, followed by SMS. Message accuracydeteriorated down the chain of participants. The researchers
+suggested that written messages survive better as it is possible for
+participants to reread them and take more time formulating their ownmessage. However, ‘location ’,‘advice ’and ‘substance ’(e.g., gas
+release, chemical fertilizer, weak acid) survived well regardless of
+communication channel.
+Another study aimed to test how at ‐risk groups in the United
+States respond to warning messages with and without maps (Liu8o f2 7 |MOWBRAY ET AL.
+ 14685973, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12499 by Be t - University of Mary Washington , Wiley Online Library on [19/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+TABLE 2 Characteristics of mobile alerting studies using quantitative or mixed methodology.
+ReferenceType of
+emergencyDate(s) of data
+collectionDesign, sample and
+country Details of mobile alerts used Data collection procedureOutcomes examined and effect of
+intervention (significant effects in
+bold, no significant effect unless
+stated, effect sizes given forsignificant effects where known)
+Cain et al.
+(2021 )School shooting;
+armed robberyNot stated Experimental; 404
+universitystudents; USAMessages were based on
+existing alerts forimminent hazards and
+were presented as
+messages sent topersonal cell phones.Messages communicated
+either an armed robbery
+or shots fired scenarioand gave textinformation about thetype of hazard, location,
+protective measures and
+updates. Some messagesalso included a map afterthe text.Participants first answered
+questions about theirknowledge of campus
+emergency alerts. They were
+randomly assigned to a studycondition. After viewing themessage they completed
+questions about emotions,
+risk perceptions, crisisefficacy, behaviouralintentions, understanding andtrust.The school shooting scenario
+produced significantly higherresponses for negative emotions,
+risk susceptibility and severity,
+behavioural intentions and crisisefficacy than the armed robberyscenario (all p= .00). Participants
+exposed to a short distance map
+reported significantly higherlevels of perceived risksusceptibility compared to text ‐
+only ( p= .05), however maps had
+no significant effect on
+perceptions of risk severity,behavioural intentions, crisisefficacy, understanding or trustin message source.
+Casteel and
+Downing(2016 )Tornado Not stated Experimental; 64
+universitystudents; USA26 WEA tornado warning
+messages divided intofour message conditions:
+text only alert; text and
+national weather servicewarning polygon; textand radar image; text,
+warning polygon and
+radar imageParticipants were introduced to
+WEA messaging and told itwas geographically targeted.
+They were told to imagine
+they were on a trip outsidethe study location and whiledriving their cell phone
+received the tornado WEA.
+Each participant completedtwo practice messages andthen saw all 26 messages in acomputer randomized order.
+Participants were asked
+about perceived risk, severityand intentions to informloved ones and theirresponses were timed.Responses to questions about
+perceived risk, perceived severityand likelihood to contact a loved
+one did not differ significantly as
+a function of type of warningmessage (all p's < .81). Therewere also no differences in
+response times as a function of
+warning type (all p's < .54).Ratings on the likelihood tocontact a loved one did not differas a function of weather
+knowledge.
+Chai et al.
+(2013 )H1N1 January to
+February2010Single ‐blinded, RCT;
+995 H1N1 groupand 997 tobacco10 SMS messages on H1N1
+prevention and control,or tobacco cessationPre‐SMS messaging survey
+collecting data ondemographics, knowledge,Knowledge: H1N1 message group
+had higher H1N1 knowledge(4.2% higher, p< .001).
+(Continues)MOWBRAY ET AL. |9o f2 7
+ 14685973, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12499 by Be t - University of Mary Washington , Wiley Online Library on [19/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+TABLE 2 (Continued)
+ReferenceType of
+emergencyDate(s) of data
+collectionDesign, sample and
+country Details of mobile alerts used Data collection procedureOutcomes examined and effect of
+intervention (significant effects inbold, no significant effect unlessstated, effect sizes given forsignificant effects where known)
+group
+participants from
+the generalpopulation; Chinaattitudes, behaviours and
+outcomes related to H1N1
+prevention and control.Participants then receivedone SMS message eachmorning for a total of 10
+different messages over 10
+consecutive days.Participants then completed apost ‐SMS messaging survey
+with same measures as pre ‐
+SMS, but also acceptability ofSMS system.Attitudes toward recommended
+prevention measures: H1N1
+groups had greater change inindividual attitudes to H1N1(9.4% higher, p< .001).
+Self reported behaviour: Average
+individual self report of
+recommended preventivebehaviours (mask wearing,handwashing, social distancing)
+score increased significantly
+within each group between pre ‐
+and post ‐SMS messaging (within
+the H1N1 group, by 12.1%,p< .001; tobacco group, by
+11.4%, p< .001), average
+individual scores did not differbetween H1N1 and tobaccogroups (95% CI = −0.8%
+to 2.2%).
+Uptake of H1N1 vaccination: H1N1
+group 1.77 times higher odds(95% CI = 1.39 −2.26) of
+reporting receipt of a 2009H1N1 vaccination versus
+tobacco group post ‐SMS
+messaging.
+Symptom reporting: H1N1 group
+had 0.12 times smaller odds of
+reporting influenza ‐like
+illness ( p< .001).
+DeYoung
+et al. ( 2019 )Ballistic missile/
+nuclear
+emergency2018 Mixed methods with
+online survey and
+open ‐ended
+questions; 186participants fromthe generalAccidental emergency SMS
+on 13 January 2018 to
+population of Hawaiiabout a false nuclearthreatParticipants completed an online
+survey with a large portion of
+open ‐ended questions.
+Primary focus was to captureperceptions aboutinformation in the warning
+message, protective actionsEmotions: most participants
+reported negative feelings of
+fear, anger and worry; mostlyassociated with socialconnections.
+Information and trust: most
+participants reported seeking10 of 27 |MOWBRAY ET AL.
+ 14685973, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12499 by Be t - University of Mary Washington , Wiley Online Library on [19/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+TABLE 2 (Continued)
+ReferenceType of
+emergencyDate(s) of data
+collectionDesign, sample and
+country Details of mobile alerts used Data collection procedureOutcomes examined and effect of
+intervention (significant effects inbold, no significant effect unlessstated, effect sizes given forsignificant effects where known)
+population of
+Hawaii; USAtaken and drivers of
+protective action.further information to confirm
+veracity of the message; manyreported doing this whilesimultaneously taking protective
+action such as sheltering in
+place.
+Protective actions: many
+participants reported taking noaction to protect themselves,
+displaying fatalism about the
+event and seeing action aspointless. Some participants saidthe event would make themprepare to take action in the
+future for example, purchasing
+iodine tablets. Many participantsreported confusion oruncertainty about appropriate
+action to take, but many chose
+to shelter in place even if unsureabout how useful it would be.
+Edworthy
+et al. ( 2015 )Various chemical
+hazards for
+example, gas
+release,chemicalfertilizer
+release, weak
+acid releaseNot stated Experimental design;
+50 participants
+from the general
+population; UKFive messages (one paper,
+one email, one SMS, one
+face ‐to‐face, one phone)There were five groups of 10
+participants. Each group
+passed all five messages
+between them in adesignated participant order.Each participant had to try to
+remember enough
+information to pass themessage on to the nextparticipant while theexperimenter observed. In
+the SMS condition, the
+message was sent to the firstparticipants phone and theycreated and sent a text to thenext participant to pass on
+the information.Transmission accuracy: Paper
+messages were most accurately
+transmitted, ( M= 1.13) followed
+by SMS ( M= 1.01), email
+(M= 0.91), face ‐to‐face
+(M= 0.69) and phone ( M= 0.65).
+Significant differences were
+found between paper and allother channels (all at p< .001
+except between paper and SMS,p< .05) and between SMS and
+both phone and face ‐to‐
+face ( p< .001).
+Communication down the chain: A
+two ‐way communication
+channel position ANOVA
+showed a main effect for
+(Continues)MOWBRAY ET AL. |11 of 27
+ 14685973, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12499 by Be t - University of Mary Washington , Wiley Online Library on [19/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+TABLE 2 (Continued)
+ReferenceType of
+emergencyDate(s) of data
+collectionDesign, sample and
+country Details of mobile alerts used Data collection procedureOutcomes examined and effect of
+intervention (significant effects inbold, no significant effect unlessstated, effect sizes given forsignificant effects where known)
+channel ( F[4, 37] = 27.3, p< .01),
+a main effect for position ( F[9,
+37] = 17.14, p< .01) but no
+significant interaction betweenthe two ( F[36, 160] = 1.38,
+p= .094). Performance generally
+fell as position in the chain
+increased, and performance wasbetter using some channels thanothers. At position 1, there was a
+significant effect of
+communication channel ( F[4] =
+5.1) with significant differencesbetween paper and face ‐to‐face
+(F[1] = 28.4, p< .01), paper and
+phone ( F[1] = 12.31, p< .01) and
+paper and SMS ( F[1] = 12.4,
+p< .01). At position 2, there was
+again a significant effect ofcommunication channel ( F[4] =
+5.25, p< .01), with significant
+differences between paper andface ‐to‐face ( F[1] = 50.1,
+p< .01), paper and phone ( F[1] =
+21.5, p< .01) and paper and SMS
+(F[1] = 7.4, p= .053). At position
+3 there was still a significanteffect of channel ( F[4] = 3.56,
+p< .01) with significant
+differences between paper and
+face ‐to‐face ( F[1] = 68, p< .01)
+and paper and phone ( F[1] =
+16.7, p< .01). At position 4,
+there was no effect of
+communication channel ( F[4] =
+1.83, p= .172, neither was there
+at position 5 ( F[4] = 2.11,
+p< .01), position 6 ( F[4] = 2.05,
+p< .01) or beyond.12 of 27 |MOWBRAY ET AL.
+ 14685973, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12499 by Be t - University of Mary Washington , Wiley Online Library on [19/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+TABLE 2 (Continued)
+ReferenceType of
+emergencyDate(s) of data
+collectionDesign, sample and
+country Details of mobile alerts used Data collection procedureOutcomes examined and effect of
+intervention (significant effects inbold, no significant effect unlessstated, effect sizes given forsignificant effects where known)
+Elser et al.
+(2021 )COVID ‐19 14 March to 1
+April2020Online, cross ‐
+sectional socialmedia survey;17,543
+participants from
+the generalpopulation; USAShelter ‐in‐place order by
+SMS message onMarch 16, 2020Online survey conducted
+between 14 March to 1 April,2020 measuring self reportedchanges in social distancing
+behaviour, experienced
+difficulty with daily activities,and level of concernregarding COVID ‐19.Social distancing: increase in
+proportion of respondentspracticing social distancing ‘all of
+the time ’after SMS message in
+the Bay Area (9.2%, 95% CI: 6.3,
+12.1) and elsewhere (3.4%, 95%CI: 2.0 −4.9).
+Sheltering in place: increase in
+proportion of respondents
+sheltering in place ‘most of the
+time ’after SMS message in the
+Bay Area (5.7%, 95% CI: 2.3 −9.0)
+and elsewhere (8.5%, 95% CI:6.8−10.3).
+Difficulty with daily activities:
+increased difficulty obtaininghand sanitizer, medications andobtaining food in the Bay Area
+(13.3%, 95% CI: 10.4 −16.3) and
+elsewhere (8.2%, 95%CI: 6.6 −9.7).
+Concern: only small changes in level
+of concern regarding COVID ‐19.
+Gauntlett
+(2020 )Ballistic missile/
+nuclearemergencyOctober to
+November2018Online, cross ‐
+sectional survey;454 participantsfrom the general
+population; USAAccidental emergency SMS
+on 13 January 2018 topopulation of Hawaiiabout a false nuclear
+threatEach participant completed a
+single survey asking themabout preparedness,preincident communication
+preferences, adherence,
+belief in message, awareness,risk perceptions, trust, priorinformation received andperceived preparedness
+effort.Adherence with protective
+instructions: 85% were found tobe incidentally adherent toinstructions to seek immediate
+shelter, while only 13% were
+deliberately adherent.Respondents were less likely tohave been incidentally adherentif they had children over 18
+living at home (OR 0.39
+[0.13 −0.89]), were native
+Hawaiian (OR 0.39 [0.18 −
+0.86])
+or were educated to degree level(OR 0.36 [0.17 −0.74]). Having
+been outdoors upon receiving
+(Continues)MOWBRAY ET AL. |13 of 27
+ 14685973, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12499 by Be t - University of Mary Washington , Wiley Online Library on [19/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+TABLE 2 (Continued)
+ReferenceType of
+emergencyDate(s) of data
+collectionDesign, sample and
+country Details of mobile alerts used Data collection procedureOutcomes examined and effect of
+intervention (significant effects inbold, no significant effect unlessstated, effect sizes given forsignificant effects where known)
+the alert was significantly
+associated with incidental
+adherence (OR 0.00[0.00 −0.01]), but not with
+deliberate adherence. Being ofmixed (OR 3.16 [1.31 −7.61]) or
+other (OR 4.29 [1.35 −13.29])
+ethnicity was significantlyassociated with deliberateadherence. Those believing an
+attack to be imminent were
+more likely to be deliberatelyadherent (OR 5.14[2.31 −11.42]). Taking no action
+or carrying on with what they
+were doing was reported by 19%
+(n= 87). Those who selected this
+response offered four keyreasons as to why they took noaction. These were categorised
+as: fatalism, denial, unawareness
+and uncertainty.
+Individuals of mixed ethnicity (OR
+3.32 [1.21 −9.14]) and those first
+alerted to the warning via
+emergency siren (OR 18.30
+[1.04 −322.25]) were
+significantly more likely tobelieve an attack imminent as
+well as adhere to protective
+instructions, whilst individualswho believe Hawai'i to bepartially protected by themilitary (OR 0.34 [0.12 −1.01])
+were less likely to believe an
+attack was imminent or toadhere with the instruction toshelter than those who believeHawai'i to be fully protected by
+the military.14 of 27 |MOWBRAY ET AL.
+ 14685973, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12499 by Be t - University of Mary Washington , Wiley Online Library on [19/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+TABLE 2 (Continued)
+ReferenceType of
+emergencyDate(s) of data
+collectionDesign, sample and
+country Details of mobile alerts used Data collection procedureOutcomes examined and effect of
+intervention (significant effects inbold, no significant effect unlessstated, effect sizes given forsignificant effects where known)
+Gutteling
+et al. ( 2018 )Two hazardous
+industrial fires;one large citycentre fireJanuary 2013,
+June 2013,October2013Cross ‐sectional
+telephonesurvey; 643participants who
+were members of
+the generalpopulation total(175 incident 1;181 incident 2;
+287 incident 3);
+NetherlandsOne SMS message providing
+advice about emergencysituation and advising toclose windows and doors
+and turn off ventilationPotential participants randomly
+contacted within 48 h of SMSmessage and asked aboutfirst responses, then invited
+to complete online survey
+capturing data on behaviour,perceived threat, efficacybeliefs, affective reaction,social norms, information
+need and perceived message
+quality.Self reported adaptive behaviour:
+could be predicted by the set ofvariables moderately well(p< .001). Emotion ( p< .001),
+social norms ( p< .01) and
+perceived message quality(p< .05) were significant
+predictors of adaptive behaviour.
+Self ‐reported behavioural
+avoidance: could be predicted by
+the set of variables moderatelywell ( p< .001). Perceived threat
+(p< .001), emotion ( p< .001) and
+social norms ( p< .001) predicted
+behavioural avoidance
+significantly.
+Kim et al.
+(2019 )Active shooter,
+explosion2015 Randomised
+laboratory
+experiments with
+surveys andqualitativeinterviews; 150participants in
+Experiment 1,
+102 participantsin Experiment 2,all were
+university
+students; USASix SMS emergency
+messages (three active
+shooter, three explosion)Participants were not initially
+aware that the SMS messages
+were not real. They
+completed a pretestquestionnaire assessingpsychological attributes anddemographic characteristics,
+then received a warning
+message and were observedfor 1 min before completing apost ‐test survey assessing
+behaviour responses.
+Participants were interviewedafter the study to expand onthe findings.Behavioural response: alerting the
+RA was influenced by belief in
+the message (OR = 1.19, p= .031,
+CI (1.02 −1.39)), with higher belief
+predicting higher odds of alertingthe RA. For both Experiments 1and 2, experimental condition
+was not a significant predictor of
+protective action behaviour. This
+suggests that behaviouralresponses, at least immediately
+after receiving a text ‐based
+warning message, do notsignificantly differ based onmessage content (active shooter,explosion) or message length (90,
+160, and 280 characters).
+Qualitative interviews suggestedthat desensitisation toemergency alerts throughprevious experience may reduce
+protective actions. They also
+(Continues)MOWBRAY ET AL. |15 of 27
+ 14685973, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12499 by Be t - University of Mary Washington , Wiley Online Library on [19/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+TABLE 2 (Continued)
+ReferenceType of
+emergencyDate(s) of data
+collectionDesign, sample and
+country Details of mobile alerts used Data collection procedureOutcomes examined and effect of
+intervention (significant effects inbold, no significant effect unlessstated, effect sizes given forsignificant effects where known)
+found that participants might be
+waiting for environmental or
+social cues before takingprotective action.
+Kim and
+Lee ( 2021 )COVID ‐19 September 25
+to October16, 2020Cross ‐sectional
+study using self ‐
+reported onlineor paper
+questionnaire;
+489 participantswho were 310members of thegeneral public
+and 179
+migratoryworkers; SouthKoreaRegular/ongoing SMS
+messages aboutpreventive measures toslow transmission of
+COVID ‐19Each participant completed a
+single survey in September/October 2020, capturing dataon demographic
+characteristics, self ‐reported
+compliance with measures,perceptions of the role ofSMS messages in compliancewith measures and overall
+feelings toward SMS
+messages.Self ‐reported compliance with
+preventive measures (e.g.,handwashing, mask wearing,cough etiquette, symptom
+reporting): Compliance was
+higher in migratory workers thanin Koreans ( p< .001) and higher
+in females than males ( p< .001).
+Females recognized need to
+comply with measures more
+(p< .019) and had a more
+positive attitude towardscompliance ( p< .014).
+Participants with poor health
+status perceived SMS messages
+as more helpful for complyingwith measures ( p< .001) and
+preventing infection ( p< .002)
+and had more positive attitudes
+to compliance ( p< .001).
+Lee and
+You ( 2021 )COVID ‐19 March 25 to
+27 2020Cross ‐sectional web ‐
+based survey;990 participants
+from the general
+population;South KoreaRegular/ongoing SMS
+messages aboutpreventive measures to
+slow transmission of
+COVID ‐19Each participant completed a
+single survey capturing dataon demographic
+characteristics, self ‐reported
+preventive and social
+distancing behavioiurs,perceived susceptibility,perceived severity and
+response efficacy.Reading SMS messages: overall,
+49.2% of participants reportedalways reading emergency SMS
+messages and visiting the linked
+website for further information.
+Self ‐reported behaviour:
+participants who always read theSMS messages wore facial masks
+more ( p< .01), avoided crowded
+places more ( p< .01) and
+cancelled or postponed socialgatherings more frequently(p< .001) than those who did not
+read the messages.16 of 27 |MOWBRAY ET AL.
+ 14685973, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12499 by Be t - University of Mary Washington , Wiley Online Library on [19/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+TABLE 2 (Continued)
+ReferenceType of
+emergencyDate(s) of data
+collectionDesign, sample and
+country Details of mobile alerts used Data collection procedureOutcomes examined and effect of
+intervention (significant effects inbold, no significant effect unlessstated, effect sizes given forsignificant effects where known)
+Ling &
+Oppegaard(2021 )Ballistic missile/
+nuclearemergencyJanuary 28 to
+February28, 2018Mixed methods with
+online survey andopen ‐ended
+questions; 418
+participants from
+the generalpopulation ofHawaii; USAAccidental emergency SMS
+on 13 Jan 2018 topopulation of Hawaiiabout a false nuclear
+threatParticipants completed an online
+survey with a large portion ofopen ‐ended questions.
+Primary focus was to capture
+experience of residents in the
+wake of the event.Only 28% of participants reported
+their initial response as believingthe message and about a quarterdid not believe the alert. Those
+who were unsure were more
+likely to reported checking theinformation with another sourcesuch as TV or radio. Manyparticipants said they checked
+validity with close family/friends.
+Some participants reportedchanging their usual behaviouruntil the message was verified,for example, by staying home,
+sheltering under a table, reaching
+out to family and friends.
+Liu et al. ( 2017 ) Tsunami, active
+shooter,
+radiological
+disasterNot stated Experimental; 1317
+(Experiment 1
+n= 767;
+Experiment 2n= 550)
+members of thegeneral
+population; USAExperiment 1 included
+tsunami, active shooter
+and radiological disaster
+messages of 90, 140 and1380 character lengths.Experiment 2 wastsunami messages of 280
+characters with maps.Participants were randomized to
+conditions and viewed the
+assigned message on a
+computer screen thatvisualized the message on amock smart phone screen.Next they were told to
+imagine how they would feel
+if they had received themessage on their phone andwere asked about
+information seeking, emotion,
+compliance, decision clarity,information sharingbehaviour and use of maps.Compliance with warnings is driven
+by emotional reaction and
+publics' clarity of understanding
+of the messages they receive.Clarity seems to be affected bypublics' technology access, butnot to the extent that emotion
+impacts clarity. Additionally,
+though information seekingconsistently contributesmeaningfully to information
+sharing, information seeking also
+is largely driven by emotionalresponses, with the impact ofmaps (as tested here) havinginsignificant effects.
+Furthermore, information
+seeking consisted of twoconstructs focusing ontechnology use and informationmilling capacity.
+(Continues)MOWBRAY ET AL. |17 of 27
+ 14685973, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12499 by Be t - University of Mary Washington , Wiley Online Library on [19/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+TABLE 2 (Continued)
+ReferenceType of
+emergencyDate(s) of data
+collectionDesign, sample and
+country Details of mobile alerts used Data collection procedureOutcomes examined and effect of
+intervention (significant effects inbold, no significant effect unlessstated, effect sizes given forsignificant effects where known)
+Rehman
+et al. ( 2020 )Mining disaster:
+fire, cave ‐in,
+explosion2019 Field study with in ‐
+person survey;37 participantswho were all
+miners; USAIdentical messages were sent
+by SMS or in ‐person.
+Each scenario had 4messages of increasing
+detail.Premessaging, participants
+completed a survey gatheringdemographic data. After eachmessage, participants
+completed a survey to
+understand how they wouldreact and what they would doin response to differentdetails in the alerts.Decision making behaviour :
+message content wassignificantly associated withparticipants decision making in all
+scenarios (fire p< .0000; cave ‐in
+p< .0000; explosion p< .0006).
+Miners were more likely toinvestigate or seek furtherinformation in the cave ‐in
+scenario when messages were
+provided in person rather than bySMS ( p< .0329).
+Rogers
+et al. ( 2020 )Robbery, active
+shooter,
+building fire,hazmat, riot/violentprotest, air
+quality
+advisory,healthadvisoryMarch 2017 to
+February
+2018Cross ‐sectional,
+online survey;
+1529 universitystudents; USAA total of seven SMS
+emergency messages
+were sent to eachparticipant (one for eachscenario).Online survey collecting data on
+demographic characteristics.
+After each scenario SMSmessage, the survey askedparticipants questions aboutpreferences, perceptions and
+behavioural intentions.Behavioural intentions : 66.1% of
+participants reported an
+intention to rapidly comply withSMS information withoutverification and 24.5% intendedto verify it first then comply.
+Active shooter scenario elicited
+greatest intention to comply(84.2%). Higher attitude scorewere associated with rapidcompliance in all 7 scenarios
+(AOR range = 1.06 ‐1.12; 95%
+CI = 1.01 ‐1.17). Higher perceived
+behavioural control scores wereonly associated with rapid
+compliance in the air quality
+advisory notification scenario(AOR = 1.07; 95% CI = 1.03 ‐
+1.12). Higher threat appraisalscores were only associated with
+rapid compliance in the building
+fire emergency notificationscenario (AOR = 1.02; 95%CI = 1.00 ‐1.05); whereas, higher
+response efficacy scores were
+associated with rapid compliance18 of 27 |MOWBRAY ET AL.
+ 14685973, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12499 by Be t - University of Mary Washington , Wiley Online Library on [19/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+TABLE 2 (Continued)
+ReferenceType of
+emergencyDate(s) of data
+collectionDesign, sample and
+country Details of mobile alerts used Data collection procedureOutcomes examined and effect of
+intervention (significant effects inbold, no significant effect unlessstated, effect sizes given forsignificant effects where known)
+in robbery, active shooter, and
+building fire scenarios (AOR
+range = 1.06 ‐1.08; 95%
+CI = 1.02 ‐1.13).
+Sheldon, 2017 Tornado, active
+shooterNot stated 2 × 2 within subject
+experiment; 172universitystudents; USATwo SMS emergency
+messages (one tornado,one active shooter), twosocial media messages
+(one tornado, one active
+shooter)After reading each of the four
+messages (two SMS, twosocial media), participantscompleted a questionnaire
+collecting data on perceived
+severity and intentions toshare crisis communication.Behavioural intentions : the channel
+used to notify students had asignificant effect on theperceived threat, F
+(1, 171) = 39.45, p< .0001, but
+not secondary crisiscommunication, p= .37,
+indicating that text messageswere perceived to be more
+serious than warning messages
+sent through social media. Theoverall regression model wassignificant only for the shootingmessage sent through social
+media, F(1, 171) = 94.56, p=
+.000, and results indicated thatthe more serious the warningmessage about the shooting wasperceived, the higher the
+likelihood that it would be shared
+with others ( β= .60, SE = 0.06, p
+= .000). Those who haveexperienced tornado warnings
+(N= 150) were also less likely to
+share the text message alert withpeople sitting around them(M= 4.10, SD = 1.21), compared
+to those that have not
+experienced it before ( M= 4.73,
+SD = 0.46), t(170) = −2.42; p=
+.016. Those who hadexperienced warnings about theshooting before ( N= 24) were
+less likely to share the text
+(Continues)MOWBRAY ET AL. |19 of 27
+ 14685973, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12499 by Be t - University of Mary Washington , Wiley Online Library on [19/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+TABLE 2 (Continued)
+ReferenceType of
+emergencyDate(s) of data
+collectionDesign, sample and
+country Details of mobile alerts used Data collection procedureOutcomes examined and effect of
+intervention (significant effects inbold, no significant effect unlessstated, effect sizes given forsignificant effects where known)
+message with their parents
+(M = 3.58, SD = 1.53), comparedto those that had notexperienced it before ( M= 4.27,
+SD = 0.46), t(170) = −2.42; p
+= .016.
+Smith
+et al. ( 2022 )Flooding 2021 Mixed methods
+combining focus
+group sharing,
+responsivewriting andparticipatorypolling; 80
+university
+students; UKThree separate SMS
+messages in each
+workshop, but all related
+to a severe floodingemergency.A series of three workshops in
+one day. Each workshop
+involved the same questions
+and tasks for the cohort tocomplete but had differentemergency messagescenarios based on real flood
+events.Behavioural intentions: From the
+eight themes identifed in
+responses, four occurred more
+frequently than others: preparefor evacuation, assess veracity/risk, contact people and click thelink, accounting for 92% ( n= 137)
+of all reported actions.
+Participants aged 18 –21 were
+more likely than other groups toengage in milling by assessing theveracity of the message, and
+women were slightly more likely
+to prepare for evacuation thanmen, although differences werenot significant. Participants withpast experience of flooding were
+twice as likely to report
+preparing for evacuation thannon ‐flooded participants (87% of
+all flooded participants vs 35% of
+all participants). Although each
+workshop was shown a differentemergency scenario, there wasno significant difference inanticipated actions between the
+groups ( F(2, 21) 0.937, p= .4).
+Wood
+et al. ( 2018 )Explosion of an
+improvised
+nuclear device2013 Mixed methods
+design with
+laboratory
+experiment andFour separate SMS messages
+were used. All messages
+were about the same
+threat, but they differedExperiment participants were
+each presented with one of
+the four randomly assigned
+SMS messages and thenIn post hoc analysis, the enhanced
+high information message
+resulted in significantly higher
+understanding ( M= 5.07) than20 of 27 |MOWBRAY ET AL.
+ 14685973, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12499 by Be t - University of Mary Washington , Wiley Online Library on [19/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+TABLE 2 (Continued)
+ReferenceType of
+emergencyDate(s) of data
+collectionDesign, sample and
+country Details of mobile alerts used Data collection procedureOutcomes examined and effect of
+intervention (significant effects inbold, no significant effect unlessstated, effect sizes given forsignificant effects where known)
+interviews and
+focus groups;155 members ofthe general public
+took part in the
+experiment, 44members of thegeneral publictook part in
+interviews/focus
+groups; USAin length: standard 90
+characters, enhanced lowinformation 90characters, enhanced
+medium information 140
+characters, enhancedhigh information 1380charactersasked to complete a survey
+collecting data aboutmessage understanding,belief, risk personalisation,
+deciding how to react and
+milling behaviour intentions.Interviews were by phoneand participants had beenemailed 1 of the messages.
+Focus groups were in person
+and each group focused on 1of the messages.the standard low ( M= 3.86,
+p< .001), enhanced low
+(M= 4.21, p= .005), and
+enhanced medium (M = 4.24, p=
+.014) information messages. The
+enhanced high informationmessage ( M= 4.70) also resulted
+in significantly higher decidingthan the standard low ( M= 3.38,
+p< .002) and enhanced medium
+information ( M= 3.61, p= .025)
+messages. Finally, the enhancedhigh information message(M= 3.98) resulted in lower
+intended milling (i.e., less
+response delay) compared withthe standard low ( M= 5.08,
+p= .003), enhanced low
+(M= 4.98, p= .005), and
+enhanced medium ( M= 5.01, p=
+.007) information messages.
+The qualitative analysis confirmed
+the quantitative findings and
+yielded three important themes:
+(a) high information messageshad better message outcomes,(b) high information messagesdid not eliminate milling
+completely, and (c) respondent
+opinions about high informationmessages were divergent.MOWBRAY ET AL. |21 of 27
+ 14685973, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12499 by Be t - University of Mary Washington , Wiley Online Library on [19/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+et al., 2017 ). Hazard scenarios included tsunami, active shooter and
+radiological disaster, with each participant randomised to a condition.In the first experiment, each of the three scenarios had messages of
+90, 140 or 1380 character length, while the second experiment was
+tsunami only and messages were 280 characters, plus a map.Participants viewed the mock phone message on a computer screen
+and were then told to imagine how they would feel to receive the
+message and answered questions about information seeking, emo-tion, compliance, decision clarity, information sharing behaviour andthe use of maps. Findings showed that maps did not change
+understanding and potential compliance with protective behaviours
+in this study.
+The final experimental study was a simulated evacuation exercise
+in the United States which sought to evaluate the effect of increasing
+levels of detail in emergency SMS messages on underground miners'evacuation decisions (Rehman et al., 2020 ). Three emergency
+scenarios had been developed which included a fire, a cave ‐in, or
+an explosion. For each scenario there were four messages ofincreasing detail, and these were randomly sent either by SMS
+message, or delivered in ‐person. Following each message, partici-
+pants completed a survey to understand how they would react andwhat they would do in response to differing levels of detail in thealerts. The authors reported that the content of the messages had a
+significant effect on miners' decisions, with more miners choosing to
+evacuate when more detail about the incident was provided. Thechannel of communication did not significantly affect evacuation
+decisions.
+3.4.2 |Mixed methods
+Five studies employed a mixed methods approach. The first was
+conducted in 2018, shortly after the accidental release of a ballistic
+missile warning message to the population of Hawaii (DeYoung et al.,
+2019 ). The purpose of this study was to capture perceptions about
+the warning message, protective actions taken and drivers of
+protective actions. Members of the general population completed
+an online survey which also contained open ‐ended questions.
+Participants reported mixed beliefs about the veracity of the message
+and seeking further information was common, though some
+participants said they sought this information while simultaneouslytaking protective action. While many participants said they did not
+take protective actions, some did say the event has led them to
+prepare for taking action in the future.
+An American study, focused on understanding how people
+respond immediately after receiving emergency alert text messages
+(Kim et al., 2019 ). Having arrived at the laboratory to take part in a
+study described to be about multitasking, participants completed apretest assessing various psychological attributes, and then received
+an unexpected warning message either about an active shooter or an
+explosion. They were observed by the researcher for 1 min beforecompleting a post ‐test survey of their behavioural responses to the
+warnings. Participants also took part in a qualitative interview abouttheir responses. Most participants did not react to the message at all,
+and type of emergency was not a significant predictor of protectiveaction behaviour, though those who mainly spoke English at home
+were more likely to engage in protective behaviour than those who
+spoke only a language other than English at home. The qualitativeanalysis suggested that desensitisation to emergency alerts through
+previous experience may reduce protective actions. The qualitative
+work also found that participants might have been waiting forenvironmental or social cues before acting.
+Another study of the accidental ballistic missile alert message
+sent to the Hawaiian population was conducted several weeks after
+the incident to capture the experiences of the population (Ling &Oppegaard, 2021 ). Similar to the earlier study, this was an online
+survey which contained numerous open ‐ended questions for
+members of the general public to complete. Belief in the veracityof the message was low, though many participants reported checking
+the information with another media source or with close family and
+friends. Some participants reported engaging in protective beha-viours such as staying home or sheltering until they had confirmed
+whether the message was real.
+A UK study looking at hypothetical flooding also used a mixed
+methods approach to understand how members of the public wouldrespond to emergency SMS messages (Smith et al., 2022 ). Partici-
+pants received SMS messages regarding a flood emergency and were
+involved in a series of workshops where they collaborated in groupsto answer questions, complete tasks, and take part in a focus group.
+Participants often talked about the need to check the veracity of the
+messages. Those who had a past experience of flooding were twiceas likely to report preparing for evacuation if they received an SMS
+(87% vs. 35%).
+The final mixed methods study, based in the United States,
+focused on the hypothetical explosion of an improvised nucleardevice (Wood et al., 2018 ). Four separate SMS messages were used,
+providing different amounts of information. Each participant was
+presented with one of the four randomly assigned messages and thenasked to complete a survey which collected data about their
+understanding, beliefs, risk personalisation, how they would react
+and milling behaviour intentions. Milling is a psychological processwhereby someone does not engage in a behaviour immediately as
+they are checking the veracity of the message and seeing how others
+will respond to a novel event. A smaller, separate group ofparticipants took part in telephone interviews or in ‐person focus
+groups. Again, each interviewee or group saw only one randomly
+assigned message. The combination of quantitative and qualitativedata suggested that messages with more information reduced theinclination to search for and confirm information, though they did not
+eliminate the delay to action completely.
+3.4.3 |Cross ‐sectional
+Three cross ‐sectional studies focused on COVID ‐19 emergency
+messaging. The first used an online survey to measure self ‐reported22 of 27 |MOWBRAY ET AL.
+ 14685973, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12499 by Be t - University of Mary Washington , Wiley Online Library on [19/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+changes in social distancing behaviour following a shelter ‐in‐place
+SMS message (Elser et al., 2021 ). Participants were from the general
+population and the researchers compared those living in the San
+Francisco Bay area where the alert message took place, with those
+living elsewhere in the United States. Participants in both locationsreported an increase in both their social distancing behaviour and
+sheltering in place behaviour, though there was no significant
+difference between the groups. Although this study focused on theBay area shelter ‐in‐place order, during the study time period, other
+areas also issued similar orders making it difficult to determine the
+effect of the messaging.
+Another cross ‐sectional COVID ‐19 study surveyed members of the
+general public in South Korea as well as a group of migratory workers to
+assess how effective the government ‐driven SMS messages were for
+public compliance with COVID ‐19 protective measures (Kim & Lee,
+2021 ). Participants had all been rece iving regular messaging from the
+national emergency SMS service regarding COVID ‐19 and protective
+measures such as handwashing, coughing etiquette, mask wearing andthe reporting of symptoms. Each par ticipant completed a single survey
+which captured self ‐report data about compliance with 30 different
+behaviours. Participants with poor he alth status perceived SMS messages
+as more helpful for complying with m easures and preventing infection
+and had more positive attitudes to compliance than those with a better
+health status. Differences between the general public and migratory
+workers were minimal, though migra t o r yw o r k e r sw e r em o r el i k e l yt o
+suggest that messages should be provided in English as not all migratory
+workers spoke Korean and translation of messages was difficult.
+The third cross ‐sectional study looking at COVID ‐19 also aimed
+to determine the effectiveness of emergency SMS messages on
+individual practice of COVID ‐19 protective behaviours (Lee & You,
+2021 ). This online survey asked members of the general population in
+South Korea to provide self ‐report data on the preventive behaviours
+of mask wearing, hand hygiene and social distancing. Participants
+who always read the SMS messages wore facial masks more, avoided
+crowded places more, and cancelled or postponed social gatheringsmore frequently than those who did not always read the messages.
+One cross sectional study focused on a potential nuclear
+emergency, using an online survey to understand how participantsfelt about preincident communication, message preferences, adher-
+ence, beliefs, risk perceptions and trust (Gauntlett, 2020 ). This study
+was also able to ask participants about their behavioural response tothe accidental ballistic missile alert in Hawaii. Participants were
+generally found to report high levels of adherence to the protective
+alert telling people to ‘find shelter ’, though certain factors such as
+being of mixed or other ethnicity, being outdoors when receiving themessage and believing an attack to be imminent were most likely to
+impact adherence. Among those who did not take cover, key reasons
+for nonadherence included fatalism, denial, unawareness anduncertainty.
+Another study that looked at real emergency messages was a
+telephone survey about SMS messages alerting the general popula-tion to large scale or industrial fires in the Netherlands (Gutteling
+et al., 2018 ). Messages had been sent to everyone within a certaindistance of each fire and included requests to avoid areas, close
+windows and doors and turn off ventilation systems. Participantswere randomly selected within 2 days of the messages being sent and
+were asked about beliefs, reactions, information needs and beha-
+viours. People were more likely to report engaging in protectivebehaviours when they rated their own affective reaction to reading
+the message as higher (e.g., more anxious, concerned, angry), when
+some social pressure was perceived and when the quality of themessage was perceived to be higher.
+An online study assessed the use of health behaviour theory to
+predict compliance to emergency text notifications across a wide
+range of scenarios (Rogers et al., 2020 ). College students in the
+United States were sent seven SMS messages, relating to different
+emergency scenarios, such as the presence of an active shooter tohealth advisories. Messages gave brief information about the threatas well as protective behaviours such as sheltering in place, avoiding
+certain areas or seeking healthcare. Following each message,
+participants were asked to complete questions about their messagepreferences, perceptions and behavioural intentions. Most partici-
+pants reported an intention to comply with the advice straight away
+without verification, particularly in the active shooter scenario. Therewere some differences between scenarios, with perceived beha-vioural control being most important with rapid compliance to an air
+quality alert scenario and higher response efficacy being associated
+with rapid compliance in robbery, active shooter and fire scenarios.
+Finally, a study of American college students tested the impact of
+emergency text versus social media notifications on threat assess-
+ments and behaviour (Sheldon, 2018 ). The scenarios were either an
+active shooter or a tornado and for each scenario there were two
+messages: one SMS and one social media. After participants had read
+each message, they completed questions about the perceivedseverity of the incident and their intentions to share the messagesthat they had received. Text messages were perceived to be more
+serious than warning messages sent through social media, though
+there was no significant difference in terms of message sharing. Themore serious the message was perceived to be, the more likely it was
+to be shared with others. However, those participants who had
+experienced a tornado warning before were less likely to share thetornado warning message with those around them, and those who
+had previously experienced a shooting warning were less likely to
+share the shooting warning message.
+4|DISCUSSION
+During a major incident it is important that the public receive clear,
+timely information about the threat as well as advice about
+appropriate protective behaviours. Despite the speed with whichwarning messages can be sent, evidence we reviewed suggests that
+many people do not react immediately to an emergency alert.
+Instead, they often engage in ‘milling ’behaviour. This means they
+spend time checking the message or interacting with others to
+determine how to behave in unfamiliar circumstances —severalMOWBRAY ET AL. |23 of 27
+ 14685973, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12499 by Be t - University of Mary Washington , Wiley Online Library on [19/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+studies in the papers we reviewed showed this effect (Bean et al.,
+2016 ; Casteel & Downing, 2016 ; Kim et al., 2019 ; McGee & Gow,
+2012 ; Rogers et al., 2020 ; Smith et al., 2022 ; Wong et al., 2018 ;
+Wood et al., 2018 ). This corresponds well to evidence on ‘milling ’in
+relation to other forms of emergency alert, which shows thatchecking the credibility of emergency messages is common (Wood
+et al., 2018 ). Interestingly, studies of an emergency alert sent in error
+indicated that although people sought further information to verifythe message, many also reported taking protective action at the sametime (DeYoung et al., 2019 ; Ling & Oppegaard, 2021 ), perhaps
+highlighting a difference between hypothetical versus real ‐life
+responses. Indeed, to reduce the negative impact of a major incident,there is a need to understand how we can encourage people to act on
+a message as soon as possible and it is important to understand how
+and when people seek further information and engage in protectivebehaviours.
+From our review, there appear to be several factors that
+influence the behavioural response to SMS alerts. These can becategorised as relating to the characteristics and past experiences of
+the message recipient(s), the nature of the incident, or the features of
+the message. First, behaviour can be influenced at an individual level.This includes specific factors such as the language spoken at homeversus in the message (Kim et al., 2019 ) and type of affective reaction
+to the message (Gutteling et al., 2018 ; Ling & Oppegaard, 2021 ; Liu
+et al., 2017 ). Several studies also determined that prior exposure to
+warning messages was an important predictor of behavioural
+engagement. In several studies, those who had received messages
+previously either in a real incident or as a drill had potentially becomedesensitised to the warnings (Kim et al., 2019 ; Sheldon, 2018 ; Wong
+et al., 2018 ), which aligns with previous studies showing that people
+experience alert fatigue when numerous messages are received(Baseman et al., 2013 ; Lee et al., 2013 ; Perry et al., 2013 ). However,
+one study did find that those who had prior experience of flooding
+were twice as likely to report being prepared for evacuation
+compared to those with no experience of flooding (Smith et al.,2022 ), while another reported that those who had previously
+experienced a tornado warning were more likely to share a
+subsequent alert message (Sheldon, 2018 ). Those who had received
+the erroneous ballistic missile message also reported intentions to
+prepare themselves for potential future incidents (DeYoung et al.,
+2019 ; Ling & Oppegaard, 2021 ). In addition, a study of tsunami
+messaging found that participants drew on personal experiences of
+other hazards to inform their response to the existing message
+(Sutton & Woods, 2016 ). Potentially, while alerts that are not
+followed up by any particular impact on an individual result in adegree of desensitisation, incidents which do impact the individual
+have the opposite effect.
+Situational factors include the ‘milling ’behaviour discussed
+earlier, but also the various environmental and social cues that can
+influence how a person responds to an incident. Participants in some
+studies described looking for visual or auditory cues that wouldconfirm the message and encourage them to engage in protective
+behaviours (DeYoung et al., 2019 ; Gauntlett, 2020
+; Kim et al., 2019 ;McGee & Gow, 2012 ). These cues were used by participants to
+inform their own assessments about risk severity. Unsurprisingly,people who reported a more emotional reaction to the warning
+message or greater perceptions that there is some societal pressure
+to respond in a certain way were more likely to engage in protectivebehaviours (Gutteling et al., 2018 ; Liu et al., 2017 ; Wong et al., 2018 ),
+in line with previous work (Rod et al., 2012 ). However, if perceived
+threat or external pressures are too high, people seem inclined toavoid following warning messages (DeYoung et al., 2019 ; Gauntlett,
+2020 ; Gutteling et al., 2018 ), perhaps practicing behavioural
+avoidance as a coping mechanism (Witte & Allen, 2000 ). It is also
+likely that perceptions of threat and emotional reactions will differ instudies asking people to imagine a potential future incident,
+compared to studies asking them about a real ‐life incident which
+they have experienced (Nordgren et al., 2011 ), thus highlighting the
+need for more real ‐world studies in this area.
+Finally, message characteristics also influence message credibility
+and engagement with protective behaviours. Message style influ-enced behaviour, with more formal language making messages feel
+more official and therefore more credible (Wong et al., 2018 ). In
+addition, messages from an official, recognised source, such as agovernment agency, were more likely to elicit a behavioural response(Gutteling et al., 2018 ; McGee & Gow, 2012 ; Wong et al., 2018 ), as
+suggested by previous research (Freberg, 2012 ; Kuligowski &
+Doermann, 2018 ), while another study suggests that the order in
+which information is presented can influence behaviour (Wood et al.,
+2015 ). Though one study seemed to indicate that people generally
+preferred short, simple messages (Wong et al., 2018 ), results from
+other studies were mixed (Kim et al., 2019 ; Wood et al., 2018 ). Two
+reported that milling behaviour was reduced among those who had
+received longer, more detailed messages (Bean et al., 2016 ; Wood
+et al., 2018 ), while another found no significant difference in
+behavioural responses based on message length (Casteel & Downing,
+2016 ; Kim et al., 2019 ; Liu et al., 2017 ). Studies which investigated
+the inclusion of maps as additional information to help participantsmake sense of warning messages had mixed results with some finding
+no significant effect on behaviour (Cain et al., 2021 ; Casteel &
+Downing, 2016 ; Liu et al., 2017 ), though two did find that a map
+resulted in higher levels of perceived risk susceptibility (Bean et al.,
+2016 ; Cain et al., 2021 ). Therefore, it seems that there is a difficult
+balancing act to be performed between providing short, succinctmessages, but also giving sufficient information for people to feel
+confident in the message.
+4.1 |Limitations
+Several limitations should be considered for this systematic review.
+First, our conclusions may be limited due to the paucity of available
+literature. It is obvious from this review that plenty of scope exists for
+future work to expand this literature and improve our understandingof behavioural responses to text ‐based warning messages. Second,
+studies based on real ‐world incidents are needed, but it is also24 of 27 |MOWBRAY ET AL.
+ 14685973, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12499 by Be t - University of Mary Washington , Wiley Online Library on [19/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+important to note that the majority of studies conducted to date have
+relied on self ‐reporting of behaviour. It is possible that self ‐report
+may reflect actual behaviour, but it can also be heavily influenced by
+numerous other factors, such as social desirability of reporting ‘good ’
+behaviour and recall bias. In addition to self ‐report, most studies
+measured behavioural intentions, or asked people what they would
+do in a hypothetical incident, but this may differ to real ‐world
+scenarios. Third, it is important to recognise that our review may beaffected by publication bias, whereby there is a tendency to publishonly those studies which demonstrate statistically significant results.
+In reality, it is possible that additional research has been conducted to
+explore our topic, but has gone unpublished as it has been deemed ofless interest or importance. Fourth, the studies included in our review
+are heterogeneous in their characteristics such as study design,
+location, population and type of emergency. Thus, it is key that wehighlight that our results may not be generalisable across these
+domains.
+While we made every attempt to search widely for relevant
+studies across numerous databases, it is possible that we missed
+some studies which used terminology relating to text ‐based mobile
+alerting that were not included in our search. Finally, our searcheswere limited to English language papers, and it is possible thatresearch has been published on alerting systems in countries where
+English is not the first language.
+5|CONCLUSIONS
+The findings from the systematic review align with those produced by
+others, using an expert panel process (Sutton & Kuligowski, 2019 ).
+Limited data exist on how people respond to text ‐based warning
+messages and much of the data that does exist is poor quality. Toreduce the negative impact of major incidents, we need a better
+understanding of the factors that affect behavioural responses to
+such messages. In particular, we need more experimental studies andevaluations of the behavioural impact of warning messaging in real
+world settings. For now, based on the results of the included studies,
+several practical recommendations are posed for those consideringrolling out such systems. It is recommended that emergency planners
+using mobile telephone alerting systems adhere to the following:
+1. Provision of clear, actionable information as to what recipients
+need to do when they receive an alert message, with clear
+explanation regarding the effectiveness of the recommendedaction.
+2. Specific details about the emergency (e.g., threat type and
+location) should be included due to the role of risk perception
+and perceived threat/urgency in adherence to alerts.
+3. Accurate, consistent and timely information should be available
+via other communication channels and alert messages should
+signpost (e.g., a link or search recommendation) to furtherinformation to confirm message veracity or severity becauserecipients will likely seek further information from other sources
+before deciding to take action.
+4. A preincident public information campaign about the emergency
+alert system should be delivered so that in the event of a major
+incident, recipients are confident that the source is trustworthyand credible.
+5. Alerts should be used infrequently and only when there is a real
+need to inform the public about the messaging system or anincident to avoid desensitisation.
+ACKNOWLEDGEMENTS
+This study was funded by the National Institute for Health ResearchHealth Protection Research Unit (NIHR HPRU) in Emergency
+Preparedness and Response, a partnership between the UK Health
+Security Agency, King's College London and the University of EastAnglia. The views expressed are those of the author(s) and not
+necessarily those of the NIHR, UK Health Security Agency or the
+Department of Health and Social Care.
+DATA AVAILABILITY STATEMENT
+Data sharing is not applicable to this article as no new data werecreated or analysed in this study.
+ORCID
+Fiona Mowbray
+http://orcid.org/0000-0002-3297-4163
+REFERENCES
+Baseman, J. G., Revere, D., Painter, I., Toyoji, M., Thiede, H., & Duchin, J.
+(2013). Public health communications and alert fatigue. BMC Health
+Services Research ,13, 295. https://doi.org/10.1186/1472-6963-
+13-295
+Bean, H., Liu, B. F., Madden, S., Sutton, J., Wood, M. M., & Mileti, D. S.
+(2016). Disaster warnings in your pocket: How audiences interpret
+mobile alerts for an unfamiliar hazard. Journal of Contingencies and
+Crisis Management ,24, 136 –147. https://doi.org/10.1111/1468-
+5973.12108
+Bean, H., Sutton, J., Liu, B. F., Madden, S., Wood, M. M., & Mileti, D. S.
+(2015). The study of mobile public warning messages: A research
+review and agenda. Review of Communication ,15(1), 60 –80.
+Cain, L., Herovic, E., & Wombacher, K. (2021). “You are here ”: Assessing
+the inclusion of maps in a campus emergency alert system. Journal of
+Contingencies and Crisis Management ,29, 332 –340. https://doi.org/
+10.1111/1468-5973.12358
+Campbell, M., Katikireddi, S. V., Sowden, A., McKenzie, J. E., &
+Thomson, H. (2018). Improving conduct and reporting of narrativesynthesis of quantitative data (ICONS ‐Quant): Protocol for a mixed
+methods study to develop a reporting guideline. BMJ Open ,8(2),
+e020064.
+Casteel, M. A. & Downing, J. R. (2016). Assessing risk following a wireless
+emergency alert: Are 90 characters enough? Journal of Homeland
+Security & Emergency Management ,13(1), 95 –112. https://doi.org/
+10.1515/jhsem-2015-0024
+Chai, S. J., Tan, F., Ji, Y., Wei, X., Li, R., & Frost, M. (2013). Community ‐
+level text messaging for 2009 H1N1 prevention in China. American
+Journal of Preventive Medicine ,45(2), 190 –196. https://doi.org/10.
+1016/j.amepre.2013.03.014
+DeYoung, S. E., Sutton, J. N., Farmer, A. K., Neal, D., & Nichols, K. A.
+(2019). Death was not in the agenda for the day ”: Emotions,MOWBRAY ET AL. |25 of 27
+ 14685973, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12499 by Be t - University of Mary Washington , Wiley Online Library on [19/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+behavioral reactions, and perceptions in response to the 2018
+hawaii wireless emergency alert. International Journal of Disaster Risk
+Reduction ,36, 101078. https://doi.org/10.1016/j.ijdrr.2019.101078
+Edworthy, J., Hellier, E., Newbold, L., & Titchener, K. (2015). Passing crisis
+and emergency risk communications: The effects of communication
+channel, information type, and repetition. Applied Ergonomics ,48,
+252 –262. https://doi.org/10.1016/j.apergo.2014.12.009
+Elser, H., Kiang, M. V., John, E. M., Simard, J. F., Bondy, M., Nelson, L. M.,
+Chen, W., & Linos, E. (2021). The impact of the first COVID ‐19
+shelter ‐in‐place announcement on social distancing, difficulty in
+daily activities, and levels of concern in the San Francisco bay area: Across ‐sectional social media survey. PLoS One ,16(1), e0244819.
+https://doi.org/10.1371/journal.pone.0244819
+Fakhruddin, S. H. M. & Chivakidakarn, Y. (2014). A case study for early
+warning and disaster management in Thailand. International Journal
+of Disaster Risk Reduction ,9, 159 –180. https://doi.org/10.1016/j.
+ijdrr.2014.04.008
+Freberg, K. (2012). Intention to comply with crisis messages communi-
+cated via social media. Public Relations Review ,38, 416 –421. https://
+doi.org/10.1016/j.pubrev.2012.01.008
+Gauntlett, L. (2020). Developing evidence ‐based risk communication
+strategies to promote protective health behaviours in nuclear emergen-cies. King's College London PhD Thesis.
+Gutteling, J. M., Terpstra, T., & Kerstholt, J. H. (2018). Citizens' adaptive or
+avoiding behavioral response to an emergency message on theirmobile phone. Journal of Risk Research ,21(12), 1579 –1591. https://
+doi.org/10.1080/13669877.2017.1351477
+Hong, Q. N., Pluye, P., Fàbregues, S., Bartlett, G., Boardman, F., Cargo, M.,
+Dagenais, P., Gagnon, M. P., Griffiths, F., Nicolau, B., O'Cathain, A.,
+Rousseau, M. C., & Vedel, I. (2019). Improving the content validity ofthe mixed methods appraisal tool: A modified e ‐Delphi study. Journal
+of Clinical Epidemiology ,111,4 9 –59.
+Kim, G., Martel, A., Eisenman, D., Prelip, M., Arevian, A., Johnson, K. L., &
+Glik, D. (2019). Wireless emergency alert messages: Influences on
+protective action behaviour. Journal of Contingencies and Crisis
+Management ,27,3 7 4 –386. https://doi.org/10.1111/1468-5973.
+12278
+Kim, S., & Lee, S. (2021). Effects of government ‐driven smartphone text
+messages on public compliance with COVID
+‐19 preventative
+measures. CIN: Computers, Informatics, Nursing ,39(10), 527 –537.
+https://doi.org/10.1097/CIN.0000000000000799
+Kuligowski, E. D., & Doermann, J. (2018). A review of public response to
+short message alerts under imminent threat. Washington, DC: US
+Department of Commerce, National Institute of Standards andTechnology .https://nvlpubs.nist.gov/ nistpubs/TechnicalNotes/
+NIST.TN.1982.pdf
+Lee, D., Chung, J. Y., & Kim, H. (2013). Text me when it becomes
+dangerous: Exploring the determinants of college students' adoption
+of mobile ‐based text alerts short message service. Computers in
+Human Behavior ,29(3), 563 –569.
+Lee, M., & You, M. (2021). Effects of COVID ‐19 emergency alert text
+messages on practicing preventive behaviors: Cross ‐sectional web ‐
+based survey in South Korea. Journal of Medical Internet Research ,
+23(2), e24165. https://www.jmir.org/2021/2/e24165
+Ling, R., & Oppegaard, B. (2021). THIS IS NOT A DRILL: Mobile telephony,
+information verification, and expressive communication duringHawaii's false missile alert. Social Media + Society ,7,
+205630512199966. https://doi.org/10.1177/2056305121999661
+Liu, B. F., Wood, M. M., Egnoto, M., Bean, H., Sutton, J., Mileti, D., &
+Madden, S. (2017). Is a picture worth a thousand words? The effectsof maps and warning messages on how publics respond to disaster
+information. Public Relations Review ,43, 493 –506. https://doi.org/
+10.1016/j.pubrev.2017.04.004
+McGee, T. K., & Gow, G. A. (2012). Potential responses by on ‐campus
+university students to a university emergency alert. Journal of RiskResearch ,15(6), 693 –710. https://doi.org/10.1080/13669877.
+2011.652653
+National Academies of Sciences, Engineering, and Medicine. (2018).
+Emergency alert and warning systems: Current knowledge and future
+research directions . The National Academies Press. https://www.nap.
+edu/catalog/24935/emergency-alert-and-warning-systems-current-knowledge-and-future-research
+Nordgren, L. F., Banas, K., & MacDonald, G. (2011). Empathy Gaps for
+Social Pain: Why People Underestimate the pain of social suffering.
+Journal of Personality and Social Psychology ,100(1), 120 –128.
+Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., &
+Mulrow, C. D. (2021). The PRISMA 2020 statement: An updatedguideline for reporting systematic reviews. BMJ,372, n71. https://
+doi.org/10.1136/bmj.n71
+Perry, C., Pulley, W., Paugh, J., Mignot, S., & Macgregor ‐Skinner, G.
+(2013). Why some ignore public health disaster warnings.
+Journal of
+Healthcare Protection Management: Publication of the InternationalAssociation for Hospital Security ,29,2 0 –26.
+Rehman, A. U., Lyche, T., Awuah ‐Offei, K., & Nadendla, V. S. S. (2020).
+Effect of text message alerts on miners evacuation decisions. Safety
+Science ,130.https://doi.org/10.1016/j.ssci.2020.104875
+Rogers, C. J., Forster, M., Bahr, K., & Benjamin, S. M. (2020). A cross ‐
+sectional study using health behavior theory to predict rapid
+compliance with campus emergency notifications among college
+students. Disaster Medicine and Public Health Preparedness ,15(2),
+198 –207. https://doi.org/10.1017/dmp.2019.153
+Rubin, G. J., Chowdhury, A. K., & Amlôt, R. (2012). How to communicate with
+the public about chemical, biological, radiological, or nuclear terrorism: A
+systematic review of the literature. Biosecurity and Bioterrorism:
+Biodefense Strategy, Practice, and Science ,10(4), 383 –395.
+Rød, S. K., Botan, C., & Holen, A. (2012). Risk communication and the
+willingness to follow evacuation instructions in a natural disaster.Health, Risk & Society ,14(1), 87 –99.
+Sadiq, A. A., Okhai, R., Tyler, J., & Entress, R. (preprint 2022). Public alert
+and warning system literature review in the USA: Identifyingresearch gaps and lessons for practice. Natural Hazards .https://
+doi.org/10.21203/rs.3.rs-2118026/v1
+Schultz, F., Utz, S., & Göritz, A. (2011). Is the medium the message?
+perceptions of and reactions to crisis communication via twitter,
+blogs and traditional media. Public Relations Review ,37(1), 20 –27.
+https://doi.org/10.1016/j.pubrev.2010.12.001
+Sheldon, P. (2018). Emergency alert communications on college cam-
+puses: Understanding students' perceptions of the severity of a crisis
+and their intentions to share the alert with parents and friends.Western Journal of Communication ,82(1), 100 –116. https://doi.org/
+10.1080/10570314.2017.1308005
+Smith, K. R., Grant, S., & Thomas, R. E. (2022). Testing the public's
+response to receiving severe flood warnings using simulated cell
+broadcast. Natural Hazards ,112, 1611 –1631. https://doi.org/10.
+1007/s11069-022-05241-x
+Sutton, J., & Kuligowski, E. D. (2019). Alerts and warnings on short
+messaging channels: Guidance from an expert panel process. Natural
+Hazards Review ,20(2). https://doi.org/10.1061/(ASCE)NH.1527-
+6996.0000324
+Sutton, J., Spiro, E. S., Johnson, B., Fitz hugh, S., Gibson, B., & Butts, C. T. (2014).
+Warning tweets: Serial transmission of messages during the warningphase of a disaster event. Information, Communication & Society ,17,
+765
+–787. https://doi.org/10.1080/1369118X.2013.862561
+Sutton, J., & Woods, C. (2016). Tsunami warning message interpretation
+and sense making: Focus group insights. Weather, Climate and
+Society ,8(4), 389 –398. https://doi.org/10.1175/WCAS-D-15-
+0067.1
+Witte, K., & Allen, M. (2000). A meta ‐analysis of fear appeals: Implications
+for effective public health campaigns. Health Education & Behavior ,
+27(5), 591 –615.26 of 27 |MOWBRAY ET AL.
+ 14685973, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12499 by Be t - University of Mary Washington , Wiley Online Library on [19/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Wong, D. J., Jones, E., & Rubin, G. J. (2018). Mobile text alerts are an
+effective way of communicating emergency information to adoles-cents: Results from focus groups with 12 ‐to 18 ‐year ‐olds. Journal of
+Contingencies and Crisis Management ,26, 183 –192. https://doi.org/
+10.1111/1468-5973.12185
+Wood, M., Bean, H., Liu, B., & Boyd, M. (2015). Comprehensive testing of
+imminent threat public messages for mobile devices: Final report.Prepared for Department of Homeland Security, Science and Technol-ogy Directorate, Support to the Homeland Security Enterprise and First
+Responders Group .https://www.dhs.gov/sites/default/files/
+publications/WEA%20-%20Comprehensive%20Testing%20of%20Imminent%20Threat%20Public%20Messages%20for%20Mobile%20Devices%20Updated%20Findings.pdf
+Wood, M. M., Mileti, D. S., Bean, H., Liu, B. F., Sutton, J., & Madden, S.
+(2018). Milling and public warnings. Environment and Behavior ,50(5),
+535 –566. https://doi.org/10.1177/0013916517709561SUPPORTING INFORMATION
+Additional supporting information can be found online in theSupporting Information section at the end of this article.
+How to cite this article: M o w b r a y ,F . ,M i l l s ,F . ,S y m o n s ,C . ,
+Amlôt, R., & James Rubin, G. (2024). A systematicreview of the use of mobile alerting to inform the public
+about emergencies and the factors that influence the
+public response. Journal of Contingencies and Crisis
+Management ,32, e12499.
+https://doi.org/10.1111/1468-5973.12499MOWBRAY ET AL. |27 of 27
+ 14685973, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12499 by Be t - University of Mary Washington , Wiley Online Library on [19/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

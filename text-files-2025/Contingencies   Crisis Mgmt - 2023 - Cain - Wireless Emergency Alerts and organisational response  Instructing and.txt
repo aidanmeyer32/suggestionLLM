@@ -1,0 +1,818 @@
+Received: 27 July 2023 |Revised: 29 September 2023 |Accepted: 23 October 2023
+DOI: 10.1111/1468-5973.12516
+ORIGINAL ARTICLE
+Wireless Emergency Alerts and organisational response:
+Instructing and adjusting information in alerts
+Lauren B. Cain |Jeannette Sutton |Michele K. Olson
+Department of Emergency Preparedness and
+Homeland Security, College of Emergency
+Preparedness, Homeland Security and
+Cybersecurity, University at Albany, State
+University of New York, Albany, New
+York, USA
+Correspondence
+Jeannette Sutton, Department of Emergency
+Preparedness and Homeland Security, College
+of Emergency Preparedness, Homeland
+Security and Cybersecurity, University at
+Albany, State University of New York, 1220
+Washington Ave, Albany, NY 12226, USA.
+Email: jsutton@albany.edu
+Funding information
+Federal Emergency Management AgencyAbstract
+In the United States, alerting authorities are authorized by the Federal Emergency
+Management Agency (FEMA) to notify the public of imminent hazards and threats by
+sending Wireless Emergency Alerts (WEAs) through the Integrated Public Alert and
+Warning System (IPAWS). Although recent efforts have been made to examine
+historical WEA compliance with frameworks such as Mileti and Sorenson's (1990)
+Warning Response Model, less attention has been paid to information included in
+WEAs that is not prescribed by message design frameworks from risk communica-
+tion scholarship. This paper explores the presence of Situational Crisis Communica-
+tion Theory's (SCCT) instructing and adjusting information in terse mobile alerts.
+The authors conducted a content analysis of 4777 WEAs sent between 2019 and
+2022 to determine how often and in which contexts (i.e., hazard types, 90 ‐or
+360 ‐character messages) these strategies are used. We find that the limited
+definition of adjusting information used in prior research (e.g., direction to mental
+health resources) is rarely included in WEAs. Additionally, we identify differences in
+use by message length (90 ‐vs. 360 ‐characters) and hazard type. We conclude that
+adjusting information in WEAs most frequently takes the form of organisational
+response information, thereby amending prior definitions of adjusting information to
+more closely align with the objectives and goals of warning message design.
+KEYWORDS
+alerts and warnings, crisis communication, risk communication, Situational Crisis
+Communication Theory
+In the United States, there are over 1600 alerting authorities (AAs)
+authorized by the Federal Emergency Management Agency (FEMA)
+to issue alerts and warnings for imminent threats through the
+Integrated Public Alert and Warning System (IPAWS; Federal
+Emergency Management Agency, 2020 ). Since 2012, AAs have had
+the capability to notify the public of imminent threats through IPAWS
+using Wireless Emergency Alerts (WEAs), which are short messages
+sent to mobile devices in at ‐risk areas using geotargeted broadcast
+technology (Federal Emergency Management Agency, 2020 ). When
+reading through these messages, those familiar with WEAs will
+recognize some hallmark terms of risk messaging: ‘take shelter
+now ’,‘mandatory evacuation ’,‘shelter in place ’, and so on. Closerinspection, though, shows other phrases exist in WEAs that are not
+prescribed by Mileti and Sorensen's ( 1990 ) Warning Response Model
+(WRM), the pre ‐eminent framework for warning message design and
+evaluation (e.g., Kuligowski et al., 2023 ; Sutton et al., 2020 ). For
+example, residents in Garysburg, North Carolina, received a WEA
+from their county emergency management office stating: 'There is a
+water main break [ …] We have crews working to repair the problem'
+(Public Broadcasting Service Warning, Alert, & Response Network
+Public Broadcast System Warning, Alert, and Response Net-
+work, 2022 ), indicating that the local jurisdiction is actively
+responding to the event. Another sent to residents of Grundy
+County, Illinois, states 'Grundy County Sheriff is issuing a law
+J. Contingencies Crisis Manag . 2024;32:e12516. wileyonlinelibrary.com/journal/jccm © 2023 John Wiley & Sons Ltd. |1o f1 1
+https://doi.org/10.1111/1468-5973.12516
+enforcement emergency due to an officer involved shooting' (Public
+Broadcast System Warning, Alert, and Response Network, 2021b ),
+strategically placing the sheriff as the issuing authority for the
+emergency. These details do not provide specifics about where
+exactly the incidents are, when they occurred, how severe they are,or what residents should do to protect themselves, which are
+commonly cited elements from the WRM. Instead, they draw
+attention to the fact that there is an ongoing official response tothe hazard in question and describe efforts to address the hazard andits impacts —or what we define as 'organisational response informa-
+tion'. We observe that organisational response information is present
+in WEAs but is not prescribed by the WRM. Several questions arisefrom these observations: why do AAs include this information? Are
+they attempting to reassure publics that the situation is under
+control? What are the effects of this information on warningoutcomes? Are there conditional (i.e., hazard ‐specific) benefits of
+including it in WEAs? Before answering these questions, however, it
+is important to understand how frequently these contents areincluded in WEAs and the types of official responses they describe.
+The main objective of this study is to document and quantify
+organisational response information in WEAs by drawing fromtheories of both risk and crisis communication to help conceptualizethis information in alerts and warnings. Although risk and crisis
+communication theories generally have distinct approaches to
+studying communication pertaining to hazards and crises, each hasproduced theories to guide risk or crisis messaging and predict
+outcomes related to such messages. Some theories/frameworks
+share similar constructs: for example, Mileti and Sorensen's ( 1990 )
+WRM and Coombs's ( 2007 ) Situational Crisis Communication Theory
+(SCCT) both recommend that officials provide protective action
+guidance, or 'instructing information', to help publics physically copewith and protect themselves from threats. Despite these similarities,the applications for these frameworks in extant literature are quite
+distinct. The WRM is oriented toward disaster risk messaging to
+facilitate protective actions, whereas SCCT takes a more organisa-tionally focused approach to crisis response, with reputation as a
+primary outcome of interest. Thus, the application of recommenda-
+tions from SCCT (namely, to provide 'adjusting information' such asemotional coping advice or details of corrective actions to help
+receivers psychologically cope with the crisis) has not been
+extensively studied in the context of alert and warning messagessuch as WEAs. As a result, it is unknown if the more organisationally
+oriented messaging strategies derived from SCCT are used, or have
+positive effects, in terse messaging spaces. However, crisis commu-nication theories like SCCT may help to explain why AAs wouldinclude information that falls outside the scope of the WRM.
+With this in mind, we conduct a deductive content analysis of 4777
+WEAs sent by state and local AAs in the United States from 2019 to2022 to determine how frequently instructing and adjusting information
+are included in these WEAs. Our analyses also assess how the inclusion
+of organisational response informat ion differs (a) between messages of
+different lengths (WEAs can be 90 ‐or 360 ‐characters), and (b) across
+different hazard types (i.e., natural, technological, human ‐induced). Indoing so, we begin to identify the practices that have been enacted by
+AAs that communicate about the organisation in addition to publicsafety. In the next section, we review the relevant literature on alerts,
+warnings, and crisis communicatio n to identify the contents that are
+recommended for messages to effectively communicate about immi-nent threats and organisational response efforts.
+1|LITERATURE REVIEW
+1.1 |Alerts and warnings
+WEAs, issued through FEMA's Integrated Public Alert and Warning
+System, were first introduced in 2012 as a means for AAs at the
+federal, state, local, tribal, and territorial levels to quickly notify thepublic of impending threats using text ‐based, geotargeted messages
+that are not affected by cellular network congestion like Short
+Messaging Service (SMS) messages (Federal Emergency ManagementAgency, 2020 ). Unlike other public alerting channels, WEA does not
+require the message receiver to opt ‐in (e.g., signing up through an
+app) or seek out information (e.g., through television or internet) toreceive an alert. WEAs were originally limited to 90 characters butwere expanded in 2019 to include 360 characters (Federal
+Emergency Management Agency, 2020 ; National Weather Ser-
+vice, 2022 ). This allows WEAs to shift from serving as alerts, which
+serve to attract attention and promote further information seeking,
+to warnings, which serve to provide details about the hazard and
+recommended protective actions (Bean, 2019 ). Thus, the addition of
+270 more characters enables AAs to potentially make their messages
+more specific and to also include all the contents recommended in
+the WRM.
+Within the disaster and risk communication research space, the
+WRM is the pre ‐eminent model informing the design of effective
+alerts and warnings for the purpose of motivating publics to take
+protective actions. The contents included in the WRM were initiallyidentified by Mileti and Sorensen ( 1990 ) following a review of
+empirical studies on behavioural outcomes for disasters. They
+identified five key contents that, when included, increase thelikelihood of timely and appropriate behavioural response by
+reducing the likelihood of additional information seeking, or milling
+(Mileti & Sorensen, 1990 ; Wood et al., 2018 ). These contents are (a)
+the name of the message source (i.e., who is sending the message,
+such as 'Central City Sheriff'), (b) a description of the hazard and its
+expected impacts (such as 'hazardous material spill: exposure tochemicals could cause difficulty breathing'), (c) guidance for protec-tive actions (such as 'take shelter in an interior room at the lowest
+point in the building'), (d) timing information, such as the time of
+hazard impact, when protective action should take place, and/orwhen the message expires, and (e) the location(s) affected by the
+hazard (i.e., 'at the intersection of Main and 1st' or 'near the Central
+Public Library'; Mileti, 2018 ; Mileti & Sorensen, 1990 ).
+The WRM also offers guidelines for warning message style, that
+is, how an effective message should be composed. Warnings that are2o f1 1 |CAIN ET AL.
+ 14685973, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12516 by Be t - University of Mary Washington , Wiley Online Library on [19/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+specific (i.e., providing details about the location and timing of
+the event), consistent (i.e., indicating the same hazard and the sameactions as warnings issued in parallel over other channels), accurate
+(i.e., representing the conditions correctly, so that they correspond
+with what is occurring), certain (i.e., using language i.e. not hedging orcontaining likelihoods or probabilities), and clear (i.e., using language
+i.e. unambiguous and directive) lead to better message under-
+standing, personalising, believing, and ability to decide to act,preventing information seeking that delays a protective actionresponse (Mileti & Sorensen, 1990 ; Wood et al., 2018 ). Alert and
+warning message contents and style have also been shown to
+improve message receivers ’trust in the message, which positively
+affects behavioural intention (Burgeno & Joslyn, 2020 ; Weyrich
+et al., 2019 ). Additional research employing the WRM articulates the
+requisite order of contents for WEA messages (see Woodet al., 2015 ).
+The WRM has been used to inform message design and
+evaluation for imminent threat hazards including wildfires (Kuligowskiet al., 2023 ), earthquakes (Sutton, Wood, et al., 2020 ,2023 ),
+tornadoes (Sutton et al., 2021 ), tsunamis (Sutton et al., 2018 ), and
+snow squalls and dust storms (Fischer et al., 2023 ), as well as human ‐
+induced threats such as radiological and active shooter events (Woodet al., 2015 ). However, AAs are not bound by FEMA to specific
+messaging rules such as those articulated in the WRM. Furthermore,
+AAs can issue a WEA for nearly any threat, event, or public safetyissue they deem relevant to their population at risk. Therefore, WEA
+contents and design differ by hazard and location, as well as AA
+practices and policies. Recent efforts have been made to examinehow WEAs conform to the WRM contents overall (Olson et al., 2023 )
+and to determine message completeness and language consistency
+for a single hazard type (e.g., Kuligowski et al., 2023 ). Recognising
+that the WRM focuses solely on outcomes related to protectiveaction response, the inclusion of content in WEAs that is not
+prescribed by the WRM (such as the recommended contents from
+SCCT) has yet to be investigated in this space. We now turn toframeworks from crisis communication scholarship to help contextu-
+alize such contents.
+1.2 |Crisis communication
+Theories and frameworks from risk communication such as the
+WRM centre around 'persuading individuals to take action to limit
+risk, whereas crisis communication focuses on responding toimmediate public needs for inform ation' to reduce uncertainty,
+thereby ensuring that stakeholders can understand and respond to
+the crisis (Veil et al., 2008 ,p .2 8 ) .T h u s ,t h e o r i e sa n dm o d e l so f
+crisis communication typically focus on organisational outcomessuch as reputation, or overall impressions of the organisation's
+favorability (Coombs, 2010 ). However, crises can come with
+additional or associated risks that require timely and effectivemessages to motivate protective action (Veil et al., 2008 ), intro-
+ducing an element of public safety and related behaviouraloutcomes (e.g., protective action behaviour) that are traditionally
+the focus of warning communication. Importantly, crisis communi-
+cation and warning communication scholars alike have found that
+reputational factors, in addition to the message content and style
+elements identified in the WRM, c an influence protective action
+behaviours in high ‐risk situations (DeYoung et al., 2019 ). From
+qualitative research with residents of Hawaii who received a false
+alert for an incoming interconti nental ballistic missile, DeYoung
+et al. ( 2019 ) found that many participants sought to confirm the
+alert with other sources due to lack of trust in the original message.
+Additionally, message receivers e xpressed decreased trust in the
+organisation and increased concerns about the legitimacy of futuremessages, should another alert be issued (DeYoung et al., 2019 ).
+One crisis communication theory that provides messaging
+recommendations for all types of organisations facing crises,including public safety organisations, is SCCT (Coombs, 2007 ). SCCT
+is a prescriptive framework that can guide crisis response by
+considering the amount of responsibility the public is likely toattribute to the responding organisation during a crisis event (Fediuk
+et al., 2010 ). The theory includes response strategies for a variety of
+crises, including those where the organisation is a victim of the crisis(e.g., natural disasters, rumours), accidents (e.g., technical errors), andintentional incidents (e.g., organisational misdeeds, human error;
+Coombs, 2007 ). SCCT states that the levels of responsibility
+attributed to an organisation will depend on if the organisation is avictim of the crisis —or suffers losses and was not responsible for
+causing the crisis —as well as its prior crisis history (i.e., past or
+recurring organisational misdeeds) and reputation (Ulmer et al., 2018 ).
+SCCT also argues that organisations can effectively influence
+stakeholder perceptions of a crisis and their attributions of
+responsibility by creating effective messages in response to the crisis.
+Response message strategies should consider the level of
+organisational responsibility for the crisis and its prior crisis history.
+However, regardless of organisational responsibility or prior history,
+SCCT recommends that crisis communicators include a base responseconsisting of instructing and adjusting information to help the public
+cope physically and psychologically, respectively, as they manage
+their response and recovery (Coombs, 2007 ; Sturges, 1994 ; Zhang &
+Zhou, 2020 ). In other words, officials should address the primary
+informational needs of those at risk by providing information that
+tells people how to protect themselves (i.e., instructing information)and helps them to cope with the emotional stress and uncertainty of
+a crisis (i.e., adjusting information). Importantly, Coombs ( 2007 )
+explains that these types of information should be provided as soonas possible after a crisis occurs and before any reputation repair
+efforts, such as denying responsibility, attacking accusers, or
+apologising. Providing 'a complete overview of relevant instructing
+and adjusting information' during a crisis can reduce anxiety anduncertainty for message receivers and increase their trust in the
+source, thereby protecting reputation without engaging in explicit
+reputation repair efforts (Claeys et al., 2022 , p. 360). By providing
+instructing and adjusting information as part of the initial organisa-
+tional response, organisations demonstrate that they are activelyCAIN ET AL. |3o f1 1
+ 14685973, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12516 by Be t - University of Mary Washington , Wiley Online Library on [19/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+helping victims of a crisis, which can help to minimize reputational
+damage for the organisation (Coombs, 2015 ). Next, we describe
+instructing and adjusting information in greater detail.
+1.2.1 |Instructing information
+Instructing information focuses on information directing people to
+physically protect themselves from a crisis (Coombs, 2015 ). This
+concept closely aligns with Mileti and Sorensen's ( 1990 ) definition of
+protective action guidance from the WRM and includes public safety ‐
+oriented calls to action (Coombs, 2015 ) such as 'shelter in
+place', 'avoid the area', or 'leave now'. Although instructing informa-
+tion should be provided as soon as possible during a crisis
+(Sturges, 1994 ), the SCCT literature lacks specific message design
+recommendations regarding the contents and style of instructing
+information beyond providing highly instructive information (Claeys
+et al., 2022 ) that directs physical response to a crisis, including
+descriptions of who could be affected, how to get to safety, and how
+to protect oneself (Page, 2020 ).
+1.2.2 |Adjusting information
+Adjusting information focuses on information that can help people
+cope with the emotional stress and uncertainty of a crisis. According
+to Coombs ( 2007 ), 'a crisis creates a need for information. The
+uncertainty of a crisis produces stress for stakeholders. To cope withthis psychological stress, stakeholders need information about what
+had just happened' (p. 165). Adjusting information is important for
+psychological coping and stakeholder well ‐being, but some scholars
+have also indicated that it should be provided immediately after,
+rather than during, the crisis (Page, 2020 ; Sturges, 1994 ).
+Adjusting information can take several forms such as expressions
+of concern, solidarity, and sympathy for victims of the crisis(Coombs, 2010 ); information about mental health resources available
+to victims and their family members (Liu et al., 2020 ); and details of
+corrective actions being taken by the organisation (e.g., actions beingtaken to prevent a repeat of the event; Coombs, 2010 ; Page, 2020 ).
+Page ( 2020 ), however, expanded upon the definition of adjusting
+information, arguing that 'providing an explanation of the causes andresolution of a crisis' (p. 3) can also serve as adjusting information.
+Page ( 2020 ) conducted a series of interviews evaluating the extent to
+which explanations and resolution affected public perceptions oforganisational reputation for a fictitious company facing a reputa-tional crisis. They found that interviewees preferred messages
+explaining what had happened during the crisis, with particular
+emphasis on how the crisis was resolved. This kind of adjustinginformation assured message receivers that they were safe and that
+the organisation cared for their well ‐being (Page, 2020 ). Indeed,
+many crisis communication scholars have found that adjustinginformation that provides details about the organisational response
+or corrective actions can reduce psychological stress and uncertaintyby assuring the public that the organisation is in control of the
+situation and cares about their well ‐being, thereby protecting the
+organisation's reputation (Kim & Sung, 2014 ; Page, 2020 ; Sellnow
+et al., 1998 ; Zhang & Zhou, 2020 ).
+However, SCCT prescribes strategies for responding to crises
+broadly, as it was developed for crisis response strategies, not alert and
+warning communication. Importantly , the character limitations for WEAs
+may prevent the inclusion of detailed descriptions of corrective actionsand other forms of adjusting information. In fact, results from a studyassessing the inclusion and use of inst ructing and adjusting information in
+government Twitter, Instagram, Facebook, and official website posts
+found that only 26.5% of posts include d information about organisational
+efforts to minimize harm (i.e., c orrective actions; Liu et al., 2020 ). Although
+this study coded corrective actions sepa rately from adjusting information,
+these contents do fit the definition of adjusting information providedby Coombs ( 2010 )a n dP a g e( 2020 ). This information was less likely to
+appear on Twitter, which limits messages to 280 characters, in
+comparison with channels that do not p lace limitations on content length
+such as Facebook (Liu et al., 2020 ).
+Furthermore, crisis communication scholarship, such as SCCT,
+emphasizes the importance of instructing information for messagesshared with victims during the crisis, especially 'during health crises,product recalls, natural disasters, and other events that threaten
+public safety and well ‐being' (Kim et al., 2011 , p. 185). However, the
+nature of the hazard (including whether there are victims) and level ofhuman intervention required to resolve the hazard (e.g., officers
+needing to apprehend a suspect) may result in varied use of adjusting
+information between different hazard types.
+1.3 |Summary
+In summary, the WRM model prescribes the inclusion of five
+contents: source, hazard, location, guidance, and time. The inclusion
+of organisational response information, which we argue is a form ofadjusting information, does not align with the WRM. Although
+instructing information is similar to protective action guidance found
+in the WRM, there is no equivalent for adjusting information in theexisting WRM framework. We have observed both instructing and
+adjusting information (namely, organisational response information)
+in previously sent WEAs (see Public Broadcast System Warning,Alert, and Response Network, 2022 ); however, it remains unknown
+how frequently this content is included, whether these contents are
+more prevalent in longer or shorter WEAs, and whether theirinclusion differs by hazard type. Given the dearth of research on theuse of crisis communication strategies in alert and warning messages,
+we pose the following research questions:
+RQ1. How frequently is instructing information and adjusting
+information included in WEAs?
+RQ2. What types of adjusting information are included
+in WEAs?4o f1 1 |CAIN ET AL.
+ 14685973, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12516 by Be t - University of Mary Washington , Wiley Online Library on [19/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+RQ3. How does instructing and adjusting information inclusion
+differ by WEA length (90or360 characters )?
+RQ4. How does instructing and adjusting information use differ
+by hazard type?
+2|METHODS
+We conducted a quantitative content analysis of 4777 WEAs
+obtained from FEMA ‐IPAWS sent between 2019 and 2022. WEAs
+were manually coded for completeness (i.e., inclusion of the fivecontents identified in the WRM; where content on guidance is
+equivalent to instructing information), their inclusion of adjusting
+information (including organisational response information), andhazard type. Descriptive analyses and/or chi ‐square tests were
+conducted to illustrate differences in use of instructing and adjusting
+information between 90 ‐and 360 ‐character messages and between
+WEAs for various hazard types.
+2.1 |Sample
+The sampling frame for this study includes the historical record of
+WEAs sent by state, local, tribal, and territorial AAs from 2012 to2022 ( n= 7645). For this analysis, we narrowed this sample to include
+WEAs sent between December 18, 2019, and April 13, 2022
+(n= 6252). The start of this timeframe coincides with the introduction
+of 360 ‐character WEAs. We do not include messages from federal
+sources such as the National Weather Service or the National Centre
+for Missing and Exploited Children. Additionally, duplicate messages(i.e., identical messages sent as both 90 ‐and 360 ‐character WEAs,
+n= 1104) and post ‐alert or cancellation messages ( n= 445) were
+excluded from the content analysis, yielding a sample of 4777messages. Only the content of the messages themselves was coded;
+any information linked through URLs was not included in the analysis.
+2.2 |Coding scheme
+All WEAs in the sample were coded for completeness (i.e., containing
+source, hazard, location, protective action guidance/instructing infor-mation, and time information; Mileti & Sorensen, 1990 ). WEAs were
+also coded for presence or absence of content that represented
+adjusting information. Adjusting information was defined as informa-
+tion related to psychological coping advice or resources (Liu et al., 2020 )
+and/or details of official organisational response efforts. Inclusion
+of adjusting information as psychological coping advice was indicated
+by content directing readers to mental health resources. Inclusion oforganisational response information was indicated by language that
+described official actions to directly address the hazard or hazard
+impacts in question before, during, or after the initial event. Our codingcriteria are detailed in the following paragraphs and summarized in
+Table 1with italics added to emphasize contents that qualified
+messages for inclusion.
+The coding scheme was developed via inductive content analysis.
+We extracted and recorded language used to describe organisational
+response efforts to build a lexicon of response types (e.g., issuing,
+working, ordering, etc.). From this lexicon, two main categories ofresponse emerged: actions , that is, organisational physical response
+activities, and orders , or enforceable statements designed to initiate
+public response. We then identified content describing an organisa-tion's active response to a named hazardous event as a form of
+adjusting information. For example: 'crews have restored services'
+following a water main break points to (a) an organisation ('crews')and (b) physical response ('restored services') to manage and/orresolve a hazard during or following the hazard event. Therefore, the
+passive version (e.g., 'service has been restored') would not be coded
+TABLE 1 Examples of adjusting information coding criteria.
+Decision Example message Explanation
+Included Spokane County Fire District 4 is keeping Level 2 evacuations in place
+for the Nelson Creek Fire . Residents from East Bridges S to E
+Nelson Rd and N Madison East to N Jackson Rd should still stay
+prepared and monitor your phones.This message positions the fire district as making an official
+decision regarding evacuation status. This action aims to
+mitigate the wildfire threat.
+Law enforcement is in the area along Hwy 71 between County Roads Y
+and Z looking for a suspected armed suspect . Stay inside and lock
+doors. Remove Keys from outside vehicles. Call 911 if youobserve anyone suspicious.This message includes detail that law enforcement personnel are
+actively looking for the suspect.
+Northampton Public Works is currently working to repair a watermain
+break in your area.This message demonstrates a strategic choice in language to depict
+Public Works as actively working to repair an issue.
+Excluded Santa Maria PD Requesting resident shelter in place at this time due
+to police activity.This message positions Santa Maria PD as the source of a request
+to shelter in place, but 'requesting' does not hold the same legal
+significance as terms like 'issuing' or 'ordering'.
+The water system in Avon has been repaired . Boil water for human
+use until 6.14.21 @ 3 PM.This message does not identify who repaired the water system, and
+the reader cannot assume that an official source is responsible.CAIN ET AL. |5o f1 1
+ 14685973, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12516 by Be t - University of Mary Washington , Wiley Online Library on [19/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+as adjusting information, as the role of an organisation in reaching
+that resolution is unclear.
+Second, we include actions such as 'issuing', 'advising', and 'warning'
+as organisational response information when the organisation is
+positioned as 'doing' the action (e.g., 'The Shasta County Sheriff's Office
+has issued an evacuation warning due to the Fawn fire'; Public
+Broadcast System Warning, Alert, and Response Network, 2021a ).
+These messages reflect strategic choices in phrasing to identify who isresponsible for a warning and position the organisation as playing adirect role in addressing a hazard or attempting to mitigate hazard
+impacts but do not clearly direct individuals to take a specific protective
+action. By identifying themselves as the source of an evacuation, order,or warning, organisations demonstrate that they are exercising due
+diligence to warn of an impending threat and potentially fulfil legal
+obligations to provide timely warnings and effective protectiveguidance. However, terms such as 'urging', 'asking', 'reporting', and
+'reminding' were not included in our c onceptualisation of organisational
+response information, as such phrasi ng primarily serves to identify the
+source of the advisory and does not hold the same legal implication as
+terms like 'ordering' or 'issuing'.
+Additionally, inclusion of organisational response information
+was coded only when response activities were distinct from thehazard itself. For example, several law enforcement ‐related hazardssuch as 'police activity' imply official action to address some hazard
+(e.g., 'Avoid area at and near Southlake Mall on US 30 —Police
+Activity'; Public Broadcast System Warning, Alert, and Response
+Network, 2021c ). This statement implies an official response to some
+hazard; however, if the hazard was not explicitly named in themessage, these WEAs were not coded as including organisational
+response information because 'police activity' is presumed to be the
+hazard. Another example is a 90 ‐character WEA that states 'Xcel will
+be conducting rolling blackouts' (Public Broadcast System Warning,Alert, and Response Network, 2021d ). The 360 ‐character version of
+this message specifies that the blackouts were intentional to mitigate
+threats from a nearby wildfire, but without that knowledge theblackouts arethe hazard instead of a response to address or mitigate
+the hazard.
+Three other pieces of information were considered in this
+analysis: inclusion of instructing information or guidance, message
+length, and hazard type. Instructing information or guidance was
+coded as present when WEAs contained explicit instruction toreceivers to take action in response to the hazard (e.g., 'take
+shelter', 'check local media', 'call 9 ‐1‐1 if spotted'). Message length
+(90‐or 360 ‐characters) was included in the data set as metadata for
+each WEA; hazard type was coded manually to align with categoriesfrom Sutton, Wood, et al. ( 2023 ; see Table 2).
+TABLE 2 List of hazard categories and sub ‐categories adapted from Sutton, Olson, et al. ( 2023 ).
+Hazard category Hazards
+Atmospheric Blizzard Dust storm Extreme cold
+Extreme heat Flash flood FogHail Heavy rain Heavy snowHigh wind Hurricane/tropical storm/
+tropical cycloneIce
+Severe thunderstorm Snow squall Storm surge
+Tornado Tsunami Winter storm
+Geophysical Avalanche Earthquake Landslide
+Mud/debris flow Rock fall SinkholeVolcano
+Law enforcement Active shooter Bomb threat Civil disturbance
+Hostage taking
+Public health Air quality Bio ‐hazard Infectious disease/novel
+pandemic
+Public safety Blackout/brownout Water service disruption 911 telephone outage
+Technological Bridge collapse Building collapse Building fire
+Chemical release Dam/levee failure ExplosionHazardous materials release Industrial plant fire Radiological release/
+accident
+Toxic fumes
+Wildfire6o f1 1 |CAIN ET AL.
+ 14685973, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12516 by Be t - University of Mary Washington , Wiley Online Library on [19/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+2.3 |Coding process
+Contents were manually coded using Excel spreadsheets. Each
+message was read as a single unit of observation. The WRM contents
+and adjusting and instructing information were coded dichotomouslyas present or absent in each message. Intercoder reliability for
+protective action guidance (i.e., instructing information) was performed
+by the first author and a research assistant on the entire WEA data setprovided by FEMA ( n= 7645). We used 300 messages that were
+randomly selected for intercoder reliability (Lombard et al., 2002 ),
+including 50 messages used for pilot coding (Neuendorf, 2017 ).
+Reliability was calculated using ReCal2 (Freelon, 2013 ) and was high
+(α= .96); the research assistant coded the remainder of the sample.
+Intercoder reliability for adjusting information was performed
+later in a separate process, looking solely at messages sent between2019 and 2022 ( n= 4777), but followed a similar procedure. The first
+and second authors first reviewed and refined the inclusion and
+exclusion criteria for organisational response information beforeconducting two rounds of pilot coding with 50 messages each.
+Agreement was satisfactory after the second round of pilot coding.
+The coders proceeded to code 300 messages (Lombard et al., 2002 ),
+including the 50 messages from the second round of pilot coding;Neuendorf, 2017 ) and reached high reliability ( α= .96) calculated
+using ReCal2 (Freelon, 2013 ). The first author coded the remainder of
+the sample, referring to the second coder for a second opinion whennecessary.
+2.4 |Data analysis
+Descriptive statistics were used to identify differences in the
+inclusion of instructing and adjusting information, between 90 ‐and
+360 ‐character messages, and between hazard categories. We
+conducted additional chi ‐square tests to determine if differences in
+use were statistically significant.
+3|RESULTS
+3.1 |Use and types of adjusting information
+Instructing information was included in 72.2% of WEAs ( n= 3450).
+Adjusting information was included in 13.7% ( n= 656) of WEAs.Additionally, 8.8% of the sample ( n= 419) included both instructing
+and adjusting information. Three categories of adjusting informationwere included: mental health resources, official orders, and official
+actions. The first category, mental health resources, includes the
+conceptualisation of adjusting information as emotional coping andmental health resource information (e.g., Liu et al., 2020 ), and was
+observed in 0.1% of the sample ( n= 4). The content of these four
+messages was nearly identical and were all sent by the same AA forthe same hazard.
+The second and third categories represent two forms of
+organisational response efforts: orders and actions. Language
+that described an official org anisation as issuing an order or
+advisory was observed in 9.0% ( n= 432) of WEAs. Language that
+described an official organisation's physical response to the
+hazard was observed in 4.6% ( n= 221) of WEAs. One message in
+our sample included details of both an organisational order and
+action. Examples of messages from each of these three categories
+are provided in Table 3.
+3.2 |Differences by message length
+Of the total sample ( N= 4777), 60.8% ( n= 2904) were 90 ‐character
+WEAs and 39.2% ( n= 1873) were 360 ‐character WEAs. Instructing
+information was included in 62.0% ( n= 1801) of 90 ‐character
+messages and 88.0% ( n= 1649) of 360 ‐character messages. This
+difference was significant ( χ2(1) = 384.329, p< .001, phi = 0.284),
+with 360 ‐character messages being more likely to include instructing
+information.
+Adjusting information was observed in 7.1% ( n=2 0 6 ) o f 9 0 ‐
+character messages and 24.0% ( n=4 5 0 ) o f 3 6 0 ‐character messages.
+There was a significant difference for inclusion of adjusting informa-tion between 90 ‐and 360 ‐character messages ( χ
+2(1) = 275.548,
+p< .001, phi = 0.240), whereby 360 ‐character messages were more
+likely to include adjusting information. Results are summarized inFigure 1.
+3.3 |Differences by hazard type
+Next, we assessed differences in inclusion of instructing and adjusting
+information between WEAs sent for different hazards. We find that
+public safety WEAs most frequently included instructing information
+TABLE 3 Categories of adjusting information and example messages.
+Type Example
+Emotional coping Dealing with challenging emotions or situations in these times? Reach out, you're not alone! Call our 24 h @ 915 ‐779 ‐1800 or
+go to emergencehealthnetwork.org.
+Organisational order UCPD ordering a shelter in place for those within a 1/2 mile of 1589 South Garnet Mine Road due to active shooter . If you are not
+in the area do not return to your home.
+Organisational action City of Centerville is repairing a water main . Residents boil water until further notice.CAIN ET AL. |7o f1 1
+ 14685973, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12516 by Be t - University of Mary Washington , Wiley Online Library on [19/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+(n= 537, 80.3%), followed by technological ( n= 158, 80.2%), and public
+health ( n= 693, 80.1%) WEAs. Wildfire ( n= 1005, 63.2%) and other/
+unknown ( n= 48, 62.3%) WEAs included instructing information less
+frequently. Results are summarized in Table 4.
+Inclusion of adjusting information was highest in law
+enforcement ( n= 214, 25.2%) WEAs, followed by other/unknown
+(n= 11, 14.3%), technological ( n= 26, 13.2%), and public safety
+(n= 82, 12.3%) WEAs. Public health WEAs ( n= 85, 9.8%) included
+adjusting information least frequently. Results are summarized inTable 5.4|DISCUSSION
+In this content analysis of 4777 WEAs sent between 2019 and 2022, we
+find that approximately 72% of messages included protective action
+guidance, which, in this analysis, represents contents that reflectinstructing information; this practice is supported by message design
+frameworks from both risk (WRM; Mileti & Sorensen, 1990 )a n dc r i s i s
+(SCCT; Coombs, 2007 ) communication scholarshi p. Additionally, 13.7% of
+WEAs included adjusting information —or information to help receivers
+psychologically cope. Although this practice is not recommended by the
+WRM, it is recommended by SCCT to help receivers psychologically copewith the crisis. Approximately 9% of WEAs included both instructing and
+adjusting information.
+In response to RQ2, our analysis also identified three forms of
+adjusting information present in these WEAs: (a) providing mentalhealth resources, (b) describing organisational actions in response to
+the hazard, and (c) describing organisational orders to mitigate threats
+associated with the hazard. The latter two represent what we call'organisational response information'. Thus, we expand the definition
+of adjusting information applied by Liu et al. ( 2020 ), which focused
+only on mental health resources and coping advice, and argue thatinformation regarding organisational efforts to address the current
+crisis and reduce harm also functions as adjusting information. In
+doing so, we extend the work of Coombs ( 2007 ), Liu et al. ( 2020 ), and
+Page ( 2020 ) to determine how organisations include adjusting
+information in WEA messages. Future research may show that
+establishing that an organisation is actively involved in hazard
+response at the start of the warning period may help to soothe theconcerns of the public, 'resolving [stressors the audience is
+experiencing and responding to] through strategic communication
+that ultimately maintains and builds credibility for the communicatoror organisation' (Veil et al., 2008 , pp. 28 –29). Indeed, crises
+FIGURE 1 Bar chart displaying the frequencies and percentages for inclusion of instructing and adjusting information of 90 ‐and
+360 ‐character WEAs.
+TABLE 4 Inclusion of instructing information by hazard type.
+Hazard typeWEAs with
+instructinginformationTotal nfor
+hazardtype% of WEAs with
+instructinginformation
+Atmospheric 382 494 77.3
+Geophysical 23 34 67.6
+Law enforcement 604 850 71.1
+Other/unknown
+a48 77 62.3
+Public health 693 865 80.1
+Public safety 537 669 80.3
+Technological 158 197 80.2
+Wildfire 1005 1591 63.2
+Note : Percentages reflect the percent of messages that contain instructing
+information within each hazard category.
+aOther/unknown includes messages for which the hazard was not named
+or could not be determined, and messages that shared information forhazards that did not fit within categories in the Warning Lexicon(e.g., general preparedness messages, polling location closures, etc.;
+Sutton, Olson, et al., 2023 ).8o f1 1 |CAIN ET AL.
+ 14685973, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12516 by Be t - University of Mary Washington , Wiley Online Library on [19/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+inherently hold some degree of uncertainty, but explaining the
+corrective actions being taken to address the crisis can help to reduce
+psychological stress caused by this uncertainty (Sellnow et al., 1998 ).
+Additionally, including organisational response information may
+serve to manage an organisation's reputation. From an SCCT
+perspective, reputation threats stem from how the public viewswho is responsible for the crisis (Page, 2019 ). Organisations can
+communicate their response actions to help establish organisa-
+tional 'presence', such as actively detecting, monitoring, respondingto, and communicating about an unfolding event (Helsloot &Groenendaal, 2017 ;L i ue ta l . , 2020 ). Establishing presence can also
+help to avoid negative public perceptions of organisational
+credibility (Liu et al., 2020 ). This information helps to frame the
+responding organisation as a competent responder and manager
+that engages in socially standardized rituals associated with
+leadership in times of crisis (Helsloot & Groenendaal, 2017 ). These
+principles have not yet been evaluated in the space of terse
+messages such as WEAs but may provide valuable insight as to how
+corrective actions typically associated with reputation managementcan affect risk communication outcomes.
+In response to RQ3, our analysis also shows that the inclusion of
+both instructing and adjusting information was significantly higher in360 ‐character WEAs than in 90 ‐character WEAs, indicating that AAs
+are taking advantage of the expanded character count to include
+additional detail in their messages about what their organisations are
+doing. However, the appropriateness and urgency of including thisinformation in WEAs, which are intended to alert and warn publics of
+imminent threats, remains questionable.
+The effects of adjusting information may be more influential for
+certain hazards, specifically those that are human ‐induced or require
+official intervention to resolve. In response to RQ4, our analysisshows that adjusting information was most frequently observed in
+law enforcement messages, in which officials were often described asactively responding to an ongoing threat. This information may be
+included to reassure receivers that officers are doing their jobs and
+the situation is being addressed. In some cases, such information maybe viewed less as an assurance and more as a statement of power and
+control.
+The benefits of adjusting information have been well ‐
+demonstrated in crisis communic ation literature (e.g., Claeys
+et al., 2022 ;P a g e , 2020 ); however, these studies use long ‐form
+risk messages for long ‐fuse threats as their stimuli, including
+some messages with visual comp onents. These messages cannot
+be classified as terse messages for short ‐fuse imminent threats as
+WEAs are and are not received by the public in the same ways.
+Thus, until researchers can demonstrate the positive effects ofincluding adjusting information in WEAs on terse messaging
+outcomes recommended by the WRM , including message under-
+standing, believing, personalising, and deciding (see Mileti &Sorensen, 1990 ;W o o de ta l . , 2018 ) ,w es u g g e s tt h a tA A s
+continue to adhere to warning messaging guidelines from the
+WRM, which have been empirically supported in a variety ofhazard contexts (see Wood et al., 2015 ). This is especially
+important when AAs must choose which contents to include in
+character ‐constrained channels such as WEAs. Less than three ‐
+quarters of the messages analysed in this study includedprotective action guidance, yet we know from prior work that
+excluding instructing informat ion from WEAs can result in lower
+message understanding and self ‐efficacy (Sutton et al., 2021 )a n d
+delayed protective actions (Wood et al., 2018 ).
+4.1 |Limitations and future research
+Given that extant alert and warning literature has not previously
+explored the presence of adjusting information in WEAs, there is awealth of future research opportunities. We have defined and
+quantified the use and types of adjusting information in WEAs
+historically, including organisational response information; however,the results of this content analysis do not provide any explanation
+as to why AAs choose to include (or exclude) adjusting information
+in WEAs. It would be worthwhile to conduct interviews and/orfocus groups with AAs to understand why they choose to include
+(or exclude) adjusting information. Perhaps some AAs have been
+trained as public information officers, thus aligning more with thegoals of crisis communication to fill informational needs (Veilet al., 2008 ), rather than to alert and warn publics with an emphasis
+on protective action. Findings from such research could be used to
+inform AA training materials to ensure that appropriate contents areprovided in WEAs.
+Additionally, this study does not assess public responses to
+WEAs that include adjusting information, leaving us to wonderwhether its inclusion affects protective action or organisational
+reputation outcomes. In the month following the content analysisTABLE 5 Inclusion of adjusting information by hazard type.
+Hazard typeWEAs with
+adjusting
+informationTotal nfor
+hazard
+type% of WEAs with
+adjusting
+information
+Atmospheric 55 494 11.1
+Geophysical 4 34 11.8
+Law enforcement 214 850 25.2
+Other/unknowna11 77 14.3
+Public health 85 865 9.8
+Public safety 82 669 12.3
+Technological 26 197 13.2
+Wildfire 179 1591 11.3
+Note : Percentages reflect the percent of messages that contain adjusting
+information within each hazard category.
+aOther/unknown includes messages for which the hazard was not named
+or could not be determined, and messages that shared information for
+hazards that did not fit within categories in the Warning Lexicon(e.g., general preparedness messages, polling location closures, etc.;Sutton, Olson, et al., 2023 ).CAIN ET AL. |9o f1 1
+ 14685973, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12516 by Be t - University of Mary Washington , Wiley Online Library on [19/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+study presented here, the research team conducted a public message
+testing experiment to assess the effect of organisational responseinformation on outcomes related to the WRM and organisational
+reputation. Results showed no significant effects of including
+organisational response information on any measured outcomesacross five hazards (Sutton, 2023 ). Future work will investigate how
+the type of hazard (e.g., natural hazards vs. human ‐induced) affects
+public perceptions of adjusting information contained in WEAs.
+Lastly, this study identified different forms of adjusting informa-
+tion but did not assess forms of instructing information in WEAs.
+Future studies should investigate the different forms of protec-
+tive action guidance in terms of types of recommended actions(e.g., 'evacuate now' vs. 'check local media') and how explicit versus
+implied those guidance instructions are (e.g., providing a link vs.
+'Check for updates here:'). Additionally, some of the components ofthe WRM could be used to assess the level of detail used to describe
+instructing information (e.g., if instructions to evacuate include the
+location and time at which to evacuate).
+5|CONCLUSION
+This study represents a crucial step toward understanding how
+principles of crisis communication are used in the context of alerts
+and warnings for imminent threats, drawing from our presentknowledge of the use of instructing and adjusting information during
+crises. We find that adjusting information in WEAs typically takes the
+form of organisational response information detailing official effortsto address or mitigate threats to public safety; however, this
+information was included in only 13.7% of WEAs in our sample.
+Adjusting information was most frequently found in law enforcement messages and was significantly more likely to be included in360 ‐character WEAs compared to 90 ‐character WEAs, indicating
+that AAs are taking advantage of less restrictive space limitations
+to include additional detail about hazard incidents. Instructinginformation, which is recommended in both the WRM (Mileti
+& Sorensen, 1990 ) and SCCT (Coombs, 2007 ), was present in the
+large majority of WEAs overall.
+Crisis communication theory (e.g., Coombs, 2007 ; Page, 2020 ;
+Sellnow et al., 1998 ) suggests that adjusting information, including
+details of corrective actions or explanations of crisis resolution, canreduce uncertainty for message receivers, thereby reducing psycho-
+logical stress and improving their perceptions of the responding
+organisation. However, when considering the length limitationsimposed on WEAs along with suggestions that adjusting informationshould be shared during recovery phases after a crisis and second to
+instructing information (Coombs, 2015 ), the appropriateness of
+including these details in WEAs remains questionable. Future workis required to determine whether any potential benefits of including
+adjusting information in WEAs warrant dedicating limited characters
+to that information and whether this information is more important inspecific hazard contexts.ACKNOWLEDGEMENTS
+This material is based upon work supported by FEMA ‐IPAWS
+(70FA5021C00000016) awarded to Jeannette Sutton. Any opinions,
+findings, conclusions, or recommendations expressed in this material
+are those of the author(s) and do not necessarily reflect the views ofFEMA. We thank Nicholas Waugh (University at Albany, State
+University of New York) for assistance in data analysis.
+DATA AVAILABILITY STATEMENT
+Data may be available upon request.
+ORCID
+Lauren B. Cain
+http://orcid.org/0000-0003-1547-499X
+Michele K. Olson http://orcid.org/0000-0002-0546-0570
+REFERENCES
+Bean, H. (2019). Mobile technology and the transformation of public alert
+and warning. ABC ‐CLIO.
+Burgeno, J. N., & Joslyn, S. L. (2020). The impact of weather forecast
+inconsistency on user trust. Weather, Climate, and Society ,12(4),
+679 –694. https://doi.org/10.1175/WCAS-D-19-0074.1
+Claeys, A. S., De Waele, A., & Koppen, E. (2022). Informing the public
+matters: A field experiment during an ongoing health crisis in
+Belgium. Journal of Contingencies and Crisis Management ,30(4),
+354 –364. https://doi.org/10.1111/1468-5973.12377
+Coombs, W. T. (2007). Protecting organization reputations during a crisis:
+The development and application of Situational Crisis Communica-
+tion Theory. Corporate Reputation Review ,10(3), 163 –176. https://
+doi.org/10.1057/palgrave.crr.1550049
+Coombs, W. T. (2015). The value of communication during a crisis:
+Insights from strategic communication research. Business Horizons ,
+58(2), 141 –148. https://doi.org/10.1016/j.bushor.2014.10.003
+Coombs, W. T. (2010). Parameters for crisis communication. In W. T.
+Coombs & S. J. Holladay (Eds.), The handbook of crisis communication
+(1st ed., pp. 17 –53). Wiley ‐Blackwell. https://doi.org/10.1002/
+9781444314885.ch1
+DeYoung, S. E., Sutton, J. N., Farmer, A. K., Neal, D., & Nichols, K. A.
+(2019). “Death was not in the agenda for the day ”: Emotions,
+behavioral reactions, and perceptions in response to the 2018Hawaii Wireless Emergency Alert. International Journal of Disaster
+Risk Reduction ,36, 101078. https://doi.org/10.1016/j.ijdrr.2019.
+101078
+Federal Emergency Management Agency. (2020). FEMA fact sheet:
+Wireless Emergency Alerts (WEA) .https://www.ready.gov/sites/
+default/files/2020-08/wea-fact-sheet.pdf
+Fediuk, T. A., Coombs, W. T., & Botero, I. C. (2010). Exploring crisis from a
+receiver perspective: Understanding stakeholder reactions duringcrisis events. In W. T. Coombs & S. J. Holladay (Eds.), The handbo ok
+of crisis comm unication (pp. 635 –656). Wiley ‐Blackwell. https://doi.
+org/10.1002/9781444314885.ch31
+Fischer, L., Huntsman, D., Orton, G., & Sutton, J. (2023). You have to send
+the right message: Examining the influence of protective actionguidance on message perception outcomes across prior hazardwarning experience to three hazards. Weather, Climate, and Society ,
+15(2), 307 –326. https://doi.org/10.1175/WCAS-D-22-0092.1
+Freelon, D. (2013). ReCal OIR: Ordinal, interval, and ratio intercoder
+reliability as a web service. Journal of Internet Science
+,8(1), 10 –16.
+https://www.ijis.net/ijis8_1/ijis8_1_freelon.pdf
+Helsloot, I., & Groenendaal, J. (2017). It's meaning making, stupid! Success
+of public leadership during flash crises. Journal of Contingencies and10 of 11 |CAIN ET AL.
+ 14685973, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12516 by Be t - University of Mary Washington , Wiley Online Library on [19/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Crisis Management ,25(4), 350 –353. https://doi.org/10.1111/1468-
+5973.12166
+Kim, S., Avery, E. J., & Lariscy, R. W. (2011). Reputation repair at the
+expense of providing instructing and adjusting information following
+crises. International Journal of Strategic Communication ,5(3),
+183 –199. https://doi.org/10.1080/1553118X.2011.566903
+Kim, S., & Sung, K. H. (2014). Revisiting the effectiveness of base crisis
+response strategies in comparison of reputation management crisisresponses. Journal of Public Relations Research ,26(1), 62 –78.https://
+doi.org/10.1080/1062726X.2013.795867
+Kuligowski, E. D., Waugh, N. A., Sutton, J., & Cova, T. J. (2023). Ember
+alerts: Assessing Wireless Emergency Alert (WEA) messages inwildfires using the warning response model. Natural Hazards Review ,
+24(2), 04023009.
+Liu, B. F., Iles, I. A., & Herovic, E. (2020). Leadership under fire: How
+governments manage crisis communication. Communication Studies ,
+71(1), 128 –147. https://doi.org/10.1080/10510974.2019.1683593
+Lombard, M., Snyder ‐Duch, J., & Bracken, C. C. (2002). Content analysis in
+mass communication: Assessment and reporting of intercoder
+reliability. Human Communication Research ,28(4), 587 –604.
+https://doi.org/10.1111/j.1468-2958.2002.tb00826.x
+Mileti, D. S. (2018). PrepTalks: “Modernizing public warning messaging. ”
+https://www.youtube.com/watch?v=oYya009bc2M
+Mileti, D. S., & Sorensen, J. H. (1990). Communication of emergency
+public warnings: A social science perspective and state ‐of‐the‐art
+assessment ORNL ‐6609 (1 –262). Oak Ridge National Laboratory.
+National Weather Service. (2022). Wireless Emergency Alerts (360 characters) .
+National Oceanic and Atmospheric Administration. https://www.
+weather.gov/wrn/wea360
+Neuendorf, K. A. (2017). The content analysis guidebook . SAGE Publica-
+tions, Inc. https://doi.org/10.4135/9781071802878
+Olson, M. K., Sutton, J., Cain, L. B., & Waugh, N. (2023). A decade of
+Wireless Emergency Alerts: A longitudinal assessment of WEA content
+and completeness .
+Page, T. G. (2019). Beyond attribution: Building new measures to explain
+the reputation threat posed by crisis. Public Relations Review ,45(1),
+138 –152. https://doi.org/10.1016/j.pubrev.2018.10.002
+Page, T. G. (2020). Measuring success: Explications and measurement
+scales of instructing information and adjusting information. Public
+Relations Review ,46(4), 101952. https://doi.org/10.1016/j.pubrev.
+2020.101952
+Public Broadcast System Warning, Alert, and Response Network. (2021a).
+Alert ID a63ac5d5. https://warn.pbs.org/
+Public Broadcast System Warning, Alert, and Response Network. (2021b).
+Alert ID a652c3af. https://warn.pbs.org/
+Public Broadcast System Warning, Alert, and Response Network. (2021c).
+Alert ID a6e0dfd4. https://warn.pbs.org/
+Public Broadcast System Warning, Alert, and Response Network. (2021d).
+Alert ID a6e191b0. https://warn.pbs.org/
+Public Broadcast System Warning, Alert, and Response Network. (2022).
+Alert ID a783b2be. https://warn.pbs.org/
+Sellnow, T. L., Ulmer, R. R., & Snider, M. (1998). The compatibility of corrective
+action in organizational crisis communication. Communication Quarterly ,
+46(1), 60 –74.https://doi.org/10.1080/01463379809370084
+Sturges, D. L. (1994). Communicating through crisis: A strategy for
+organizational survival. Management Communication Quarterly ,7(3),
+297 –316. https://doi.org/10.1177/0893318994007003004
+Sutton, J. (2023). Message Design Dashboard (MDD) public message testing
+[Unpublished final technical report]. Federal Emergency ManagementAgency Integrated Public Alert and Warning System. Award No.
+70FA5021C00000016.
+Sutton, J., Fischer, L., James, L. E., & Sheff, S. E. (2020). Earthquake early
+warning message testing: Visual attention, behavioral responses, and
+message perceptions. International Journal of Disaster Risk Reduction ,
+49, 101664. https://doi.org/10.1016/j.ijdrr.2020.101664
+Sutton, J., Fischer, L., & Wood, M. M. (2021). Tornado warning guidance
+and graphics: Implications of the inclusion of protective actioninformation on perceptions and efficacy. Weather, Climate, and
+Society ,13(4), 1003 –1014. https://doi.org/10.1175/WCAS-D-21-
+0097.1
+Sutton, J., Olson, M. K., & Waugh, N. (2023). The warning lexicon: A multi ‐
+phased study to identify, design, and develop contents for warningmessages. Natural Hazards Review ,25, 04023055. https://doi.org/
+10.1061/NHREFO.NHENG-1900
+Sutton, J., Vos, S. C., Wood, M. M., & Turner, M. (2018). Designing
+effective tsunami messages: Examining the role of short messagesand fear in warning response. Weather, Climate, and Society ,10(1),
+75–87.https://doi.org/10.1175/WCAS-D-17-0032.1
+Sutton, J., Wood, M. M., Crouch, S., & Waugh, N. (2023). Public
+perceptions of U.S. earthquake early warning post ‐alert messages:
+Findings from focus groups and interviews. International Journal of
+Disaster Risk Reduction ,84, 103488. https://doi.org/10.1016/j.ijdrr.
+2022.103488
+Ulmer, R. R., Sellnow, T. L., & Seeger, M. W. (2018). Defining crisis
+communication, In Effective crisis communication: Moving from crisis
+to opportunity (4th ed., pp. 1 –23). SAGE Publications.
+Veil, S., Reynolds, B., Sellnow, T. L., & Seeger, M. W. (2008). CERC as a
+theoretical framework for research and practice. Health promotion
+practice ,9(4), 26S –34S. https://doi.org/10.1177/1524839908322113
+Weyrich, P., Scolobig, A., & Patt, A. (2019). Dealing with inconsistent
+weather warnings: Effects on warning quality and intended actions.Meteorological Applications ,26(4), 569 –583. https://doi.org/10.
+1002/met.1785
+Wood, M. M., Bean, H., Liu, B. F., & Boyd, M. (2015). Comprehensive
+testing of imminent threat public messages for mobile devices: Updatedfindings (pp. 1 –119). US Department of Homeland Security, START
+Center. https://www.dhs.gov/sites/default/files/publications/WEA
+%20-%20Comprehensive%20Testing%20of%20Imminent%
+20Threat%20Public%20Messages%20for%20Mobile%20Devices%20Updated%20Findings.pdf
+Wood, M. M., Mileti, D. S., Bean, H., Liu, B. F., Sutton, J., & Madden, S.
+(2018). Milling and public warnings. Environment and Behavior ,50(5),
+535 –566. https://doi.org/10.1177/0013916517709561
+Zhang, X., & Zhou, Z. (2020). Do instructing and adjusting information
+make a difference in crisis responsibility attribution? Merging fearappeal studies with the defensive attribution hypothesis. Public
+Relations Review ,46(5), 101979. https://doi.org/10.1016/j.pubrev.
+2020.101979
+How to cite this article: Cain, L. B., Sutton, J., & Olson, M. K.
+(2024). Wireless Emergency Alerts and organisational
+response: Instructing and adjusting information in alerts.Journal of Contingencies and Crisis Management ,32, e12516.
+https://doi.org/10.1111/1468-5973.12516CAIN ET AL. |11 of 11
+ 14685973, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12516 by Be t - University of Mary Washington , Wiley Online Library on [19/02/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

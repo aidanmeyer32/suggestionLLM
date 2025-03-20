@@ -1,0 +1,1537 @@
+Vol.:(0123456789)Natural Hazards (2023) 117:1711–1744
+https://doi.org/10.1007/s11069-023-05926-x
+1 3
+ORIGINAL PAPER
+Public alert and warning system literature review in the USA: 
+identifying research gaps and lessons for practice
+Abdul‑Akeem Sadiq1  · Ratna Okhai2  · Jenna Tyler3 · Rebecca Entress1 
+Received: 30 September 2022 / Accepted: 16 March 2023 / Published online: 11 April 2023 
+© The Author(s), under exclusive licence to Springer Nature B.V. 2023
+Abstract
+As emergencies continue to impact communities in the USA on an unprecedented scale, 
+it is imperative for communities to look for effective ways to keep people safe and reduce 
+future impacts. Public alert and warning systems are an effective means of accomplish-
+ing these goals. As such, researchers have studied public alert and warning systems exten-
+sively in the USA. Due to the plethora of studies on public alert and warning systems, a 
+systematic and comprehensive synthesize is needed to understand what has been studied 
+and their major findings and identify practical lessons that can be used to further improve 
+public alert and warning systems. Hence, the goal of this study is to answer the follow -
+ing two questions: (1) What are the major findings from public alert and warning system 
+research? (2) What policy and practical lessons can be gleaned from public alert and warn-
+ing system research to improve public alert and warning system research and practice? We 
+answer these questions by conducting a systematic and comprehensive review of the public 
+alert and warning system literature, starting with a keyword search. The search produced 
+1737 studies, and we applied six criteria (e.g., the study has to be a peer-reviewed article, 
+dissertation, or conference paper), which narrowed the number of studies to 100. After a 
+reverse citation search, that number increased to 156 studies. Analysis of the 156 stud-
+ies, the results reveal 12 emergent themes regarding the major findings from public alert 
+and warning system research. The results also reveal eight emergent themes related to the 
+policy and practical lessons. We then offer recommended topics for future research as well 
+as outline some policy and practical recommendations. We conclude by summarizing the 
+findings and discussing the limitations of the study.
+ * Ratna Okhai 
+ Ratna.okhai@ucf.edu
+ * Rebecca Entress 
+ Rmentress@knights.ucf.edu
+ Abdul- Akeem Sadiq 
+ Abdul-akeem.sadiq@ucf.edu
+ Jenna Tyler 
+ Jtyler@forsmarsh.com
+1 School of Public Administration, University of Central Florida, Orlando, FL 32816, USA
+2 School of Public Affairs, University of South Florida, Tampa, FL 33620, USA
+3 Fors Marsh, Arlington, USA1712 Natural Hazards (2023) 117:1711–1744
+1 3
+Keywords Public alert and warning systems · Emergencies · Disasters · Literature review
+1 Introduction
+Emergencies are events that cause huge losses to persons and/or property and require com-
+munities to respond with routine procedures and resources (Kapucu et al. 2022). An effec-
+tive way to ameliorate the impact of emergencies on communities is for governments to 
+issue alert and warning to the public before, during, and after emergencies. Public alert 
+and warning involves providing “the necessary information to warn the public and effect 
+the necessary actions that will lead to their safety and to deliver the messages to popula-
+tions at risk of imminent hazards with the goal of maximizing the probability that people 
+take protective actions and minimize the delay in taking those actions” (National Acad-
+emies of Sciences, Engineering, and Medicine [NAS] 2018, p. 2). Alerts and warnings1 
+can be issued by various entities, such as local, state, and federal governments, schools, 
+and media stations for different types of emergencies, including but not limited to, torna-
+does, floods, earthquakes, terrorist attacks, tsunamis, wildfires, and school shootings (NAS 
+2018). In recognition of the benefits of alerting and warning the public before, during, and 
+after emergencies, in 2006, President George W. Bush signed into law the Public Alert and 
+Warning System through Executive Order 13407 and Congress passed the Warning, Alert, 
+and Response Network (WARN) Act (Bean et al. 2015). According to Bean et al. (2015) 
+the goal of both legislations is “to create a more effective and reliable system to notify the 
+American people in the event of war, terrorist attack, natural disaster, or other hazards” (p. 
+61).
+One public alert and warning system used in the USA by the Federal Emergency Man-
+agement Agency (FEMA) is called Integrated Public Alert & Warning System (IPAWS). 
+IPAWS is a national system for notifying local communities about emergencies by sending 
+important and life-saving information to mobile phones, TVs, radios, and National Oceanic 
+and Atmospheric Administration’s Weather Radios (FEMA 2022). There is significant evi-
+dence suggesting that public alert and warning systems can be effective in saving lives and 
+reducing community losses from emergencies. For example, on July 26, 2012, a tornado 
+ripped through Elmira, New York, damaging about 2000 buildings but with few injuries 
+thanks to the wireless emergency alert (WEA) from the National Weather Service (NWS) 
+that notified residents and enabled them to seek shelter in their basements before the tor -
+nado touched down (NWS, n.d.). Similarly, WEA was also credited to saving the lives of 
+34 people who were in the Sport World Complex Soccer dome in East Windsor, Connecti-
+cut. After receiving the WEA on her phone from the NWS, the manager of the complex 
+evacuated everyone to a safer nearby building, thus preventing loss of lives (NWS, n.d.).
+In recognition of the importance of public alert and warning systems in keeping soci-
+ety safe and reducing the impacts of emergencies, researchers have studied public alert 
+and warning system extensively in the USA. Public alert and warning systems exist to 
+“detect impending disaster, give that information to people at risk, and enable those in 
+danger to make decisions and take action” (Sorensen 2000, p. 119). As a result of these 
+numerous studies, there is a compelling need to synthesize this large body of knowledge 
+1 “Alerts” indicate “something significant has happened or may happen; “Warnings” “typically follow 
+alerts and provide more detail information indicating what protective action should be taken” ([NAS] 2018, 
+p. 2).1713 Natural Hazards (2023) 117:1711–1744 
+1 3
+to understand what has been studied, what the major findings are, and what practical les-
+sons can be gleaned to further improve public alert and warning systems and protect com-
+munities. Past studies have reviewed public alert and warning systems, but updated studies 
+are needed. Beginning in 1975, Mileti examined literature on the effectiveness of warning 
+systems. Then, in 1990, Mileti and Sorenson examined approximately 200 publications on 
+warning system. They found that (1) the warning impacts the extent to which the public 
+responds to the warning, (2) the population being warned impacts the extent to which the 
+public responds to the warning, (3) myths commonly accepted about emergency warnings 
+are inconsistent with research findings, and (4) the alert method used to warn the pub-
+lic can impact its effectiveness. Finally, in 2000, Sorensen reviwed advances in public 
+alert and warning systems over the past 20 years and found that while alert systems have 
+improved, the extent to which communities are prepared varies significantly throughout the 
+USA and across hazard type (ex. hurricanes v. floods v. tornadoes).
+The goal of this study is to build off existing research and answer the following two 
+questions: (1) What are the major findings from public alert and warning system research? 
+(2) What practical lessons can be gleaned from public alert and warning system research 
+to improve public alert and warning system research and practice? Answering these ques-
+tions will identify knowledge gaps in public alert and warning systems literature and out-
+line a future research agenda on public alert and warning systems. In addition, the review 
+will recommend practical ways to improve how communities’ alert and warn their residents 
+before, during, and after emergencies.
+The rest of the paper is organized as follows. Next, we discuss our methodology for 
+identifying the public alert and warning system studies included in the review, then we 
+present the results. The discussion of the results follows, including a discussion of research 
+gaps and policy and practical lessons. We also presented some recommended topics for 
+future research as well as outlined some policy and practical recommendations. Finally, we 
+conclude by summarizing the findings and discussing the limitations of the study.
+2  Methods
+2.1  Selection criteria
+Prior to conducting the keyword searches, the authors identified a set of criteria articles 
+must meet to be selected for inclusion. The authors employed an iterative process for iden-
+tifying the selection criteria. Originally, the authors determined that studies must meet the 
+following four criteria:
+(1) written in English;
+(2) examine a community in the USA;
+(3) peer-reviewed article, or proceeding paper; and
+(4) focus primarily on public alert and warning systems in the context of social sciences. 
+The fourth criteria’s subject area specification was key to the selection process, because 
+comprehension of risk and decision-making rests on public response (MacPherson-
+Krutsky et al. 2020 ; Mileti and Sorensen 1990 ). As the technology and data science of 
+public alert and warning systems grow, understanding the how and why  of the human 
+element of response to these warnings requires the social science perspective (Sorensen 
+2000 ). Relevant social science disciplines include sociology, psychology, and politi -1714 Natural Hazards (2023) 117:1711–1744
+1 3
+cal science. Two additional criteria were added to narrow the scope of the systematic 
+review and to ensure that the studies included in this review were evidence-informed 
+(i.e., relying on data) and focused on public alert and warning systems and their use in 
+the social science realm. These two criteria are:
+(5) studies had to be empirical (i.e., use quantitative or qualitative data) and
+(6) articles could not solely focus primarily on the technological applications of specific 
+public alert and warning systems.
+2.2  Search strategy
+After weighing the pros and cons of various academic literary databases, such as Web of 
+Science, Google Scholar, and Scopus, the authors elected to use Web of Science. This was 
+mainly due to two reasons. First, Web of Science has a strong reputation of being one of 
+the premier databases for conducting systematic reviews (Adriaanse and Rensleigh 2013; 
+Norris and Oppenheim 2007). Second, Web of Science has advanced filtering capabili-
+ties, allowing researchers to easily narrow their search to only identify articles that are, for 
+the purposes of this study, written in English and published in the USA. These filters help 
+make the review process more efficient by reducing the number of articles to review for 
+selection criteria determination.
+The authors employed a seven-phase approach to determining the keyword search and 
+conducting the search. Phase 1 consisted of the authors determining the keyword search. 
+To do so, the authors tested a variety of word combinations that appeared in the abstract or 
+title of the article until the first few pages of results generally met the selection criteria. The 
+final keyword search was (“disaster” OR “emergency manage*” OR “crisis”) AND (“alert” 
+OR “warning” OR “notification” OR “notice” or “alarm”). This keyword search produced 
+a total of 1737 articles.
+Phase 2 and Phase 3 involved the authors measuring their inter-rater agreement of deter -
+mining whether or not an article met the first four selection criteria. Specifically, in Phase 
+2, each author reviewed the title and abstracts of the first 50 articles individually to deter -
+mine if each study met the selection criteria. This initial review produced an inter-rater 
+agreement score of 58%. Given that this score does not meet the 70% threshold common 
+in social science research (Multon and Coleman 2018), the authors met to discuss the dis-
+crepancies and repeated the process for articles 51–100 (Phase 3). This second time pro-
+duced an inter-rater agreement score of 74%. Any disagreements among the authors were 
+resolved through discussion and a majority vote amongst the four authors.
+Phase 4 consisted of splitting up the remaining 1637 articles to individually review 
+their abstracts and determine if the study met the selection criteria. After reviewing 
+the remaining article abstracts, the authors determined 421 met the selection crite-
+ria. In Phase 5, the authors added the last two selection criteria to further narrow the 
+scope of the review: (5) articles had to be empirical, meaning they relied on quanti-
+tative or qualitative data; and (6) articles that focused primarily on the technology of 
+public alert and warning systems were excluded. Criteria 6 was added to remove any 
+papers that were technical and reflected only specific warning systems and how they 
+worked, the overall use and impact of public alert and warning systems in communi-
+ties. The authors reviewed the abstracts of the 421 studies again to determine if they 
+met the two additional selection criteria; the authors determined only 209 studies did. 
+In phase 6, the authors reviewed the full-text versions of the 209 articles to confirm 
+they met all the eligibility criteria. This confirmation process eliminated an additional 1715 Natural Hazards (2023) 117:1711–1744 
+1 3
+109 studies, resulting in 100 studies. Finally, in stage 7 the authors conducted a reverse 
+citation search, where they reviewed the citations of each of the 100 studies for potential 
+inclusion. Two researchers examined the title and abstracts of each study and phases 
+2–6 were repeated with studies that met inclusion criteria which were not previously 
+included. A total of 56 additional studies were identified as meeting the selection Phase 1. Conduct Keyword Search
+1,737 articles produced from  keyword search  
+Phases 2 & 3. Establish Inter-Rater Reliabilit y
+Initial review of articles 1-50 produced an inter-rater reliability score of 58 %
+Phase 4. Review Articles 101-1,737  
+The rema ining 1,637 article abstracts were split among the authors to  
+individually review
+421 articles were identified as meeting the selection criteria 
+Phase 5. Modify Eligibility Criteria 
+The authors reviewed the abstracts of the 421 articles again using the revised 
+selection criteria  
+209 articles were identified as meeting the revised selection criteria  
+Phase 6. Review Full-Text Version of Articles
+All authors reviewed the full-text versions of a subset of the 209 articles to confirm 
+they meet the selection criteria 
+100 articles identified as meeting the selection criteria  
+156 Articles  
+Included in  
+this ReviewPhase 7. Conduct Backward Citation  
+The authors reviewed the references of the 100 articles at the end of Phase 6 to identify  
+any additional articles for inclusio n
+56 articles identified as meeting the selection criteria  
+Fig. 1  Search strategy process1716 Natural Hazards (2023) 117:1711–1744
+1 3
+criteria. As a result, 156 studies are included in this systematic review (see Fig.  1). The 
+156 studies are listed in “Appendix 1”.
+We analyzed each of the 156 studies by examining their research question(s) and/or 
+purpose(s) and major findings. Next, we grouped studies together based on their research 
+question(s) and/or purpose(s) and major findings (Sadiq et al. 2019), and took a careful 
+look at each group to determine a common theme. For example, studies that focused on 
+how individuals perceive public alert and warning systems were group together under per -
+ceptions of alert and warning systems.
+3  Results
+3.1  Major findings from the public alert and warning system literature
+The analysis revealed 12 themes. See Table  1 for the emergent themes and their frequen-
+cies. Below, we discuss the major findings under each theme. It is important to note that 
+some studies had more findings than what is reported here. We focused on what we con-
+sider as the major findings (i.e., the findings that relate directly to public alert and warning 
+systems in each of the 100 studies reviewed).
+3.1.1  Theme 1: perceptions of alert and warning systems
+The first theme, perceptions of alert and warning systems, has the highest number of stud-
+ies with 20. We begin the discussion of studies included in this theme by looking at the 
+study by Dunn et  al. (2016). These researchers examined West Coast residents’ percep-
+tions of earthquake early warning (EEW) systems and found that individuals prefer that 
+the federal and state governments pay for EEW systems, although a good number of the 
+respondents said they do not mind paying for EEW systems. In general, there is a strong 
+support for and interest in EEW systems among West Coast residents. Elsass et al. (2016) 
+investigated the perceptions of staff and faculty about emergency notification systems and Table 1  Emergent themes and their frequencies
+Emergent themes Frequency
+1 Perceptions of alert and warning systems 20
+2 The role of message characteristic in the decision to take protective action 18
+3 Barriers and strategies for forecasting and communicating risk 10
+4 Response to hazards, threats, false alarms 10
+5 Influence of warning information on behavior 7
+6 Predictors, preferences, and characteristics of warning information sources 7
+7 Tornado warning reception, comprehension, and response 7
+8 Channel preference for information 6
+9 Evacuation information, awareness, preparedness, and departure 6
+10 Predictors of alert and warning systems use 5
+11 Warning and alert at night versus during the day 2
+12 Hazard risk, exposure, and vulnerability 2
+Total 1001717 Natural Hazards (2023) 117:1711–1744 
+1 3
+found that a majority of the respondents wanted to be notified about emergencies on cam-
+pus, preferred to be notified via email and texts, favored a tiered notification system, and 
+requested more information about how to respond to campus emergencies.
+Johnston (2014) investigated international students’ understanding and response to 
+warnings. The author found, among other results, that international students were neither 
+aware of nor registered for the university’s emergency notification system (ENS), and inter -
+national students did not understand what shelter-in-place meant. Jauernic and Van den 
+Broeke (2017) studied how undergraduates at a university in Nebraska, U.S. responded 
+to and perceived tornado warnings. Their findings indicated, among others, that myths 
+about tornadoes negatively influenced students perceptions of tornado risk, it was common 
+among students to seek confirmatory information about tornado risk before seeking shelter, 
+and some students said they would not seek shelter after receiving a warning. Their results 
+also showed that students do not know precisely how to interpret tornado warning poly -
+gons and that sources of tornado knowledge for domestic students were parents/guardians 
+and the school. For international students, sources of tornado knowledge were friends and 
+self-education. Lastly, students were interested in learning more about tornadoes, but noted 
+a lack of tornado resources on campus. Schildkraut et al. (2017) also studied students’ per -
+ceptions of campus notification systems and found, among other results, that a majority of 
+the students said the notification system was useful, received notifications via e-mail, and 
+preferred not to receive an alert unless there was an actual emergency.
+Jung et  al. (2015) studied the comprehension levels of emergency notifications of 
+Korean Americans living in New York City, U.S., and found that language is still a major 
+barrier to the comprehension of emergency notifications among individuals with lim-
+ited English proficiency. Madden (2015) studied how university publics perceived and 
+responded to alert systems and found that university publics see information dissemina-
+tion as the primary purpose of its alert systems and that crime, weather, and traffic were 
+the hazards with the most alerts. In addition, the author found, among other results, that 
+response to alert depended on an individual’s perception of how the hazard might affect 
+them, which is influenced by location and time. Ahn et al. (2021) explored individual per -
+ceptions of earthquake risks and the awareness of disaster prevention strategies in Sendai, 
+Japan and Seattle, U.S. The results indicated that in both cities, the willingness to pay for 
+an improved EEW was influenced by individuals’ perceived effectiveness of the EEW in 
+protecting the individual as well as their risk perceptions. Pelfrey (2021) studied the per -
+ceptions of emergency managers regarding the effectiveness and use of mass notification 
+systems (MNS). The results indicated, among others, that jurisdictions vary in their usage 
+of MNS, a weak relationship existed between population size and economic variables and 
+enrollment in MNS, and MNS were perceived as an important communication modality.
+Spence et al. (2022) explored the role of radios in crisis situations, and found among 
+other results, that radio stations still engage in crisis training and preparedness and see the 
+Emergency Alert System (EAS) as a relevant resource. Bostrom et al. (2018) investigated 
+Florida coastal residents’ perceptions of hurricane forecast and warning. Their results 
+showed that prior hurricane experience among Florida coastal residents influenced the pro-
+tective action taking to reduce the impact of hurricanes. Bui (2019) examined differences 
+in the perceptions of social media use during Hurricane Maria between community mem-
+bers and emergency management officials. The author found that emergency management 
+officials used social media to provide updates on Hurricane Maria prior to landfall, while 
+community members used social media to share information after Hurricane Maria. DeY -
+oung et al. (2019) studied individuals’ perceptions of the Hawaii wireless emergency alert 
+in 2018 and the protective action taken after receiving the warning. The results showed, 1718 Natural Hazards (2023) 117:1711–1744
+1 3
+among others, that individuals believed the missile warning than they understood it, indi-
+viduals also believed that others were more likely to die than themselves, and those that 
+understood the warning decided quickly on the action to take.
+Using experiments, Gutter et  al. (2018) examined the relationship between severe 
+weather watches and risk perceptions. Their results indicated that the decision by an 
+individual to stop an ongoing activity during a severe weather watch is dependent on the 
+length of the activity and the type of severe weather watch (i.e., thunderstorm watch, tor -
+nado watch, and a particularly dangerous situation (PDS) tornado watch). In addition, the 
+authors found that individuals are more likely to stop an activity for a thunderstorm watch 
+than for a tornado watch, and for a PDS tornado watch than for a tornado watch. They 
+also found a negative and significant relationship between the severity of the watch and the 
+continuation of an activity. Jon et al. (2018) studied how individuals perceive and respond 
+to tornado warning polygons and found, among other results, that individuals made bet-
+ter judgments regarding polygon’s numerical strike probability when polygons were pre-
+sented in the context of radar images rather than when polygons were presented in isola-
+tion. Krocak et al. (2020) investigated individuals’ perceptions of tornado warning outside 
+of warning polygon bounds, and found among other results, that individuals’ perceptions 
+of a tornado warning outside of warning polygon bounds were influenced by proximity to 
+the tornado warning, presence of other warning products, and the sources of information. 
+Walters et al. (2020) studied NWS personnel’s perceptions about how the public responds 
+to tornado warnings, the factors impacting public response, and how NWS personnel’s 
+perceptions affect their communication, among other questions. The results indicated, 
+among other findings, that NWS personnel were aware of the guidelines but still engaged 
+in risky behaviors, and that public response was affected by proximity to the tornado, per -
+sonal experience, and the influence of family and friends. The results also indicated that 
+the NWS personnel were concerned about a lack of access to safe shelters by mobile home 
+residents and the lack of specificity in tornado warning messages.
+Ernst et  al. (2021) studied public perceptions regarding the use and interpretation of 
+the Storm Prediction Center (SPC) convective outlook. The results indicated that the pub-
+lic correctly identified the color codes, which are based on risk, and that the words used 
+in the convective outlook confused the public. Johnston et al. (2005) examined individu-
+als’ perceptions regarding their understanding of tsunamis, the Washington State tsunami 
+warning system, and their level of tsunami preparedness. The authors found that there was 
+low to moderate levels of tsunami preparedness, the initiatives to increase public aware-
+ness of tsunamis were effective, the information about tsunami warning and preparedness 
+was lacking, and the tsunami warning information was too generic. Edwards et al. (2011) 
+analyzed feedback from participants regarding their use of ENS during a multi-agency 
+functional exercise, and found that a little less than half of the participants picked up their 
+devices to listen to messages in their entirety from all communication sources. Also, the 
+authors found that the communication system used (Communicator! NXT system) was 
+viewed favorably by participants, there were some communication issues with the ENS, 
+and a quarter of the respondents said they received too few messages.
+3.1.2  Theme 2: The role of message characteristic in the decision to take protective 
+action
+Eighteen studies belong to this theme. We start with the study by Casteel (2018) who used 
+experiments to investigate the influence of impact-based tornado warning on individuals’ 1719 Natural Hazards (2023) 117:1711–1744 
+1 3
+decision to shelter in place and found that individuals had higher sheltering intentions 
+when the warning contained impact language that was stronger than a low intensity impact-
+based tornado warning. In investigating the influences of wireless emergency alert mes-
+sages on protective action behavior, Kim et al. (2019) found that one in five experimental 
+participants took protective action after receiving a text‐based warning message. They also 
+found that protective action taking is influenced by the language spoken at home, belief in 
+the message, previous exposure and desensitization of emergency alert messages, and situ-
+ational factors, such as looking for environmental and social cues about the hazard.
+Furthermore, Rehman et al. (2020) examined the impact of text message alerts on min-
+ers’ evacuation decisions and found that the alert message content, such as more detail 
+about how urgent the situation was, increased the likelihood of miners evacuating. Casteel 
+and Downing (2016) examined how individuals perceived the risk and severity of tornado 
+warning messages from WEAs. Their results showed no significant differences in individu-
+als’ risk perceptions and severity for different warning message types. Sutton et al. (2018) 
+studied how to improve the design of tsunami warning messages issued by public alert 
+agencies by focusing on the message style and content. The authors found, among other 
+results, that shorter messages did not provide enough information about the imminent haz-
+ard and the protective action needed to be taken in comparison to longer messages. Sutton 
+and Wood (2016) used a focus group to understand how individuals interpreted and made 
+sense of tsunami warning messages. Their results indicated that individuals knew the mes-
+sage was about an impending hazard, thought the message source was credible, knew what 
+protective actions to take, and believed they would be safe it they took the recommended 
+action.
+Wood et al. (2018) studied the relationship between milling and public warning mes-
+sages. Milling involves searching for information and confirming information about a 
+hazard before taking protective action (Sutton and Wood 2016). Their findings indicated 
+that although high information messages (longer messages) did not completely eliminate 
+milling, they provided better outcomes than low information messages (shorter messages). 
+Bonaretti and Fischer-Pressler (2021) investigated the problems associated with short mes-
+sage service (SMS) in a campus warning system. They found SMS warnings do not pro-
+vide enough spatial awareness to user, such as the particular area where the hazard is tak -
+ing place. Sutton et al. (2015a) studied the impacts of message content, network properties, 
+and message style on the retransmission of terse messages across five different hazards—
+hurricanes, terrorist attacks, wildfire, flood, and blizzards. The results indicated that mes-
+sages that contained information on protective action to be taken and hazard impact were 
+more likely to be retransmitted. In addition, messages in all caps and those that encourage 
+personal and societal resilience were more likely to be retransmitted.
+Ripberger et al. (2015b) studied the impact of consequence-based messages on public 
+responsiveness to tornado warnings. The authors found that high risk perceptions, knowl-
+edge about tornadoes, availability of a response plan, being female, and high fatalism led 
+to protective action taking. Sutton et al. (2021) explored the relationship between message 
+interpretation and sense making, and individual risk information processing in the context 
+of tsunamis. Their results indicated that individuals engaged in interpretive sense making 
+by relying on media accounts of tsunamis, and using personal experiences with waves and 
+warnings from other hazards like tornadoes. Whitmer and Sims (2016) used a series of 
+experiments to understand the relationship between fear language and protective action 
+taking. Their results showed that fear language positively influenced risk perceptions of 
+individuals as well as their behaviors, especially in a case where a hurricane’s intensity 
+is reducing. Eachus and Keim (2020) sought to understand trends in receiver preferences 1720 Natural Hazards (2023) 117:1711–1744
+1 3
+for warning format of tweets. By comparing warning format of tweets from the weather 
+accounts of two television stations, they found that individuals preferred messages that 
+contained photographs and are geo specific. In addition, they found that individuals were 
+more attentive to warning tweets that provided hazard and efficacy information.
+Sutton et  al. (2020) investigated whether visual attention, behavioral responses, and 
+individual perceptions of EEW messages are influenced by video type and message con-
+tent. Using a series of simulated EEW messages in a laboratory environment, the authors 
+found that the strongest predictor of message perceptions and behavioral responses is prior 
+exposure of individuals to protective actions. They also found that including informational 
+icons in messages had limited impact on behavioral responses, visual attention, and indi-
+viduals’ perceptions of messages. In analyzing the tweets sent during Hurricane Irma to 
+ascertain if they contained the five elements of warning systems outlined by Mileti and 
+Sorensen (1990),2 Wang et al. (2020) found that tweets can contain the five elements and 
+the tweets that do tend to be retweeted more. In addition, their results show that not all five 
+warning elements had a significant effect on retweet count. Perreault et al. (2014) inves-
+tigated the effectiveness of the National Weather Service’s new (scary) tornado warning 
+messages by comparing it to the traditional tornado warning messages. The results indi-
+cated that individuals said they would follow the protective actions outlined in both types 
+of messages, and that they perceived the traditional messages to be more credible than the 
+scary messages.
+Sattler et al. (2011) evaluated the effectiveness of text and e-mail warning messages in 
+active shooter situations in a campus setting. Their results showed that warning messages 
+sent through both media are effective in providing a coherent information during emergen-
+cies. Sutton et al. (2015b) investigated how public agencies use terse health-based warning 
+text messages to communicate during floods. Their results show that the public health mes-
+sages tweeted during the floods were retweeted by other organizations, the messages were 
+mostly about drinking water, and that terse public health messages used instructional and 
+explanatory style to convey information.
+3.1.3  Theme 3: Barriers and strategies for forecasting and communicating risk
+Ten studies are featured under this theme. Childs and Schumacher (2018) investigated 
+the barriers encountered when forecasting and communicating cold-season tornado risk 
+by professionals. Their results showed that the barriers encountered by professionals dur -
+ing cold-season tornadoes were similar to those encountered during regular tornadoes. In 
+general, the barriers encountered by professionals included inconsistent messages, uncer -
+tainties surrounding the time when tornadoes occurred, and uncertainties about meteorol-
+ogy. Madden (2017) examined the timeliness of emergency notification decision-making 
+of public safety officials as well as the challenges inherent in implementing their under -
+standing of timely emergency notifications in campus settings. The author found that 
+public safety officials grappled with whether to quantify timeliness or leave it vague to 
+accommodate uncertainties during crises. Another issue was the different opinions of pub-
+lic safety officials about whether urgency or accuracy was more important in emergency 
+2 The five warning elements to consider from Mileti and Sorensen’s (1990) work are: the nature of the haz-
+ard, guidance on protective action to take, location of the hazard, time remaining to take protective action, 
+and the risk information source.1721 Natural Hazards (2023) 117:1711–1744 
+1 3
+notifications. The results also show that public safety officials’ experience influenced how 
+they interpreted timely emergency notifications.
+Abukhalaf and von Meding (2021) sought to understand the challenges facing interna-
+tional linguistics minority students during Hurricane Dorian alert. The authors uncovered 
+three challenges: false perceptions of the hurricane hazard and a deficit in disaster knowl-
+edge; the university used generic emergency communications for all students instead of 
+tailoring the emergency communications to meet the needs of different groups; and inad-
+equate disaster preparedness. First et al. (2021) studied the barriers to receiving warning 
+information about nocturnal tornadoes and whether those barriers were related to tornado 
+exposure and mental health impacts. The results indicated that barriers to receiving warn-
+ing information include, but are not limited to, being asleep during the tornado, inability 
+to hear tornado sirens, not having a smart phone to receive alerts, not having a NOAA 
+weather radio for alerts, and language barriers. In addition, the results show that individu-
+als who experienced barriers to receiving warning information were more likely to say they 
+were exposed to tornado impacts (e.g., injury) and experienced adverse mental health out-
+comes (e.g., depression).
+Abukhalaf and von Meding (2020) investigated communication challenges confronting 
+international linguistic minorities in a campus setting and found, among other results, the 
+following challenges: lack of basic weather hazard knowledge among the linguistic minori-
+ties, use of a unified communication system that is not tailored to the needs of different 
+groups, over-communication, and lack of coordination. In addition, the campus used social 
+media platforms that were not being used by the linguistic minorities for emergency com-
+munication, and broadcast emergency communication in English, making difficult for those 
+that did not understand English well to comprehend the message. While studying how to 
+overcome barriers to social media use, Grace (2021) found that there were no tools to pro-
+cess social media data, there was a lack of trust in the information collected from citizens, 
+and there was insufficient staff to use social media tools. Liu et al. (2020) studied the warn-
+ing communication strategies for tornadoes used by the NWS, and found, among other 
+findings, that forecasters used the following strategies: avoid using fear appeals, humanize 
+the NWS, and visualize risks.
+League et al. (2010) investigated how emergency managers make decisions regarding 
+tornado warning communication. Their results indicated that emergency managers use 
+various weather product to acquire information and used spotters to verify information 
+collected. In addition, emergency managers’ mostly used sirens to warn the public about 
+impending tornadoes. Lerner and Bertram (2014) sought to understand the common issues 
+in emergency public information; their findings revealed several issues, such as inaccurate 
+warning messages and news releases, a lack of information coordination among jurisdic-
+tions, incomplete internal communication, and the provision of incomplete information to 
+individual callers. Lindell and Prater (2010) studied tsunami preparedness in the Pacific 
+Northwest, and found several issues, such as inconsistent and conflicting messages and 
+misinterpretation of warning messages.
+3.1.4  Theme 4: Response to hazards, threats, and false alarms
+Ten studies belong to this theme. By false alarms, we mean if an alert or warning was 
+issued for a particular hazard (e.g., a tornado) but the hazard did not occur (Krocak et al. 
+2021b). Cuite et al. (2021) examined the effect of hurricanes versus Nor’easters on per -
+ceived severity and protective actions and found that individuals perceived the former to 1722 Natural Hazards (2023) 117:1711–1744
+1 3
+be more severe than the latter and that the former led to taking protective action than the 
+latter. Chen and Cong (2022) studied how disasters with different lead times affected indi-
+viduals’ perception of the efficacy of their protective actions. Their results indicated a posi-
+tive relationship between response efficacy perception and preparedness, short lead-time 
+disasters were less likely to lead to preparedness compared to longer lead-time disasters, 
+and response efficacy perception influenced preparedness for short lead-time disasters in 
+older adults but not among younger adults. Jones and Silver (2020) studied anxiety of twit-
+ter users following the Hawaii false missile alert in 2018 and found, among other results, a 
+significant increase in anxiety among Hawaiians that persisted long after the false missile 
+alert was dispelled.
+Krocak et al. (2019) explored the relationship between advance notification of protec-
+tive action for tornadoes and how individuals respond. The authors found, among other 
+results, that individuals responded the same way irrespective of the length of advance 
+notice, and most people engaged in preparation and monitoring, which were not influenced 
+by the length of advance notice. In addition, the authors found that individuals were uncer -
+tain about what to do when given 8-h advance notice than when they were given four-hour 
+advance notice. Lim et al. (2019) examined the impact of false alarms on public response 
+to tornado alerts. The authors did not find empirical evidence suggesting that tornado false 
+alarms create a complacent public. In addition, the authors found that “… the higher indi-
+viduals perceive false alarm ratios and tornado alert accuracy to be, the more likely they 
+are to take protective behavior…” (p. 549). Liu et  al. (2019) studied mobile home resi-
+dents’ understanding and response to tornado warning. Using residents of fixed homes as a 
+comparison group, the authors found that mobile home residents had a lower preparedness 
+level, lower efficacy regarding sheltering, lower access to shelter, and lower trust in gov -
+ernment provision of adequate shelter compared to fixed home residents.
+Walters et  al. (2019) investigated the patterns of intended response to tornado warn-
+ings. In general, their results suggest that different groups of people respond to tornado 
+warnings differently. Lindell et al. (2015) studied how households responded to the 2009 
+American Samoa earthquake and tsunami and found, among other results, that individu-
+als’ first thought of a possible tsunami occurring was based on the earthquake shaking and 
+knowledge of the earthquake leading to a tsunami. The results also indicated that broad-
+cast media (e.g., television) was the first source of information although, radio, face-to-face 
+communication, and phones were also prominent. Gregg et al. (2004) studied community 
+members’ preparedness for lava flows in Kona, Hawaii, and found that little information 
+was provided to residents about how to respond to volcanic eruptions or warnings about 
+volcanic eruptions. Wong-Parodi and Feygina (2018) studied the factors that affect (mal)
+adaptive responses to natural disasters, and found that individuals exposed to immediate 
+risk took protective action, climate and environmental factors influenced preparation, and 
+mental health and self-efficacy were positively correlated with taking protective action.
+3.1.5  Theme 5: Influence of warning information on behavior
+This theme, which features seven studies, examines how the provision of public alert and 
+warning information affected individuals’ behaviors. Casteel (2016) used an experimen-
+tal approach to investigate the NWS’s Impact-Based Warnings (IBWs) on individuals’ 
+behavioral intention to take protective action. They found that the IBWs led to behavioral 
+changes of individuals. Liu et al. (2017) studied whether the inclusion of maps and warn-
+ing messages can lead to behavioral changes. The authors found that the inclusion of maps 1723 Natural Hazards (2023) 117:1711–1744 
+1 3
+only marginally improved message understanding. Cain et al. (2021) examined the role of 
+maps in conveying warning information to college students. They found that maps alone 
+did not lead to the expected behavioral response, but when combined with more specific 
+warning messages elicited the expected behavioral response. In studying how the commu-
+nicative behaviors of individuals affect how they respond to tornadoes, Liu et al. (2019) 
+found that the expanded social-mediated crisis communication model successfully pre-
+dicted individuals’ conformity with government’s guidance during tornadoes.
+Ripberger et al. (2015a) studied the relationship between individuals’ perceptions of the 
+accuracy of tornado warning, credibility of the warning, and individuals’ response to the 
+warnings. The authors found, among other results, that trust in the NWS increased the like-
+lihood that individuals took protective action in response to a hypothetical scenario. Bean 
+et al. (2022) studied how wireless emergency alerts can help curtail the spread of COVID-
+19 through changes in people’s behaviors, and found that wireless emergency alerts can 
+help to reduce the spread and number of COVID-19 deaths when combined with an order 
+from authorities. Using the storms that occurred in Oklahoma in 2016 as a natural experi-
+ment, Robinson et al. (2019) explored the relationship between the intensity of the storms 
+and the sharing of information about the storms by citizens. Their results indicated that the 
+intensity of the storms did not affect the tendency of individuals to engage in citizen-to-
+citizen information sharing, among other results.
+3.1.6  Theme 6: Predictors, preferences, and characteristics of warning information 
+sources
+Seven studies fall under this theme. Cong et al. (2017) examined the predictors of the num-
+ber of warning information sources, and found, among other results, that being older and 
+having an emergency plan are predictors of warning information sources. Babvey et  al. 
+(2021) investigated the role of social media in connecting disaster victims to relief agen-
+cies. Their results showed that messages from governments and media diffused faster 
+than messages from disaster eyewitnesses. Sansom et  al. (2021) examined the influence 
+of warning information source on an individual’s willingness to follow emergency guide-
+lines (i.e., shelter-in-place) and found a significant positive relationship between hearing 
+emergency communications from friends and families, and social media and willingness 
+to shelter-in-place. Furthermore, Zhang et al. (2021) studied the fairness of disaster infor -
+mation disseminated by emerging influential contributors in different areas with varying 
+degrees of vulnerable populations. Their results indicated a bias against vulnerable popula-
+tion with respect to disseminating situational awareness information by emerging influen-
+tial contributors.
+Wehde et al. (2019) examined the relationship between location and the sources indi-
+viduals receive warnings from. The results indicated that the preferred warning source for 
+individuals away from home and those at home for authority-based media sources were 
+automated texts and television, respectively. Additionally, Luo et  al. (2015) investigated 
+the relationship between the number of warning information sources and decision making 
+in the context of tornadoes, and found that having multiple warning information sources 
+increased the likelihood of taking protective action during tornadoes. Finally, Sheldon 
+(2018) examined students’ perceptions of emergency alert communications, and found 
+that student considered warning messages via text messages to be more serious than warn-
+ing messages from social media. They also found that students use word-of-mouth as a 
+means of disseminating warning messages and use phones or text messages to notify their 1724 Natural Hazards (2023) 117:1711–1744
+1 3
+immediate family of a crisis. Also, during a shooting, students preferred to be notified via a 
+phone call, but preferred text messages for notification during a tornado.
+3.1.7  Theme 7: Tornado warning reception, comprehension, and response
+There are seven studies under this theme. Krocak and Brooks (2021) studied the influence 
+of type of weather watch on the quality of tornado warnings and found that the quality 
+of tornado warning depended on the type of severe weather watch. Krocak et al. (2021b) 
+used information from the NWS verification database to investigate tornado warning per -
+formance. Their results indicated that when multiple tornadoes occurred on a convective 
+day, forecasters warned people about the first tornado than they did with the middle and 
+last tornadoes. Sherman-Morris et al. (2020) studied how blind people receive and respond 
+to tornado warnings. The authors found, among other results, that effective use of tornado 
+warning information is dependent on having a good verbal description of the message.
+Paul and Stimers (2012) investigated the reasons for the high fatality from the 2011 
+Joplin tornado and found, among other results, that one of the reasons for the high fatality 
+was that some individuals ignored the tornado warning. Furthermore, Nagele and Trainor 
+(2012) examined the relationship between geographic specificity of a home’s location and 
+protective action taking. The authors found, among other results, that when the NWS’s 
+warning polygon is 50% smaller than the county where they are located, individuals were 
+more likely to take protective action, including sheltering. Ripberger et al. (2019) examined 
+tornado warning reception, comprehension, and response, and found, among other results, 
+that individuals who lived in areas with low tornado risks had lower levels of reception 
+and comprehension compared to those that live in areas with higher tornado risks. In addi-
+tion, demographics like age and race influenced tornado warning reception, comprehen-
+sion, and response. Lastly, Ripberger et al. (2020) studied differences among communities 
+in terms of their tornado warning reception, comprehension, and response. The authors 
+found, among other results, differences across communities in how they receive, compre-
+hend, and respond to tornado warnings, and these differences were generally due to tor -
+nado climatology.
+3.1.8  Theme 8: Channel preference for information
+This theme has six studies. We start with a discussion of the study by Guillot et al. (2020) 
+who sought to understand the factors that impact decision-making during weather emer -
+gencies. The authors found, among other results, that respondents mentioned broadcast tel-
+evision/news as their preferred source of receiving emergency information. They also men-
+tioned television and radio stations. Chiu et al. (2013) investigated the mortality caused by 
+a tornado outbreak in Alabama on April 27 2011, and found that word of mouth was the 
+most used source of communication of warning information. While studying how emer -
+gency information diffuses during a crisis involving a gunman on campus, Egnoto et al. 
+(2013), found that those that knew about the crisis early were more likely to share infor -
+mation and were more trusting of the information received from mass media and through 
+interpersonal messages than those that knew about the crisis late. In addition, the early 
+knowers were more likely to share information than the late knowers.
+Furthermore, Mueller and colleagues (2010) studied emergency communication among 
+individuals who are deaf and found that deaf individuals preferred alerts containing 
+American Sign Language video over text-only messages or segmented videos (videos put 1725 Natural Hazards (2023) 117:1711–1744 
+1 3
+together from modular segments). Radford et  al. (2013) while studying tropical cyclone 
+warning graphics found that the color-probability-cone was the most preferred graphic. 
+Finally, DeYoung et al. (2016) studied channel preference for information and the demo-
+graphic factors that predict the number of channels individuals use for collecting infor -
+mation. Their results showed that individuals still relied heavily on television and radio 
+for hurricane evacuation information, Whites relied on one information source than non-
+Whites, females preferred to collect information from multiple sources than males, and 
+younger individuals preferred more information channels than older individuals.
+3.1.9  Theme 9: Evacuation information, awareness, preparedness, and departure
+This theme comprises six studies. Collins et al. (2017) studied the influence of social con-
+nections on evacuation decision making during a hurricane warning, and found no differ -
+ence between evacuees and non-evacuees regarding the density and diversity of their net-
+works. In addition, the authors found that those that evacuated perceived their networks as 
+less dependable, and those that did not evacuate perceived their networks as more dependa-
+ble. In addition, Grajdura et al. (2022) used an agent-based simulation model to understand 
+evacuees’ behaviors during the 2018 Camp Fire evacuation in Northern California. The 
+results indicated that the longer the evacuation travel time, the lower the smartphone use, 
+the higher the delay in awareness, and the lower the vehicle access. Grajdura et al. (2021) 
+investigated the predictors of awareness time, evacuation preparation time, and departure 
+time during no-notice wildfire evacuations and found that awareness time was influenced 
+by seeing the fire, familiarity with evacuation procedures, higher incomes, owning a smart-
+phone, etc. In addition, the results indicated that being a long-time resident was associated 
+with longer preparation and departure times.
+Furthermore, Strawderman et al. (2012) examined the effectiveness of reverse 911 as a 
+warning system, and found that reverse 911 was a significant predictor of an individual’s 
+decision to evacuate. Auld et al. (2012) used a model to predict how a transportation net-
+work will respond to the demand caused by evacuation warnings from the government. 
+Their results indicated that individuals were more likely to evacuate when they saw others 
+evacuating, evacuate to friends and families or hotels if the event risk is high, and evacu-
+ate to shelters for moderate-risk events. Finally, Zheng et al. (2020) investigated the influ-
+ence of disaster and evacuation information from multiple sources on individuals’ decision 
+making regarding evacuations. The results showed that information from sources that were 
+perceived to be more credible had a larger influence on evacuation decision making than 
+information from sources that were perceived to be less credible.
+3.1.10  Theme 10: Predictors of alert and warning systems use
+Five studies were identified under this theme. Ada et  al. (2016) studied the factors that 
+influence the intention to use emergency notification system (ENS) during emergencies 
+on a college campus. The authors found that students’ use of social network sites (SNS) 
+to receive emergency information was affected by perceived benefit, social influence, and 
+media richness. The authors also found that the use of short-message systems (SMS) was 
+impacted by perceived benefit and trust in the information. Similarly, in their study about 
+understanding rapid compliance with campus ENS among college students, Rogers et al. 
+(2021) found that attitudes and subjective norms were consistent predictors of rapid com-
+pliance with campus emergency notifications among college students.1726 Natural Hazards (2023) 117:1711–1744
+1 3
+In addition, Johnson (2012) observed that the use of ENS on campus is influenced by 
+attentiveness to the information provided, personal motivation, and the method of notifica-
+tion. In studying the social impacts of the heat-health watch/warning systems, Kalkstein 
+and Sheridan (2007) found that sex, race, age, were social factors that determined whether 
+or not individuals responded to warnings. Finally, Brotzge and Donner (2015) studied the 
+policy for activating outdoor sirens during severe weather, and found among other results 
+that, there was no significant relationship between siren activation policies and geographic 
+location or type of jurisdiction. In addition, the results indicated that perceived hazard, mit-
+igation, and response capabilities of jurisdictions influenced siren policies.
+3.1.11  Theme 11: Warning and alert at night versus during the day
+Two studies fall under this theme. Mason et  al. (2018) examined who the recipient of 
+tornado warning at night are, and found, among other results, that tornado warnings dur -
+ing the day were more likely to be received than tornado warnings at night. In addition, 
+the authors found that television and cell phone alerts were the most common sources of 
+warning information for tornadoes during the day and at night, respectively. Krocak et al. 
+(2021a) analyzed individuals’ confidence in receiving and responding to tornado warnings 
+at different times of the day. The authors found, among other results, that individuals were 
+not confident about receiving tornado warning overnight, especially between 12 and 4 am, 
+and that confidence during this period is influenced by age, race, awareness of weather 
+events, weather sources, and the number of nocturnal tornadoes in the area.
+3.1.12  Theme 12: Hazard risk, exposure, and vulnerability
+This last theme is composed of two studies. Baudoin et  al. (2016) examined ways to 
+improve disaster risk reduction via community participation in early warning systems 
+(EWS). They argued that it is imperative to make EWS grassroot-driven by vulnerable 
+communities rather than top-down, and that it is important to tailor EWS specifically to the 
+needs of each group within a community to ensure that inherent inequalities are not exacer -
+bated. Strader et al. (2021) assessed tornado risk, exposure, and vulnerability in the NWS 
+County Warning Area (CWA) and found different regions in the CWA had varying degrees 
+of tornado risk, more unwarned tornadoes, and higher false warnings. They also found that 
+socially vulnerable CWA had shorter lead time for tornado warning.
+3.2  Policy and practical implications from public alert and warning system 
+literature
+The state of literature on public alert and warning system provides significant opportunities 
+for policy and practical recommendations. The major themes of our findings align with the 
+following:
+(1) inclusion and use of non-traditional media use (social media, peer-to-peer),
+(2) utilizing targeted alerts based on the population and geographic regions,
+(3) education campaigns centered around awareness of warning systems,
+(4) risks and specific actions to take,
+(5) how wireless emergency alerts (WEAs) can better incite protective actions, and1727 Natural Hazards (2023) 117:1711–1744 
+1 3
+(6) the reliance on collaborative efforts to get the warning information and education 
+spread across potentially impacted communities.
+While many of the studies were focused on specific disasters, there are practical impli-
+cations that can be applied across emergencies and different types of alerts. The impacts 
+of warnings need to be further studied in order to understand the policy changes that may 
+need to occur, and the practical implications of their use for effectiveness (Strawderman 
+et al. 2012).
+3.2.1  Multi‑channel emergency messaging avenues
+The overarching policy inclusion goal for many articles on this subject was the inclusion 
+and utilization of ‘multi-channel’ avenues for emergency messaging (Egnoto et al. 2013; 
+Perreault et al. 2014). This means the utilization of multiple methods to send alerts and 
+warnings to the public (e.g., tv/radio broadcast, phone and email technologies, etc.). One of 
+the more commonly used technologies for warnings are short message service (SMS) and 
+simple notification services (SNS) (Ada et al. 2016; Bonaretti and Fischer-Pressler 2021; 
+Robinson et  al. 2019; Zheng et  al. 2020). However, more importantly, the information 
+when utilizing SMS and SNS must be actionable, relevant, verified, and provide clear pro-
+tective action recommendations (Grace 2021; Kim et al. 2019; Zheng et al. 2020). Apart 
+from wireless messaging, social media has emerged as a necessary component for public 
+alert and messaging in the last decade (Bui 2019; Guillot et  al. 2020; Jones and Silver 
+2020; Mason et al. 2018). Studies have shown the impact of social media on educating vul-
+nerable communities, reaching wider audiences with key “hashtags”, and the importance 
+of utilizing community organizations’ social media to reach audiences (First et al. 2021; 
+Liu et al. 2020; Sutton et al. 2015). While the importance of social media has undoubt-
+edly increased in recent years, and use of advertisements is growing, Lindell et al. (2020) 
+reported that social media was still used far less (an average of 1–2 times/day) than local 
+or national news (an average of more than 6 times/day) in 2017 Hurricane Harvey. Lindell 
+et al. (2021) found that local news media are still the most common information channels 
+in hurricanes. As disasters continue to grow and size and scope, so must our emergency 
+messaging avenues.
+3.2.2  Audience‑centered targeted messaging
+Another major insight that emerged from the literature for policy and practical considera-
+tions was the curating and targeting of communication to appropriate audiences (Ada et al. 
+2016; Pelfrey 2021; Rogers et al. 2021). Similar to the use of multi-channel methods of 
+providing information, understanding how people prefer to receive their emergency infor -
+mation based on their communication patterns and lifestyles, whether it involves using 
+meteorologists or technologies, can impact the acceptance, use and milling habits (John-
+son 2012; Liu et al. 2019a, 2019b). One sentiment echoed by many scholars was ensuring 
+that no matter the method of communication, standardized templates using non-technical 
+terms, maps along with messages, and universally common graphics. However, Lindell 
+(2020) did find that even within the ‘commonness’ of graphics, demographics played a 
+part in interpretation, as well as an inherent understanding of the maps themselves. These 
+methods are still necessary because consistency impacts how the information is received 
+(Cain et al. 2021; Ernst et al. 2021; Jung et al. 2015; Radford et al. 2013; Sattler et al. 2011; 1728 Natural Hazards (2023) 117:1711–1744
+1 3
+Sherman-Morris et al. 2020). This lends to the argument that the clarity of the emergency 
+message, including sequenced messages that provide exact directives for actions, have a 
+positive impact on whether people accept and act on information that is disseminated to 
+them (Jauernic and Van den Broeke 2017; Kalkstein and Sheriden 2007; Sutton and Woods 
+2016; Walters et al. 2019; Wood et al. 2018). For instance, using imperative sentences to 
+provide surety to the message, or building an emergency notification that uses related (and 
+longer) messages that provide more detail and possible steps to take, provide amplification 
+of and clarity to the message (Elsass et al. 2016). Rogers et al. 2021; Sutton et al. 2015; 
+Sutton et al. 2018; Wood et al. 2018).
+3.2.3  Curated and detailed information, education, and programming
+Building on the understanding of the target population, Cuite et al. (2021) indicated that 
+emergency messages should be crafted with a ‘starting point’ of the audience in mind. 
+This means ensuring that there is a tiered notification system based on the severity of the 
+impending emergency, and the diversity of the types of messaging based on the diversity 
+of the community (Abukhalaf and von Meding 2021; Ahn et al. 2021; Schildkraut et al. 
+2017; Wang et al. 2020). However, Eachus and Keim (2020) noted that social media should 
+be used with caution to ensure that the ‘false alarm’ effect does not disengage followers. 
+These implications echo the sentiment that technical information and campaigns should be 
+tied to social campaigns in order to tailor how different demographics receive and under -
+stand information (Collins et al. 2017; Cong et al. 2017; Ripberger et al. 2015; Rogers et al. 
+2021). For instance, Sutton et  al. (2021) found that people wanted to know information 
+about an emergency’s potential impacts, such as the likelihood of injury/death or property 
+damage during a specific event. Emergency management agencies should actively work 
+with their communities to curate information, education, and programs accordingly (Bau-
+doin et al. 2016; Collins et al. 2017; Cong et al. 2017). This includes more common stand-
+ards and protocols for sirens (Brotzge and Donner 2015).
+3.2.4  Geographic visuals
+Along with targeted and clear communication, many scholars highlighted the positive 
+impacts of providing better geographic awareness/impact area maps as a part of public alert 
+and warning messages (Bonaretti and Fischer-Pressler 2021; Grace 2021; Liu et al. 2017; 
+Sutton et al. 2018). Liu et al.’s (2019) study found that the utilization of ‘in this area’ was 
+not specific enough for many respondents when thinking about taking protective action if 
+a tornado warning was issued. The use of more specific visuals to accompany warnings 
+was reiterated by many studies (Cain et al. 2021; Jon et al. 2018; Krocak et al. 2020; Sut-
+ton et al. 2018; Walters et al. 2020). As emergency management agencies examine how 
+they send out emergency notifications with actionable information for certain events, they 
+should consider the potential inclusion of visuals that provide more precision of the impact 
+area. It is critical to note however, that people’s interpretation of these geographic visuals 
+inevitably vary based on perceptions and understanding of the maps themselves (MacPher -
+son-Krutsky et al. 2020; Lindell 2020). MacPherson-Krutsky et al. (2020), discussed this 
+understanding, or “comprehension” with a study of college students, and did find that even 
+for basic map understanding, the participants made errors in understanding the displays, 
+unless the image had a legend always visible for reference. What this indicates is that hav -
+ing helpful technical features (e.g., legend) are a necessity for geographic visuals for public 1729 Natural Hazards (2023) 117:1711–1744 
+1 3
+alerts and warnings, but further studies must be undertaken with a greater representative 
+sample.
+3.2.5  Weather emergency alert system enrollment
+A significant practical implication of the use of ‘other’ methods of public alert and warn-
+ing was the focus on peer-to-peer engagement or WEAs. For the peer-to-peer or word-
+of-mouth communication, studies found that many groups were engaged in warning their 
+networks, which spread information faster (Chiu et al. 2013; Wehde et al. 2019). Emer -
+gency personnel noted that the ease of subscription or enrollment in WEA service was an 
+important consideration for getting more people signed-up for the alerts. Many scholars 
+found that the ‘opt-in’ system for many of the alerting systems that utilized a “user-initiated 
+registration” (Schildkraut et  al. 2017, p. 618) could lead to low numbers of registration 
+or outdated contact information. Making it easy to subscribe to WEAs, educating about 
+the system, or simplifying the enrollment criteria for notification systems were beneficial 
+methods to increase the reach of notifications (Ada et al. 2016; Pelfrey 2021; Schildkraut 
+et al. 2017). One study even suggested an ‘opt-out’ system rather than ‘opt-in’, where the 
+notifications would automatically be sent out, unless someone went into the system to 
+remove their information (Egnoto et al. 2013). Most studies were focused on a university 
+setting, where populations like students can be more vulnerable, and campus emergency 
+management is tasked with protecting those that live on campus, as well as those that com-
+mute (Sattler et al. 2011). Another issue with WEAs is that technology can go down at any 
+moment, and should not be used as a panacea for all emergency communication—because 
+not everyone may have access to mobile technology (Bean et al. 2022; Grajdura et al. 2022; 
+Johnson 2014; Luo et al. 2015). The studies that called for more clarity and conciseness of 
+warning information that is disseminated specifically noted that WEAs need to maintain 
+that same trend of providing clear directives for action (Casteel and Downing 2016).
+3.2.6  Public alert and warning education and community diversity
+The education and programming of warning information should intertwine with com-
+munity organizations (Baudoin et al. 2016). Public education and awareness about alert 
+and warning systems and emergency plans must be considerate of the population of the 
+area, especially with the growing ethnic diversity of communities that impacts their 
+beliefs and processes (Johnston et al. 2005; Jung et al. 2015; Kim et al. 2019). A few 
+studies looked at the impacts of language, cultural, race, income and age on residents’ 
+understanding of and action-taking for disaster scenarios and found that there should 
+be targeted education campaigns even across these minority areas and for those with 
+language barriers (First et al. 2021; Grajdura et al. 2021; Guillot et al. 2020; Jung et al. 
+2015). Lindell and Perry (2004) found that because of these demographic variables 
+that can impact how a warning is heeded, “it is advisable to identify the variables that 
+intervene” (p. 88). These variables are nuanced and can include not just singular differ -
+ences, but how those impact other demographics. For instance, they talked about gender 
+impacts on warning responses, along with family status (i.e., single, married, etc.). Or, 
+how age and income together impact evacuation outcomes. Working with multicultural 
+organizations and engaging in equitable practices to provide information to vulnerable 
+populations includes the understanding and expectation that emergency management 
+is not one-size-fits-all approach (Abukhalaf and von Meding 2021; Whitmer and Sims 1730 Natural Hazards (2023) 117:1711–1744
+1 3
+2016; Wong-Parodi and Feygina 2018; Zhang et al. 2021). As emergency management 
+policies are updated, understanding the demographics of a community, along with the 
+needs of the population for alerts and warnings should be a key consideration in com-
+municating information.
+3.2.7  Multiple awareness and education methods
+Along with the overarching goals for practice implementation that can spur more effec-
+tive implementation of public alerts and warnings, the literature also emphasizes specific 
+education and awareness measures. Scholars like Chiu et al. (2013) and Cong et al. (2017) 
+noted that the most basic should be to encourage the public to have their own emergency 
+plans and familiarize themselves with those that exist within their governments. From the 
+standpoint of emergency management professionals, having multiple awareness methods 
+and providing education about the alert systems in place is a growing necessity because 
+warning systems can be integrated for more widespread flow of information across differ -
+ent channels (Babvey et al. 2021; Guillot et al. 2020; Madden 2015; League et al. 2010; 
+Walters et  al. 2020). For the notification of the alert systems in place, this can include 
+redundancies, such as regular tests and drills that normalize and reiterate the alert systems, 
+making it a requirement for registration (for students), and engaging local weather forecast-
+ing offices for geographic specificity (Abukhalaf and von Meding 2020; Paul and Stimers 
+2012; Rogers et  al. 2021; Strader et  al. 2021). The goal of awareness is to build public 
+buy-in into disaster event impacts, and this requires community engagement, connectiv -
+ity, trust and routines/procedures that reiterate responsive behaviors to alerts and warnings 
+that are issued (Krocak et al. 2019, 2020; Ripberger et al. 2019). A majority of the studies 
+focused on the education of alert and warning system, amplifying the risk perception of 
+certain disasters, and university students (Cain et al. 2021; Chen and Cong 2022; Sheldon 
+2018). Examples of this include using prior examples to engage people to take protective 
+action and targeting orientation and freshman life-learning courses (Johnson 2012; Walters 
+et al. 2019). Other ideas that emerged in the literature were the use of advertisements on tv 
+and radio, as well as billboard advertisements to share additional information (Gregg et al. 
+2004; Lerner and Bertram 2014).
+3.2.8  Collaborative efforts across sectors
+Lastly, the literature emphasizes the need to work collaboratively. Whether it is at a 
+university level or community wide, specific disaster or all-encompassing, emergency 
+management policies going forward should be mindful of and encourage collaborative 
+processes to prepare and respond. Elsass et al. (2016) specified that having faculty and 
+staff buy-in to the alert system can motivate students to do so. First et al. (2021) noted 
+that building partnerships is key to creating policies and practices that are equitable, 
+while Sansom et al. (2021) noted that outreach efforts in this manner can lead to better 
+health and safety outcomes. Some studies provided examples of collaboration, such as 
+uniformed staff (e.g., police), weather forecasters, and organizations with high credibil-
+ity (Liu et al. 2019; Zheng et al. 2020). Including different organizations and people to 
+ensure public alert and warning information is understood and heeded can lead to better 
+outcomes, and in the long run, improved safety.1731 Natural Hazards (2023) 117:1711–1744 
+1 3
+4  Discussion
+In this section, we recommend some topics that future research could consider based on 
+our understanding of the current state of research on public alert and warning systems. We 
+also recommend some public alert and warning lessons for policy and practice.
+4.1  Future research recommendations
+The themes and their discussion above provides significant insights on the public alert and 
+warning system research topics that researchers have studied so far as well as the major 
+findings from public alert and warning system research.
+4.1.1  More studies on public alert and warning systems for man‑made hazards
+Most of the studies in this review focused on natural hazards. A majority of these studies 
+examined public alert and warning systems for tornadoes mostly; some studies looked at 
+hurricanes, tsunamis, severe thunderstorms, nor’easters, earthquakes, wildfires, flooding, 
+and volcanic eruption. A very small number of studies in this review focused on man-made 
+hazards like school shootings. Huang, Lindell, and Prater (2016) did provide a longitudinal 
+study on the hurricane evacuation decisions across a period of 23 years, with data from 
+38 hurricane situations. While this study was a longitudinal look at specific natural haz-
+ards, the meta-analysis was focused on the actual evacuation, or hypothetical decisions that 
+would be made. Huang, et al. (2016) stated the need for additional research to highlight 
+how people process hurricane warning messages. There is an urgent need for additional 
+research exploring public alert and warning systems for man-made hazards, such as active 
+shooter incidents, oil spills, civil unrests, riots, etc. Conducting research on these man-
+made hazards can help to improve our systems for alerting and warning the public when 
+these hazards become emergencies or disasters.
+4.1.2  More studies on public alert and warning systems for nighttime emergencies
+Among the studies reviewed only two focused on nighttime emergencies, and specifically 
+tornadoes. Nighttime emergencies typically catch people unaware, and as a result, wreak 
+havoc on communities. For instance, tornadoes that occur at night cause twice as many 
+fatalities as tornadoes that occur during the day (Mason et al. 2018). Despite the potential 
+for huge loss from emergencies occurring at night, little research has been done on this 
+topic. For example, in our review of 100 studies, only two focused on nighttime emergen-
+cies. This is why other researchers have called for additional studies (e.g., Mason et  al. 
+2018). Future research can examine how individuals respond to alert and warning systems 
+and take protective action for nighttime emergencies. Future research can also investigate 
+why individuals are not confident about receiving emergency alert at night according to the 
+study by Krocak et al. (2021a).
+4.1.3  Research on the impact of the pandemic on public alert and warning systems
+The COVID-19 pandemic has caused unprecedented impact on the global community, 
+including the USA. (Sadiq and Kessa 2020). No study among those reviewed focused 
+on the relationship between the pandemic and public alert and warning systems. The 1732 Natural Hazards (2023) 117:1711–1744
+1 3
+pandemic has created a huge research gap that must be filled. Several potential topics 
+in need of answers include, but are not limited to the following. What is the impact of 
+the pandemic on individuals’ response to public alert and warning for other emergen-
+cies? Does the pandemic influence individuals’ perceptions regarding the efficacy of 
+public alert and warning systems? What are the benefits and costs associated with the 
+implementation of a public alert and warning system at the local, state, and national 
+levels in the USA.?
+The combined risk of the pandemic (and how the disease is transmitted) with disas-
+ters that require decisions like evacuation, created newer alert and warning challenges. 
+Pei et al. (2020) built a hypothetical hurricane model to test the impacts on Covid-19 
+case numbers, and found that inevitably the numbers went up. They added that public 
+alert and warning systems would have to account for areas with low transmission and 
+be able to direct evacuees more efficiently, which requires the use of “trusted sources 
+of information” to send out more curated evacuation information (p. 9). With the 
+increasing polarization of how to respond to the Covid-19 pandemic, it is critical that 
+the perceptions of public alert and warning systems are held to facts and the reiter -
+ated goal is to keep people safe, while reducing exposure to the virus. This pandemic 
+has and will continue to impact the evolution of public alert and warning systems to 
+further study the potential impacts of this combination of disasters together, as well 
+as consider how decision-making impacts the perception of those alerts and warnings.
+4.1.4  Additional research on public alert and warning systems decision‑making
+Existing research suggests that governments do not uniformly issue public alert and 
+warnings. Alert and warning systems, including the speed of issuing and disseminating 
+warnings, varies both by type of warning system and by type of emergency (Mileti & 
+Sorensen 1990; Rogers & Sorensen 1988). Some hazards, such as a hazardous chemi-
+cal release, require quick responses so that individuals know whether it is safe to evac-
+uate or shelter in place, while other hazards, such as flood events often have more time 
+for dissemination and preparation, which could explain some differences in the speed 
+of public alter and warnings (Mileti & Sorensen 1990; Sorensen et  al. 2004). How -
+ever, other research suggests that even with one type of hazard, there is a wide range 
+of when warnings are disseminated. For example, Sorensen et  al. (2020) found that 
+between 1979 and 2008, local hurricane evacuation warnings spanned a range of 85 h, 
+after the National Hurrricane Center issued a hurricane warning. In some instances 
+warnings were issued before a hurricane warning, but in other cases warning were 
+not issued until over 70 h (nearly three days) after the hurricane warning. Rogers and 
+Sorensen (1988) suggest that organizational characteristics, such as the speed of organ-
+izational decision making can also impact how quickly warnings are issued, but more 
+research is needed on how decisions regarding issuing public alert and warning are 
+made. A better understanding of the decision-making process can help to improve pub-
+lic alert and warning systems at the local, state, and national levels. For example, by 
+studying the decision-making process, inefficiencies, redundances, etc., can be identi-
+fied and improvements made. Questions that can be studied on this topic include, but 
+are not limited to the following. What factors influence the ability of a decision maker 
+to issue alert and warning information in a timely manner? What are the obstacles that 
+cause delay in relaying alert and warning information to the public?1733 Natural Hazards (2023) 117:1711–1744 
+1 3
+4.2  Policy and practical recommendations
+Based on the systematic literature review of the articles undertaken, there were eight 
+themes that emerged on policy and practical recommendations for future consideration. 
+We discuss these policy and practical recommendations below. In regard to multi-chan-
+nel avenues to reach the public with alerts and warnings, emergency personnel should 
+continue to utilize social media, especially in partnership with organizations that are 
+embedded within their communities. This ensures that there are multiple methods of 
+educating the public and normalizing response to alerts (Lindell and Prater 2010; Liu 
+et al. 2020; Perreault et al. 2014). Additionally, as alert and warning messages are being 
+created for the public emergency personnel should consider how different groups (e.g., 
+students, the elderly, non-English speakers, etc.) within the public prefer to receive mes-
+sages. While some prefer the traditional broadcast, others might prefer text messaging 
+or peer-to-peer dissemination. Concurrently, curated messages should also engage the 
+public by providing detailed information about the situation in the alert. This is con-
+tradictory to studies that highlighted brief messages highlighting the impending hazard 
+as sufficient for warning (Lindell et al. 2015; Wang et al. 2022). However, studies that 
+found brief messaging effective also had respondents that utilized either peer confir -
+mation, personal inferencing, or combining the messaging acknowledgement and action 
+with other methods of receiving the information (e.g., broadcast). On the other hand, 
+sequenced messages that may be longer, but provide more detail about the situation, tar -
+geted location information, and actions to take, were seen as desirable in other studies, 
+rather than short and terse messages that provide limited information on their own (Kim 
+et al. 2019; Sutton et al. 2015).
+The support for geographic maps and visuals when sending out alerts and warnings 
+was evident as well, aligning with the concept of providing more detailed information 
+about impending or occurring disasters. Lastly, simple yet effective means to encourage 
+attention to alert and warning messages is to ensure that the systems utilize ‘opt-out’ 
+rather than ‘opt-in’ services. This reduces the difficulties that may ensue with user-end 
+registration for the systems, and reduces the likelihood of outdated contact information 
+(Egnoto et al. 2013). Many of these recommendations are practical in nature, and can be 
+incorporated into current alert and warning systems, as well as impact future standardi-
+zation and updating of policies on the subject matter.
+5  Conclusion
+This paper systematically identified and reviewed 100 studies on public alert and warn-
+ing systems to synthesize major findings and practical lessons to improve public alert 
+and warning systems research and practice. This study also outlined a path for continu-
+ing research in this space for the foreseeable future. This study, of course, is not without 
+limitations. First, this study only examined articles published in the USA. It would be 
+beneficial for future work to systematically review public alert and warning systems in 
+other countries. Second, despite efforts to develop a keyword search that was both broad 
+enough to cast a wide net on and narrow enough to increase efficiency, it is possible that 
+the authors missed some studies that met the selection criteria. Nonetheless, this paper 
+offered critical insights into the research findings on public alert and warning systems 1734 Natural Hazards (2023) 117:1711–1744
+1 3
+that provide practical ways to improve how communities’ alert and warn their residents 
+before, during, and after emergencies.
+Appendix 1: List of studies included
+ 1. Abukhalaf, A. H. I., & J. Von Meding. 2020. “Communication challenges in cam-
+pus emergency planning: The case of hurricane dorian in Florida.” Natural Hazards, 
+104(2), 1535–1565.
+ 2. Abukhalaf, A. H. I., and J. Von Meding. 2021. “Integrating international linguistic 
+minorities in emergency planning at institutions of higher education.” Natural Haz-
+ards, 109(1), 845–869.
+ 3. Ada, S., R. Sharman, W. Han, and J.A. Brennan, J. A. 2016. “Factors impacting the 
+intention to use emergency notification services in campus emergencies: an empirical 
+investigation.” IEEE Transactions on Professional Communication, 59(2), 89–109.
+ 4. Ahlborn, L., Franc, J. M., & Med, D. S. (2012). Tornado hazard communication 
+disparities among Spanish-speaking individuals in an English-speaking community. 
+Prehospital and Disaster Medicine, 27(1), 98–102.
+ 5. Ahn, A. Y., H. Takikawa, E. Maly, A. Bostrom, S. Kuriyama, H. Matsubara, … and F. 
+Imamura. 2021. “Perception of earthquake risks and disaster prevention awareness: A 
+comparison of resident surveys in Sendai, Japan and Seattle, WA, USA.” International  
+Journal of Disaster Risk Reduction, 66, 102,624.
+ 6. Andra, D. L., Quoetone, E. M., & Bunting, W. F. (2002). Warning decision making: 
+The relative roles of conceptual models, technology, strategy, and forecaster expertise 
+on 3 May 1999. Weather and Forecasting, 17(3), 559–566.
+ 7. Anthony, K. E., Cowden-Hodgson, K. R., Dan O’Hair, H., Heath, R. L., & Eosco, G. 
+M. (2014). Complexities in communication and collaboration in the hurricane warning 
+system. Communication Studies, 65(5), 468–483.
+ 8. Ash, K. D., Schumann, R. L., & Bowser, G. C. (2014). Tornado warning trade-offs: 
+Evaluating choices for visually communicating risk. Weather, Climate, and Society, 
+6(1), 104–118.
+ 9. Auld, J., V. Sokolov, A. Fontes, and R. Bautista. 2012. “Internet-based stated response 
+survey for no-notice emergency evacuations.” Transportation Letters, 4(1), 41–53.
+ 10. Babvey, P., G. Gongora-Svartzman, C. Lipizzi, and J. E. Ramirez-Marquez. 2021. 
+“Content-based user classifier to uncover information exchange in disaster-motivated 
+networks.” PLoS one, 16(11), e0259342.
+ 11. Balluz, L., Schieve, L., Holmes, T., Kiezak, S., and Malilay, J. (2000). “Predictors for 
+people’s response to a tornado warning, Arkansas, 1 March, 1997.” Disasters, 24(1), 
+71–77.
+ 12. Baudoin, M. A., S. Henly-Shepard, N. Fernando, A. Sitati, and Z. Zommers. 2016. 
+“From top-down to “community-centric” approaches to early warning systems: Explor -
+ing pathways to improve disaster risk reduction through community participation.” 
+International Journal of Disaster Risk Science, 7(2), 163–174.
+ 13. Bean, H., N. Grevstad, A. Meyer, and A. Koutsoukos. 2022. “Exploring whether wire-
+less emergency alerts can help impede the spread of Covid‐ 19.” Journal of Contingen-
+cies and Crisis Management, 30(2), 185–203.
+ 14. Bean, H., Liu, B. F., Madden, S., Sutton, J., Wood, M. M., & Mileti, D. S. (2016). Dis-
+aster warnings in your pocket: How audiences interpret mobile alerts for an unfamiliar 1735 Natural Hazards (2023) 117:1711–1744 
+1 3
+hazard. Journal of Contingencies and Crisis Management, 23(3), 141–142. https:// doi.  
+org/ 10. 1111/ 1468- 5973. 12108
+ 15. Bliss, J., Dunn, M., & Fuller, B. S. (1995). Reversal of the cry-wolf effect: An investi-
+gation of two methods to increase alarm response rates. Perceptual and Motor Skills, 
+80(3_suppl), 1231–1242.
+ 16. Bliss, J. P., Gilson, R. D., & Deaton, J. E. (1995). Human probability matching behav -
+iour in response to alarms of varying reliability. Ergonomics, 38(11), 2300–2312.
+ 17. Bonaretti, D., and D. Fischer-Preßler. 2021. “The problem with SMS campus warning 
+systems: an evaluation based on recipients’ spatial awareness. ” International Journal 
+of Disaster Risk Reduction, 54, 102,031.
+ 18. Bostrom, A., R. Morss, J. K. Lazo, J. Demuth, and H. Lazrus. 2018. “Eyeing the storm: 
+How residents of coastal Florida see hurricane forecasts and warnings.” International 
+Journal of Disaster Risk Reduction, 30, 105–119.
+ 19. Brooks, H. E., & Correia Jr, J. (2018). Long-term performance metrics for National 
+Weather Service tornado warnings. Weather and Forecasting, 33(6), 1501–1511.
+ 20. Brotzge, J. A., and W. R. Donner. 2015. “General policy for activating outdoor warning 
+siren systems for severe weather: Survey of emergency managers.” Natural Hazards 
+Review, 16(2).
+ 21. Brotzge, J., & Erickson, S. (2010). Tornadoes without NWS warning. Weather and 
+Forecasting, 25(1), 159–172.
+ 22. Brotzge, J., Erickson, S., & Brooks, H. (2011). A 5-yr climatology of tornado false 
+alarms. Weather and Forecasting, 26(4), 534–544.
+ 23. Bui, L. 2019. “Social media, rumors, and hurricane warning systems in Puerto Rico.” 
+Proceedings of the 52nd Hawaii International Conference on System Sciences, 1–10.
+ 24. Cain, L., E. Herovic, and K. Wombacher. 2021. ““You are here”: Assessing the inclu-
+sion of maps in a campus emergency alert system.” Journal of Contingencies and 
+Crisis Management, 29(3), 332–340.
+ 25. Carr, R. H., Montz, B., Maxfield, K., Hoekstra, S., Semmens, K., & Goldman, E. 
+(2016). Effectively communicating risk and uncertainty to the public: Assessing the 
+National Weather Service’s flood forecast and warning tools. Bulletin of the American 
+Meteorological Society, 97(9), 1649–1665.
+ 26. Carter, T. M., Kendall, S., & Clark, J. P. (1983). Household response to warnings. 
+International Journal of Mass Emergencies & Disasters, 1(1), 95–104.
+ 27. Casteel, M. A. 2016. “Communicating increased risk: An empirical investigation of the 
+National Weather Service’s impact-based warnings.” Weather, Climate, and Society, 
+8(3), 219–232.
+ 28. Casteel, M. A. 2018. “An empirical assessment of impact based tornado warnings 
+on shelter in place decisions.” International Journal of Disaster Risk Reduction, 30, 
+25–33.
+ 29. Casteel, M. A., & Downing, J. R. (2013). How individuals process NWS weather 
+warning messages on their cell phones. Weather, Climate, and Society, 5(3), 254–265.
+ 30. Casteel, M. A., and J.R. Downing. 2016. “Assessing risk following a wireless emer -
+gency alert: Are 90 characters enough?” Journal of Homeland Security and Emergency 
+Management, 13(1), 95–112.
+ 31. Cavanaugh, D., Huffman, M., Dunn, J., & Fox, M. 2016. “Connecting the dots: A 
+communications model of the North Texas Integrated Warning Team during the 15 
+May 2013 tornado outbreak.” Weather, Climate, and Society, 8(3), 233–245.
+ 32. Chen, Z., and Z. Cong. 2022. “Response Efficacy Perception and Taking Action to 
+Prepare for Disasters with Different Lead Time.” Natural Hazards Review, 23(1).1736 Natural Hazards (2023) 117:1711–1744
+1 3
+ 33. Childs, S. J., and R. S. Schumacher. 2018. “Cold-season tornado risk communication: 
+Case studies from November 2016 to February 2017.” Weather, Climate, and Society, 
+10(3), 419–433.
+ 34. Chiu, C. H., A. H. Schnall, C. E. Mertzlufft, R. S. Noe, A. F. Wolkin, J. Spears, … 
+& S. J. Vagi. 2013. “Mortality from a tornado outbreak, Alabama, April 27, 2011.” 
+American Journal of Public Health, 103(8), e52-e58.
+ 35. Collins, J., R. Ersing, and A. Polen. 2017. “Evacuation decision-making during Hur -
+ricane Matthew: An assessment of the effects of social connections.” Weather, Climate, 
+and Society, 9(4), 769–776.
+ 36. Cong, Z., J. Luo, D. Liang, and A. Nejat. 2017. “Predictors for the number of warning 
+information sources during tornadoes.” Disaster Medicine and Public Health Prepar -
+edness, 11(2), 168–172.
+ 37. Cuite, C. L., R. E. Morss, J. L. Demuth, and W. K. Hallman. 2021. “Hurricanes vs 
+nor’easters: The effects of storm type on perceived severity and protective actions.” 
+Bulletin of the American Meteorological Society, 102(7), E1306-E1316.
+ 38. Demuth, J. L., Morss, R. E., Morrow, B. H., & Lazo, J. K. 2012. “Creation and com-
+munication of hurricane risk information.” Bulletin of the American Meteorological 
+Society, 93(8), 1133–1145.
+ 39. DeYoung, S. E., J. N. Sutton, A. K. Farmer, D. Neal, and K. A. Nichols. 2019. ““Death 
+was not in the agenda for the day”: Emotions, behavioral reactions, and perceptions 
+in response to the 2018 Hawaii Wireless Emergency Alert.” International Journal of 
+Disaster Risk Reduction, 36.
+ 40. DeYoung, S. E., T. Wachtendorf, A. K. Farmer, and S. C. Penta. 2016. “NOAA radios 
+and neighbourhood networks: Demographic factors for channel preference for hur -
+ricane evacuation information.” Journal of Contingencies and Crisis Management, 
+24(4), 275–285.
+ 41. Donner, W. R., Rodriguez, H., & Diaz, W. 2012. “Tornado warnings in three south-
+ern states: A qualitative analysis of public response patterns.” Journal of Homeland 
+Security and Emergency Management, 9(2).
+ 42. Drost, R., Casteel, M., Libarkin, J., Thomas, S., & Meister, M. 2016. “Severe weather 
+warning communication: Factors impacting audience attention and retention of infor -
+mation during tornado warnings.” Weather, Climate, and Society, 8(4), 361–372.
+ 43. Dunn, P. T., A. Y. Ahn, A. Bostrom, and J.E. Vidale. 2016. “Perceptions of earthquake 
+early warnings on the US West Coast.” International Journal of Disaster Risk Reduc-
+tion, 20, 112–122.
+ 44. Eachus, J. D., and B. D. Keim. 2020. “Content driving exposure and attention to tweets 
+during local, high-impact weather events.” Natural Hazards, 103(2), 2207–2229.
+ 45. Edwards, D. A., H. Cuthbertson, and D. Peterson. 2011. “Use of an emergency noti-
+fication system in a multi-agency functional emergency exercise: feedback from par -
+ticipants.” Journal of Homeland Security and Emergency Management, 8(1).
+ 46. Egnoto, M. J., E. Svetieva, A. Vishwanath, and C. R. Ortega. 2013. “Diffusion of 
+emergency information during a crisis within a university.” Journal of Homeland 
+Security and Emergency Management, 10(1), 267–287.
+ 47. Elsass, H. J., J. M. McKenna, and J. Schildkraut. 2016. “Rethinking crisis communi-
+cations on campus: An evaluation of faculty and staff perceptions about emergency 
+notification systems.” Journal of Homeland Security and Emergency Management, 
+13(3), 329–349.1737 Natural Hazards (2023) 117:1711–1744 
+1 3
+ 48. Ernst, S., J. Ripberger, M. J. Krocak, H. Jenkins-Smith, and C. Silva. 2021. “Colorful 
+language: Investigating public interpretation of the Storm Prediction Center convective 
+outlook.” Weather and Forecasting, 36(5), 1785–1797.
+ 49. First, J. M., K. Ellis, M. L. Held, and F. Glass. 2021. “Identifying risk and resilience 
+factors impacting mental health among Black and Latinx Adults following nocturnal 
+tornadoes in the US Southeast.” International Journal of Environmental Research and 
+Public Health, 18(16).
+ 50. Grace, R. 2021. “Overcoming barriers to social media use through multisensor inte-
+gration in emergency management systems.” International Journal of Disaster Risk 
+Reduction, 66.
+ 51. Grajdura, S., S. Borjigin, and D. Niemeier. 2022. “Fast-moving dire wildfire evacuation 
+simulation.” Transportation Research Part D: Transport and Environment, 104.
+ 52. Grajdura, S., X. Qian, and D. Niemeier. 2021. “Awareness, departure, and preparation 
+time in no-notice wildfire evacuations.” Safety Science, 139.
+ 53. Gregg, C. E., B. F. Houghton, D. Paton, D. A. Swanson, and D. M. Johnston. 2004. 
+“Community preparedness for lava flows from Mauna Loa and Hualālai volcanoes, 
+Kona, Hawai ‘i.” Bulletin of Volcanology, 66(6), 531–540.
+ 54. Guillot, S., P. Jarvis, T. Powell, and J. Kenkre. 2020. “Knowledge, experience and pre-
+paredness: factors influencing citizen decision-making in severe weather situations.” 
+International Journal of Emergency Management, 16(1), 60–60.
+ 55. Gulum, M. S., & Murray, S. L. 2009. “Evaluation of the effectiveness of a mass emer -
+gency notification system.” In Proceedings of the Human Factors and Ergonomics 
+Society Annual Meeting (Vol. 53, No. 18, pp. 1466–1470). Sage CA: Los Angeles, 
+CA: SAGE Publications.
+ 56. Gutter, B. F., K. Sherman-Morris, and M. E. Brown. 2018. “Severe weather watches 
+and risk perception in a hypothetical decision experiment.” Weather, Climate, and 
+Society, 10(4), 613–623.
+ 57. Hammer, B., & Schmidlin, T. W. 2002. “Response to warnings during the 3 May 1999 
+Oklahoma City tornado: Reasons and relative injury rates.” Weather and Forecasting, 
+17(3), 577–581.
+ 58. Han, W., Ada, S., Sharman, R., & Rao, H. R. (2015). Campus emergency notification 
+systems. Mis Quarterly, 39(4), 909–930.
+ 59. Han, W., Ada, S., Sharman, R., Gray, R. H., & Simha, A. (2015). Factors impacting the 
+adoption of social network sites for emergency notification purposes in universities. 
+International Journal of Business Information Systems, 18(1), 85–106.
+ 60. Hildebrand, S. (2017). The effective use of communication tools during a long-term 
+campus emergency. Natural Hazards, 88(1), 21–38.
+ 61. Hoekstra, S., Klockow, K., Riley, R., Brotzge, J., Brooks, H., & Erickson, S. 2011. 
+“A preliminary look at the social perspective of warn-on-forecast: Preferred tornado 
+warning lead time and the general public’s perceptions of weather risks.” Weather, 
+Climate, and Society, 3(2), 128–140.
+ 62. Jauernic, S. T., & Van Den Broeke, M. S. 2016. “Perceptions of tornadoes, tornado 
+risk, and tornado safety actions and their effects on warning response among Nebraska 
+undergraduates.” Natural Hazards, 80(1), 329–350.
+ 63. Jauernic, S. T., and M. S. Van Den Broeke. 2017. “Tornado warning response and 
+perceptions among undergraduates in Nebraska.” Weather, Climate, and Society, 9(2), 
+125–139.1738 Natural Hazards (2023) 117:1711–1744
+1 3
+ 64. Johnson, T. 2012. “Effect of a marketing program on freshman student registration 
+for an emergency notification system.” Journal of Homeland Security and Emergency 
+Management, 9(1).
+ 65. Johnson, T. C. 2014. “International students’ perceptions of shelter-in-place notifica-
+tions: Implications for university officials.” Journal of International Students , 4(3), 
+247–261.
+ 66. Johnston, D., D. Paton, G. L. Crawford, K. Ronan, B. Houghton, and P. Bürgelt. 2005. 
+“Measuring tsunami preparedness in coastal Washington, United States.” Natural Haz-
+ards, 35(1), 173–184.
+ 67. Jon, I., S. K. Huang, and M. K. Lindell. 2018. “Perceptions and reactions to tornado 
+warning polygons: Would a gradient polygon be useful?” International Journal of 
+Disaster Risk Reduction, 30, 132–144.
+ 68. Jones, N. M., and R. C. Silver. 2020. “This is not a drill: Anxiety on Twitter following 
+the 2018 Hawaii false missile alert.” American Psychologist, 75(5), 683.
+ 69. Jung, A. R., K. D. Hristovski, J. W. Ulrich, and A. F. Brown. 2015. “Understanding 
+comprehension levels of emergency notifications by limited English proficient US 
+residents: Case study of Korean-Americans in New York City.” Journal of Homeland 
+Security and Emergency Management, 12(4), 845–859.
+ 70. Kalkstein, A. J., and S. C. Sheridan. 2007. “The social impacts of the heat–health 
+watch/warning system in Phoenix, Arizona: assessing the perceived risk and response 
+of the public.” International Journal of Biometeorology, 52(1), 43–55.
+ 71. Kim, G., A. Martel, D. Eisenman, M. Prelip, A. Arevian, K. L. Johnson, and D. Glik. 
+2019. “Wireless Emergency Alert messages: Influences on protective action behav -
+iour.” Journal of Contingencies and Crisis Management, 27(4), 374–386.
+ 72. Krocak, M. J., J. N. Allan, J. T. Ripberger, C. L. Silva, and H. C. Jenkins-Smith. 
+2021. “An analysis of tornado warning reception and response across time: Leveraging 
+respondents’ confidence and a nocturnal tornado climatology.” Weather and Forecast-
+ing, 36(5), 1649–1660.
+ 73. Krocak, M. J., and H. E. Brooks. 2021. “The influence of weather watch type on 
+the quality of tornado warnings and its implications for future forecasting systems.” 
+Weather and Forecasting, 36(5), 1675–1680.
+ 74. Krocak, M. J., S. Ernst, J. N. Allan, W. Wehde, J. T. Ripberger, C. L. Silva, and H. 
+C. Jenkins-Smith. 2020. “Thinking outside the polygon: a study of tornado warning 
+perception outside of warning polygon bounds.” Natural Hazards , 102(3), 1351–1368.
+ 75. Krocak, M. J., M. D. Flournoy, and H. E. Brooks. 2021. “Examining subdaily tor -
+nado warning performance and associated environmental characteristics.” Weather 
+and Forecasting, 36(5), 1779–1784.
+ 76. Krocak, M. J., J. T. Ripberger, H. Jenkins-Smith, and C. Silva. 2019. “The impact 
+of hours of advance notice on protective action in response to tornadoes.” Weather, 
+Climate, and Society, 11(4), 881–888.
+ 77. League, C. E., W. Díaz, B. Philips, E. J. Bass, K. Kloesel, E. Gruntfest, and A. Gessner. 
+2010. “Emergency manager decision‐ making and tornado warning communication.” 
+Meteorological Applications, 17(2), 163–172.
+ 78. LeClerc, J., & Joslyn, S. 2015. “The cry wolf effect and weather ‐related decision mak -
+ing.” Risk Analysis, 35(3), 385–395.
+ 79. Lee, D., Chung, J. Y., & Kim, H. 2013. “Text me when it becomes dangerous: Explor -
+ing the determinants of college students’ adoption of mobile-based text alerts short 
+message service.” Computers in Human Behavior, 29(3), 563–569.1739 Natural Hazards (2023) 117:1711–1744 
+1 3
+ 80. Lerner, K., and K. Bertram. 2014. “Common issues in emergency public information 
+as identified in CSEPP exercises.” Journal of Homeland Security and Emergency 
+Management, 11(1), 155–168.
+ 81. Lim, J. R., B. F. Liu, and M. Egnoto. 2019. “Cry wolf effect? Evaluating the impact of 
+false alarms on public responses to tornado alerts in the southeastern United States.” 
+Weather, Climate, and Society, 11(3), 549–563.
+ 82. Lindell, M. K., Huang, S. K., Wei, H. L., & Samuelson, C. D. 2016. “Perceptions and 
+expected immediate reactions to tornado warning polygons.” Natural Hazards, 80(1), 
+683–707.
+ 83. Lindell, M. K., & Perry, R. W. 1987. “Warning mechanisms in emergency response 
+systems.” International Journal of Mass Emergencies & Disasters, 5(2), 137–153.
+ 84. Lindell, M. K., and C. S. Prater. 2010. “Tsunami preparedness on the Oregon and 
+Washington coast: Recommendations for research.” Natural Hazards Review, 11(2), 
+69–81.
+ 85. Lindell, M. K., C. S. Prater, C.E. Gregg, E.J. Apatu, S. K. Huang, and H. C. Wu. 2015. 
+“Households’ immediate responses to the 2009 American Samoa Earthquake and 
+Tsunami.” International Journal of Disaster Risk Reduction, 12, 328–340.
+ 86. Liu, B. F., M. Egnoto, and J. R. Lim. 2019. “How mobile home residents understand 
+and respond to tornado warnings.” Weather, Climate, and Society, 11(3), 521–534.
+ 87. Liu, S., Quenemoen, L. E., Malilay, J., Noji, E., Sinks, T., & Mendlein, J. 1996. 
+“Assessment of a severe-weather warning system and disaster preparedness, Calhoun 
+County, Alabama, 1994.” American Journal of Public Health, 86(1), 87–89.
+ 88. Liu, B. F., A. A. Seate, I. Iles, and E. Herovic. 2020. “Tornado warning: Understanding 
+the national weather service’s communication strategies.” Public Relations Review, 
+46(2).
+ 89. Liu, B. F., M. M. Wood, M. Egnoto, H. Bean, J. Sutton, D. Mileti, and S. Madden. 
+2017. “Is a picture worth a thousand words? The effects of maps and warning mes-
+sages on how publics respond to disaster information.” Public Relations Review, 43(3), 
+493–506.
+ 90. Liu, B. F., S. Xu, J. R. Lim, and M. Egnoto. 2019. “How publics’ active and passive 
+communicative behaviors affect their tornado responses: An integration of STOPS and 
+SMCC.” Public Relations Review, 45(4), 101831.
+ 91. Losee, J. E., Naufel, K. Z., Locker, L., & Webster, G. D. 2017. “Weather warning 
+uncertainty: High severity influences judgment bias.” Weather, Climate, and Society, 
+9(3), 441–454.
+ 92. Luo, J., Cong, Z., and D. Liang. 2015. “Number of warning information sources and 
+decision making during tornadoes.” American Journal of Preventive Medicine, 48(3), 
+334–337.
+ 93. Madden, S. 2015. “Alerting a campus community: Emergency notification from a pub-
+lic’s perspective.” Journal of Contingencies and Crisis Management, 23(4), 184–192.
+ 94. Madden, S. 2017. “The clock is ticking: Temporal dynamics of campus emergency 
+notifications.” Journal of Contingencies and Crisis Management, 25(4), 370–375.
+ 95. Markwart, H., Vitera, J., Lemanski, S., Kietzmann, D., Brasch, M., & Schmidt, S. 
+2019. “Warning messages to modify safety behavior during crisis situations: a virtual 
+reality study.” International Journal of Disaster Risk Reduction, 38, 101235.
+ 96. Mason, L. R., K. N. Ellis, B. Winchester, and S. Schexnayder, S. 2018. “Tornado warn-
+ings at night: Who gets the message?” Weather, Climate, and Society, 10(3), 561–568.
+ 97. Mason, J. B., & Senkbeil, J. C. 2015. “A tornado watch scale to improve public 
+response.” Weather, Climate, and Society, 7(2), 146–158.1740 Natural Hazards (2023) 117:1711–1744
+1 3
+ 98. Meyer, J. 2001. “Effects of warning validity and proximity on responses to warnings.” 
+Human Factors, 43(4), 563–572.
+ 99. Mileti, D. S., & O’Brien, P. W. 1992. “Warnings during disaster: Normalizing com-
+municated risk.” Social Problems, 39(1), 40–57.
+ 100. Miran, S. M., Ling, C., Gerard, A., & Rothfusz, L. 2018. “The effect of providing 
+probabilistic information about a tornado threat on people’s protective actions.” Natu-
+ral Hazards, 94, 743–758.
+ 101. Morss, R. E., Cuite, C. L., Demuth, J. L., Hallman, W. K., & Shwom, R. L. 2018. “Is 
+storm surge scary? The influence of hazard, impact, and fear-based messages and indi-
+vidual differences on responses to hurricane risks in the USA.” International Journal 
+of Disaster Risk Reduction, 30, 44–58.
+ 102. Morss, R. E., & Hayden, M. H. 2010. “Storm surge and “certain death”: Interviews 
+with Texas coastal residents following Hurricane Ike.” Weather, Climate, and Society, 
+2(3), 174–189.
+ 103. Morss, R. E., Mulder, K. J., Lazo, J. K., & Demuth, J. L. 2016. “How do people 
+perceive, understand, and anticipate responding to flash flood risks and warnings? 
+Results from a public survey in Boulder, Colorado, USA.” Journal of Hydrology, 541, 
+649–664.
+ 104. Mueller, J., J. Morris, and M. Jones. 2010. “Accessibility of emergency communica-
+tions to deaf citizens.” International Journal of Emergency Management, 7(1), 41–46.
+ 105. Nagele, D. E., and J. E. Trainor. 2012. “Geographic specificity, tornadoes, and protec-
+tive action.” Weather, Climate, and Society, 4(2), 145–155.
+ 106. Paul, B. K., and M. Stimers. 2012. “Exploring probable reasons for record fatalities: 
+the case of 2011 Joplin, Missouri, Tornado.” Natural Hazards, 64(2), 1511–1526.
+ 107. Paul, B. K., Stimers, M., & Caldas, M. 2015. “Predictors of compliance with tornado 
+warnings issued in Joplin, Missouri, in 2011.” Disasters, 39(1), 108–124.
+ 108. Pelfrey, W. V. 2021. “Emergency manager perceptions of the effectiveness and limi-
+tations of mass notification systems: a mixed method study.” Journal of Homeland 
+Security and Emergency Management, 18(1), 49–65.
+ 109. Perreault, M. F., J. B. Houston, and L. Wilkins. 2014. “Does scary matter?: Testing 
+the effectiveness of new National Weather Service tornado warning messages.” Com-
+munication Studies, 65(5), 484–499.
+ 110. Radford, L., J. C. Senkbeil, and M. Rockman. 2013. Suggestions for alternative tropi-
+cal cyclone warning graphics in the USA. Disaster Prevention and Management: An 
+International Journal, 22(3).
+ 111. Rehman, A. U., T. Lyche, K. Awuah-Offei, and V. S. S. Nadendla. 2020. “Effect of 
+text message alerts on miners evacuation decisions.” Safety Science, 130, 104875.
+ 112. Ripberger, J. T., Jenkins-Smith, H. C., Silva, C. L., Carlson, D. E., & Henderson, M. 
+2014. “Social media and severe weather: do tweets provide a valid indicator of public 
+attention to severe weather risk communication?.” Weather, Climate, and Society, 6(4), 
+520–530.
+ 113. Ripberger, J. T., M. J. Krocak, W. W. Wehde, J. N. Allan, C. Silva, and H. Jenkins-
+Smith. 2019. “Measuring tornado warning reception, comprehension, and response 
+in the United States.” Weather, Climate, and Society, 11(4), 863–880.
+ 114. Ripberger, J. T., C. L. Silva, H. C. Jenkins ‐Smith, D. E. Carlson, M. James, and K. G. 
+Herron, K. 2015. “False alarms and missed events: The impact and origins of perceived 
+inaccuracy in tornado warning systems.” Risk Analysis, 35(1), 44–56.1741 Natural Hazards (2023) 117:1711–1744 
+1 3
+ 115. Ripberger, J. T., C. L. Silva, H. C. Jenkins-Smith, and M. James, M. 2015. “The 
+influence of consequence-based messages on public responses to tornado warnings.” 
+Bulletin of the American Meteorological Society, 96(4), 577–590.
+ 116. Ripberger, J. T., C. L. Silva, H. C. Jenkins-Smith, J. Allan, M. Krocak, W. Wehde, 
+and S. Ernst. 2020. “Exploring community differences in tornado warning reception, 
+comprehension, and response across the United States.” Bulletin of the American 
+Meteorological Society, 101(6), E936-E948.
+ 117. Robinson, S. E., J. M. Pudlo, and W. Wehde. 2019. “The new ecology of tornado warn-
+ing information: A natural experiment assessing threat intensity and citizen‐ to‐citizen 
+information sharing.” Public Administration Review, 79(6), 905–916.
+ 118. Rogers, C. J., M. Forster, K. Bahr, and S. M. Benjamin. 2021. “A cross-sectional study 
+using health behavior theory to predict rapid compliance with campus emergency noti-
+fications among college students.” Disaster Medicine and Public Health Preparedness, 
+15(2), 198–207.
+ 119. Sansom, G. T., K. Aarvig, L. Sansom, C. Thompson, L. Fawkes, and A. Katare. 2021. 
+“Understanding risk communication and willingness to follow emergency recommen-
+dations following anthropogenic disasters.” Environmental Justice, 14(2), 159–167.
+ 120. Sattler, D. N., K. Larpenteur, and G. Shipley. 2011. “Active shooter on campus: Evalu-
+ating text and e-mail warning message effectiveness.” Journal of Homeland Security 
+and Emergency Management, 8(1).
+ 121. Schildkraut, J., J. M. McKenna, and H. J. Elsass. 2017. “Understanding crisis com-
+munications: Examining students’ perceptions about campus notification systems.” 
+Security Journal, 30(2), 605–620.
+ 122. Schumacher, R. S., Lindsey, D. T., Schumacher, A. B., Braun, J., Miller, S. D., & 
+Demuth, J. L. (2010). Multidisciplinary analysis of an unusual tornado: Meteorology, 
+climatology, and the communication and interpretation of warnings. Weather and 
+Forecasting, 25(5), 1412–1429.
+ 123. Sheldon, P. 2018. “Emergency alert communications on college campuses: Under -
+standing students’ perceptions of the severity of a crisis and their intentions to share the 
+alert with parents and friends.” Western Journal of Communication, 82(1), 100–116.
+ 124. Sheldon P, Antony M.G. 2018. “Sharing emergency alerts on a college campus: How 
+gender and technology matter.” South Commun J 83(3):167–178.
+ 125. Sherman-Morris, K. 2010. “Tornado warning dissemination and response at a univer -
+sity campus.” Natural Hazards, 52(3), 623–638.
+ 126. Sherman-Morris, K., T. Pechacek, D. J. Griffin, and J. Senkbeil. 2020. “Tornado warn-
+ing awareness, information needs and the barriers to protective action of individuals 
+who are blind.” International Journal of Disaster Risk Reduction, 50.
+ 127. Simmons, K. M., & Sutter, D. 2005. “WSR-88D radar, tornado warnings, and tornado 
+casualties.” Weather and Forecasting, 20(3), 301–310.
+ 128. Simmons, K. M., & Sutter, D. 2008. “Tornado warnings, lead times, and tornado 
+casualties: An empirical investigation.” Weather and Forecasting, 23(2), 246–258.
+ 129. Simmons, K. M., & Sutter, D. (2009). False alarms, tornado warnings, and tornado 
+casualties. Weather, Climate, and Society, 1(1), 38–53.
+ 130. Spence, P. R., K. A. Lachlan, and A. L. Edwards. 2022. “We interrupt this program, 
+this is an emergency: Revisiting the role of radio in a crisis.” Journal of Radio & Audio 
+Media, 1–22.
+ 131. Stephens, K. K., Barrett, A. K., & Mahometa, M. J. 2013. “Organizational communica-
+tion in emergencies: Using multiple channels and sources to combat noise and capture 
+attention.” Human Communication Research, 39(2), 230–251.1742 Natural Hazards (2023) 117:1711–1744
+1 3
+ 132. Strader, S. M., A. M. Haberlie, and A. G. Loitz. 2021. “Assessment of NWS county 
+warning area tornado risk, exposure, and vulnerability.” Weather, Climate, and Society, 
+13(2), 189–209.
+ 133. Strawderman, L., A. Salehi, K. Babski-Reeves, T. Thornton-Neaves, and A. Cosby. 
+2012. “Reverse 911 as a complementary evacuation warning system.” Natural Hazards 
+Review, 13(1), 65–73.
+ 134. Sutter, D., & Erickson, S. 2010. “The time cost of tornado warnings and the savings 
+with storm-based warnings.” Weather, Climate, and Society, 2(2), 103–112.
+ 135. Sutton, J., & Fischer, L. M. 2021. “Understanding visual risk communication mes-
+sages: An analysis of visual attention allocation and think-aloud responses to tornado 
+graphics.” Weather, Climate, and Society, 13(1), 173–188.
+ 136. Sutton, J., L. Fischer, L. E. James, and S. E. Sheff, S. E. 2020. “Earthquake early warn-
+ing message testing: Visual attention, behavioral responses, and message perceptions.” 
+International Journal of Disaster Risk Reduction, 49, 101664.
+ 137. Sutton, J., L. Fischer, and M. M. Wood. 2021. “Tornado warning guidance and graph-
+ics: Implications of the inclusion of protective action information on perceptions and 
+efficacy.” Weather, Climate, and Society, 13(4), 1003–1014.
+ 138. Sutton, J., C. B. Gibson, N. E. Phillips, E. S. Spiro, C. League, B. Johnson, … and C. 
+T. Butts. 2015. “A cross-hazard analysis of terse message retransmission on Twitter.” 
+Proceedings of the National Academy of Sciences, 112(48), 14793–14798.
+ 139. Sutton, J., & Kuligowski, E. D. 2019. “Alerts and warnings on short messaging 
+channels: Guidance from an expert panel process.” Natural Hazards Review, 20(2), 
+04019002.
+ 140. Sutton, J., C. League, T. L. Sellnow, and D. D. Sellnow. 2015. “Terse messaging and 
+public health in the midst of natural disasters: The case of the Boulder floods.” Health 
+Communication, 30(2), 135–143.
+ 141. Sutton, J., Spiro, E. S., Johnson, B., Fitzhugh, S., Gibson, B., & Butts, C. T. 2014. 
+“Warning tweets: Serial transmission of messages during the warning phase of a dis-
+aster event.” Information, Communication & Society, 17(6), 765–787.
+ 142. Sutton, J., S. C. Vos, M. M. Wood, and M. Turner. 2018. “Designing effective tsu-
+nami messages: Examining the role of short messages and fear in warning response.” 
+Weather, Climate, and Society, 10(1), 75–87.
+ 143. Sutton, J., and C. Woods, C. 2016. “Tsunami warning message interpretation and sense 
+making: Focus group insights.” Weather, Climate, and Society, 8(4), 389–398.
+ 144. Thompson, S. C., & Schlehofer, M. M. 2014. “Undermining optimistic denial reactions 
+to domestic and campus emergency warning messages.” Applied Psychology: Health 
+and Well‐Being, 6(2), 192–213.
+ 145. Trainor, J. E., Nagele, D., Philips, B., & Scott, B. (2015). Tornadoes, social science, 
+and the false alarm effect. Weather, Climate, and Society, 7(4), 333–352.
+ 146. Walters, J. E., L. R. Mason, and K. N. Ellis, K. N. 2019. “Examining patterns of 
+intended response to tornado warnings among residents of Tennessee, United States, 
+through a latent class analysis approach.” International Journal of Disaster Risk 
+Reduction, 34, 375–386.
+ 147. Walters, J. E., L. R. Mason. K. Ellis, and B. Winchester. 2020. “Staying safe in a 
+tornado: A qualitative inquiry into public knowledge, access, and response to tornado 
+warnings.” Weather and Forecasting, 35(1), 67–81.
+ 148. Wang, W. J., T. W. Haase, and C. H. Yang. 2020. “Warning message elements and 
+retweet counts: an analysis of tweets sent during Hurricane Irma.” Natural Hazards 
+Review, 21(1).1743 Natural Hazards (2023) 117:1711–1744 
+1 3
+ 149. Wehde, W., J. M. Pudlo, and S. E. Robinson. 2019. ““Is there anybody out there?”: 
+Communication of natural hazard warnings at home and away.” Social Science Quar -
+terly, 100(7), 2607–2624.
+ 150. Wei, H. L., Lindell, M. K., & Prater, C. S. 2014. ““Certain death” from storm surge: 
+a comparative study of household responses to warnings about Hurricanes Rita and 
+Ike.” Weather, Climate, and Society, 6(4), 425–433.
+ 151. Whitmer, D. E., and V. K. Sims. 2021. “Fear language in a warning is beneficial to 
+risk perception in lower-risk situations.” Human Factors, 1–18.
+ 152. Wong-Parodi, G., and I. Feygina, I. 2018. “Factors influencing (mal) adaptive responses 
+to natural disasters: The case of Hurricane Matthew.” Weather, Climate, and Society, 
+10(4), 747–768.
+ 153. Wood, M. M., D. S. Mileti, H. Bean, B. F. Liu, J. Sutton, and S. Madden. 2018. “Mill -
+ing and public warnings.” Environment and Behavior, 50(5), 535–566.
+ 154. Zhang, C., Y. Yang, and A. Mostafavi. 2021. “Revealing unfairness in social media 
+contributors’ attention to vulnerable urban areas during disasters.” International Jour -
+nal of Disaster Risk Reduction, 58, 1–13.
+ 155. Zheng, L., Y. Guo, S. Peeta, and B. Wu. 2020. “Impacts of information from various 
+sources on the evacuation decision-making process during no-notice evacuations in 
+campus environment.” Journal of Transportation Safety & Security, 12(7), 892–923.
+Author contributions All authors contributed to the study conception and design, as well as the systematic 
+literature review. Analyses of findings and implications were performed by A-A, Ph.D. and RO, Ph.D. Intro-
+duction of the manuscript was written by RE, Ph.D., methodology was written by JT, Ph.D., and all authors 
+contributed to the editing of the manuscript. All authors read and approved the final manuscript.
+Funding The authors declare that no funds, grants, or other support were received during the preparation of 
+this manuscript.
+Declarations 
+Conflict of interest The authors declare that they have no conflict of interest.
+References
+Adriaanse LS, Rensleigh C (2013) Web of science, scopus and google scholar: a content comprehensiveness 
+comparison. Electron Libr 31:727–744
+Bean H, Sutton J, Liu BF, Madden S, Wood MM, Mileti DS (2015) The study of mobile public warning 
+messages: a research review and agenda. Rev Commun 15:60–80
+Federal Emergency Management Agency (2022) Integrated public alert & warning system. https:// www. 
+fema. gov/ emerg  ency- manag  ers/ pract ition ers/ integ  rated- public- alert- warni ng- system
+Kapucu N, Özerdem A, Sadiq AA (2022) Managing emergencies and crises: global perspectives. Jones & 
+Bartlett Learning, Burlington
+Lindell MK (2020) Improving hazard map comprehension for protective action decision making. Front 
+Comput Sci 2:27
+Lindell MK, Perry RW (2004) Disaster warnings as risk communication. SAGE Publications Inc, Thousand 
+Oaks. https:// doi. org/ 10. 4135/ 97814 52229 188
+Lindell MK, Bierling D, Peacock WG, and Abuahara A (2020) Hurricane Harvey Evacuation. In: National 
+hurricane conference1744 Natural Hazards (2023) 117:1711–1744
+1 3
+Lindell MK, Prater CS, Gregg CE, Apatu EJ, Huang SK, Wu HC (2015) Households’ immediate responses 
+to the 2009 American Samoa Earthquake and Tsunami. Int J Disaster Risk Reduct 12:328–340
+Lindell MK, Sorensen JH, Baker EJ, Lehman WP (2021) Community response to hurricane threat estimates 
+of warning diffusion time distributions. Nat Hazard Rev 22:04021007
+MacPherson-Krutsky C, Brand BD, Lindell MK (2020) Does updating natural hazard maps to reflect best 
+practices increase user comprehension of risk? Int J Disaster Risk Reduct 46:101487. https:// doi. org/ 
+10. 1016/j. ijdrr. 2020. 101487
+Mileti DS, Sorensen JH (1990) Communication of emergency public warnings: a social science perspective 
+and state-of-the-art assessment. Oak Ridge National Laboratory, Oakridge
+Multon KD, Coleman JSM (2018) Inter-rater reliability. In: Frey BB (ed) SAGE encyclopedia of educa-
+tional research, measurement, and evaluation. Sage, Thousand Oaks
+National Academies of Sciences, Engineering, and Medicine (2018) Emergency alert and warning systems: 
+current knowledge and future research directions. The National Academies Press. https:// doi. org/ 10. 
+17226/ 24935
+National Weather Service (n.d.) Wireless emergency alerts: real stories. https:// www. weath er. gov/ news/ 
+130313- wea- stori es
+Norris M, Oppenheim C (2007) Comparing alternatives to the Web of Science for coverage of the social sci-
+ences’ literature. J Informetr 1:161–169
+Pei S, Dahl KA, Yamana TK, Licker R, Shaman J (2020) Compound risks of hurricane evacuation amid the 
+COVID-19 pandemic in the United States. GeoHealth 4(12):e2020GH000319
+Rogers GO, Sorensen JH (1988) Diffusion of emergency warnings. Environ Prof 10(4):185–198
+Sadiq AA, Kessa R (2020) US procurement in the age of COVID-19: challenges, intergovernmental col-
+laboration, and recommendations for improvement. Am Rev Public Adm 50:635–641
+Sadiq AA, Tyler J, Noonan DS (2019) A review of community flood risk management studies in the United 
+States. Int J Disaster Risk Reduct 41:101327
+Sorensen JH (2000) Hazard warning systems: review of 20 years of progress. Nat Hazard Rev 1(2):119–125
+Sorensen JH, Shumpert BL, Vogt BM (2004) Planning for protective action decision making: evacuate or 
+shelter-in-place. J Hazard Mater 109(1–3):1–11
+Sorensen JH, Lindell MK, Baker EJ, Lehman WP (2020) Community response to hurricane threat: esti-
+mates of warning issuance time distributions. Weather Clim Soc 12(4):837–846
+Wang H, Lindell MK, Siam MRK, Chen C, Husein R (2022) Local residents’ immediate responses to the 
+2018 Indonesia earthquake and tsunami. Earthq Spectra 38(4):2835–2865
+Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and 
+institutional affiliations.
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under 
+a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted 
+manuscript version of this article is solely governed by the terms of such publishing agreement and applicable 
+law.

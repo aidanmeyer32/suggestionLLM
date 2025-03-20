@@ -1,0 +1,62 @@
+INTRODUCTION
+In preparation for natural and man-made disasters, the states of Florida 
+and California and the City of Clarksville, Tennessee implemented mobile emergency alerts and warnings apps. These apps created a new and dynamic way for alerting authorities to overcome mass notification challenges, helping to increase awareness and provide the public with 
+the resources and information to react appropriately, potentially saving lives. 
+During Hurricane Dorian in 2019, the State of Florida leveraged a 
+mobile app to send alerts and warnings to over three million residents. Before adopting the app in 2016, Florida’s emergency alerts and warnings systems lacked the ability to geo-target residents or determine the number of characters allowed in a message. With thisEmergency alerts and warnings provide the public with information that 
+a significant event has occurred or is imminent requiring immediate attention and action(s) to take. As more people turn to their mobile devices for information, there becomes an increased need to develop innovative alerts and warnings technologies and enhanced capabilities. Through the development of new alerting systems that leverage data-based, wireless technology, such as mobile applications, alerting authorities have the potential to increase public awareness and decrease alert notification times.  
+The National Emergency Communications Plan (NECP) advocat
+es 
+for the continued integration of communication technologies, such as alerts and warnings, to support the interoperability of systems and services for information exchange among the responder and partner communities with the ultimate goal of ensuring the highest state of readiness. This spotlight examines three different mobile emergency alerts and warnings applications (apps) using cases and scenarios, demonstrating how the NECP’s recommendations promote the development and adoption of new technologies that enhance communication capabilities.
+AN IN-DEPTH LOOKnew app, Florida was able to improve capabilities, allowing them to geo-target affected regions and extend alert and warning capabilities to about one million more residents. By enhancing coordination and 
+effective use of communication resources, alerting authorities were 
+able to maximize outreach and ensure that emergency information and 
+evacuation orders reached the general public in the affected regions in a timely manner. 
+California implemented a similar app and on the 30th anniversary 
+of the Loma Prieta earthquake, which caused 63 casualties and 3,600 injuries, the governor of California revealed the state’s newest earthquake early alert system through a mobile app. The app leverages data from thousands of seismic sensors on the west coast, available through the Federal Earthquake Warning System, and sends a mobile alert to those in the geo-affected region for quakes greater than a magnitude of 4.5. Developed by the Berkeley Seismological Laboratory at the University of California (UC), Berkeley, the app would have given those struck by the Loma Prieta earthquake in 1989 a 20 second advanced warning. The app sent out its first public alert in December of 2019 to residents in the Central Coast and San Joaquin Valley, giving them an 8.7 second advanced warning of shaking for an earthquake that erupted in the mountains. In April of 2020, the City 
+of Clarksville, Tennessee also adopted a new mobile alert app. This mobile app provides the user with urgent notifications, emergency
+NECP Spotlight:
+Lever
+aging Mobile  
+Applications to Bolster 
+Emergency Alerts and Warnings
+NECP
+National Emergency Communications PlanTHE
+Issue No. 4
+cisa.gov  
+ central@cisa.dhs.gov  
+ @CISAgov  @CISACyber  
+ @cisagov  As of 2021  
+02
+NECP ALIGNMENT
+NECP Goal Objective Objective Description Real Word Example
+Goal 1: 
+Governance1.2Structure more inclusive governance 
+by expanding membership compositionThe states of Florida and California worked with the emergency alert and warning authorities in their state (i.e. California’s Governor’s Office of Emergency Services and Florida’s Department of Emergency Management) to coordinate the integration of advanced technologies that enhance their alert and warning capabilities through mobile applications.
+Goal 4: 
+Communications 
+Coordination4.2Enhance coordination and effective usage of public safety communications resources at all levels of governmentFlorida and the City of Clarksville assessed the effectiveness of their own emergency alerts and warnings systems, engaged commercial partners, and coordinated with lower level alerting authorities to evaluate existing capabilities, leading to private industry partnerships.
+Goal 5: 
+Technology and 
+Infrastructure5.1Support public safety requirements that drive research, development, testing, and evaluation of emergency communications technologyCalifornia collaborated with the Berkeley Seismological Laboratory to research, develop, test, and evaluate an early warning system for earthquakes that connects with the Wireless Emergency Alert (WEA) system in order to give more advanced warnings to California residents.
+Goal 5: 
+Technology and 
+Infrastructure5.2Ensure communications and information sharing systems meet public safety’s mission-critical needsFlorida, California, and the City of Clarksville recognized the need to enhance alerts and warnings capabilities and implemented mobile emergency alerts and warnings apps that provided alerting authorities with an alternative method for notifying the public of potential emergencies and hazards. In addition, these apps were tested and evaluated to ensure compatibility with existing WEA systems and FEMA’s IPAWS.As technology evolves, it is important for alerting authorities to assess and update their emergency alerts and warnings systems and capabilities. Mobile apps are just one of the ways to strengthen these systems and enhance emergency communications capabilities. The NECP provides recommendations to help alerting authorities identify and evolve emergency communications in light of increased new technologies  adoption and the emergence of increased threats. The following chart aligns specific NECP recommendations to real world examples carried out by the States of Florida and California and City of Clarksville.  
+RESOURCES
+The alert and warning ecosystem consists of multiple systems that alert originators can use to reach the public during emergencies. In addition 
+to mobile alert and warning apps, FEMA’s IPAWS allows mobile phone users to receive emergency alerts and, depending on the circumstances, 
+further instructions for public safety. To learn more about ensuring emergency communications interoperability and planning for the integration and 
+alignment of new technologies, like alerts and warning systems, visit: cisa.gov/necp .
+Want to share your organization’s successes and alignment to the NECP? Email us at: necp@cisa.dhs.gov 
+Additional Resources: 
+• FEMA IPAWS: fema.gov/integrated-public-alert-warning-system
+• Public Safety Communications: Ten Keys to Improving Emergency Alerts, Warnings, and Notifications : cisa.gov/publication/alerts-and-warnings
+• Alerts and Warnings Using Social Media Project : dhs.gov/publication/st-alerts-and-warnings-using-social-media-project-fact-sheet
+• Federal Earthquake Warning System: usgs.gov/natural-hazards/earthquake-hazards/shakealert/current-statusinstructions, warnings, and routine public safe
+ty information via text message, email, or voicemail. This app also closely integrated with the 
+Federal Emergency Management Agency’s (FEMA) Integrated Public Alert Warning System (IPAWS), a national tool that leverages emergency 
+communications channels from across the U.S. and filters the content to provide area-specific alerts during an emergency. Local administrators can use the app to manage the alert content and frequency sent out to the citizens. Recently, the app provided Tennessee citizens with ongoing protective measures and public health tips during the coronavirus disease of 2019 (COVID-19) pandemic. AN IN-DEPTH LOOK CONTINUED
+cisa.gov  
+ central@cisa.dhs.gov  
+ @CISAgov  @CISACyber  
+ @cisagov  As of 2021  
