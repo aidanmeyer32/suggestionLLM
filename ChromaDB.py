@@ -3,7 +3,7 @@ import openai
 from chromadb import PersistentClient
 
 # === CONFIG ===
-openai.api_key = "API KEY"  # Replace this with your actual key
+openai.api_key = ""  # Replace this with your actual key
 embedding_file = "fcc_embedding_payloads_rich_sourced.jsonl"
 persist_path = "./chroma_fcc_storage"
 collection_name = "fcc_documents"
