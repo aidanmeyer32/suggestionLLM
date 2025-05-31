@@ -7,7 +7,7 @@ import time
 load_dotenv()
 
 # Initialize the OpenAI client
-client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
+client = OpenAI(api_key=os.getenv(openai_api_key))
 
 # Create fine-tuning job
 response = client.fine_tuning.jobs.create(
