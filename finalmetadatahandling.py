@@ -8,7 +8,7 @@ import chromadb
 from chromadb.config import Settings
 
 
-client = OpenAI(api_key="")
+client = OpenAI(api_key=openai_api_key)
 
 # === Constants ===
 PDF_FOLDER = "pdfs"
