@@ -2,7 +2,7 @@ import json
 from pinecone import Pinecone, ServerlessSpec
 
 # === CONFIG ===
-api_key = ""           # 🔐 Replace this
+api_key =          # 🔐 Replace this
 env_region = "gcp-starter"                  # 🔐 Replace with your region
 index_name = "fcc-chatbot-index"
 
